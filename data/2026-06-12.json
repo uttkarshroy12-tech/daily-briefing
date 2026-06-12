@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T01:30:00Z",
+  "total_articles": 6,
+  "categories": {
+    "India Business": [
+      {
+        "title": "RBI holds repo rate at 6.5% for third consecutive meeting",
+        "summary": "The Reserve Bank of India's Monetary Policy Committee unanimously voted to maintain the repo rate at 6.5%, citing persistent inflationary pressures above the 4% target. Governor Shaktikanta Das signaled a cautious stance, noting global uncertainty from US Fed policy as a key factor.",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com",
+        "published": "2026-06-12T08:14:00Z"
+      },
+      {
+        "title": "Tata Motors EV sales cross 10,000 units in May, up 38% YoY",
+        "summary": "Tata Motors reported record electric vehicle sales in May, driven by strong demand for the Nexon EV and Punch EV in Tier-1 and Tier-2 cities. The company now commands over 62% of India's EV passenger vehicle market, well ahead of nearest competitor MG Motor.",
+        "source": "Business Standard",
+        "link": "https://www.business-standard.com",
+        "published": "2026-06-12T09:30:00Z"
+      }
+    ],
+    "Startups & VC": [
+      {
+        "title": "Zepto raises $350M Series F at $5B valuation ahead of IPO",
+        "summary": "Quick-commerce startup Zepto closed a $350 million funding round led by General Atlantic and StepStone, pushing its valuation to $5 billion. The funds will accelerate dark store expansion in 20 new cities and build out its private label grocery business before a planned 2026 IPO.",
+        "source": "Inc42",
+        "link": "https://inc42.com",
+        "published": "2026-06-12T10:00:00Z"
+      }
+    ],
+    "Government & Policy": [
+      {
+        "title": "Finance Ministry proposes PLI scheme extension for electronics manufacturing",
+        "summary": "The Ministry of Finance has circulated a proposal to extend the Production-Linked Incentive scheme for electronics manufacturing by three years, covering smartphones, laptops, and components. The move aims to attract an additional $8 billion in FDI from companies diversifying supply chains out of China.",
+        "source": "PIB",
+        "link": "https://pib.gov.in",
+        "published": "2026-06-12T07:45:00Z"
+      }
+    ],
+    "Global Markets": [
+      {
+        "title": "Fed signals one rate cut in 2026 as inflation edges toward 2.5% target",
+        "summary": "Federal Reserve Chair Jerome Powell indicated the central bank is prepared to cut rates once in 2026 if inflation continues trending toward the 2.5% mark. Markets responded positively, with the S&P 500 rising 0.8% on the guidance.",
+        "source": "Reuters Business",
+        "link": "https://www.reuters.com/business",
+        "published": "2026-06-12T14:20:00Z"
+      }
+    ],
+    "US & Global Economy": [
+      {
+        "title": "IMF raises global growth forecast to 3.4% for 2026",
+        "summary": "The International Monetary Fund upgraded its global growth projection to 3.4% for 2026, up from its January estimate of 3.1%, citing stronger-than-expected performance in the US, India, and Southeast Asia. The Fund warned that escalating trade tensions remain significant downside factors.",
+        "source": "IMF Blog",
+        "link": "https://www.imf.org/en/Blogs",
+        "published": "2026-06-12T11:00:00Z"
+      }
+    ],
+    "Macro & Research": []
+  }
+}
