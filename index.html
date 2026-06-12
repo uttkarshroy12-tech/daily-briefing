@@ -6,17 +6,20 @@
   <title>Daily Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
   <header class="site-header">
     <div class="header-inner">
-      <div class="header-meta" id="header-date"></div>
+      <div class="header-date" id="header-date"></div>
       <h1 class="header-title">Daily Brief</h1>
-      <div class="header-rule"></div>
-      <p class="header-sub">A concise overview of the most important business and market updates</p>
+      <div class="header-rule-row">
+        <div class="header-rule"></div>
+        <p class="header-sub">A concise overview of the most important business and market updates</p>
+        <div class="header-rule"></div>
+      </div>
     </div>
     <div class="tabs-outer">
       <nav class="tabs-nav" id="tabs-nav">
@@ -34,10 +37,6 @@
     <aside class="sidebar">
       <p class="sidebar-label">Sources</p>
       <ul class="source-list" id="source-list"></ul>
-      <div class="sidebar-section">
-        <p class="sidebar-label" style="margin-top:24px">Archive</p>
-        <ul class="archive-list" id="archive-list"></ul>
-      </div>
     </aside>
 
     <main class="main-content">
@@ -47,7 +46,6 @@
           <span class="refresh-icon">↻</span> Refresh
         </button>
       </div>
-      <div class="divider"></div>
       <div id="articles-container">
         <div class="loading-state"></div>
       </div>
