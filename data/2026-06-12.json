@@ -1,60 +1,543 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T01:30:00Z",
-  "total_articles": 6,
+  "generated_at": "2026-06-12T06:28:48.542123+00:00",
+  "total_articles": 75,
   "categories": {
     "India Business": [
       {
-        "title": "RBI holds repo rate at 6.5% for third consecutive meeting",
-        "summary": "The Reserve Bank of India's Monetary Policy Committee unanimously voted to maintain the repo rate at 6.5%, citing persistent inflationary pressures above the 4% target. Governor Shaktikanta Das signaled a cautious stance, noting global uncertainty from US Fed policy as a key factor.",
+        "title": "Indian ads give FIFA World Cup a red card",
+        "summary": "Indian ads give FIFA World Cup a red card",
         "source": "Economic Times",
-        "link": "https://economictimes.indiatimes.com",
-        "published": "2026-06-12T08:14:00Z"
+        "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/fifa-world-cup-marketing-spends-in-india-may-halve-as-brands-stay-away/articleshow/131667649.cms",
+        "published": "Fri, 12 Jun 2026 00:35:42 +0530"
       },
       {
-        "title": "Tata Motors EV sales cross 10,000 units in May, up 38% YoY",
-        "summary": "Tata Motors reported record electric vehicle sales in May, driven by strong demand for the Nexon EV and Punch EV in Tier-1 and Tier-2 cities. The company now commands over 62% of India's EV passenger vehicle market, well ahead of nearest competitor MG Motor.",
-        "source": "Business Standard",
-        "link": "https://www.business-standard.com",
-        "published": "2026-06-12T09:30:00Z"
+        "title": "Jaspal Rana, Indian shooting icon, dies at 49",
+        "summary": "Jaspal Rana, Indian shooting icon, dies at 49",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/sports/jaspal-rana-death-manu-bhakers-mentor-indian-shooting-stalwart-passes-away-at-49/articleshow/131673785.cms",
+        "published": "Fri, 12 Jun 2026 10:00:09 +0530"
+      },
+      {
+        "title": "Wealth Wisdom: ‘Big money is not in buying, selling'",
+        "summary": "Wealth Wisdom: ‘Big money is not in buying, selling'",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/wealth-quote-of-the-day-big-money-is-not-in-buying-and-selling-but-in-what-you-can-learn-from-charlie-mungers-advice/articleshow/131675098.cms",
+        "published": "Fri, 12 Jun 2026 11:19:04 +0530"
+      },
+      {
+        "title": "India in, Germany out: Defence deal shift begins",
+        "summary": "India in, Germany out: Defence deal shift begins",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/defence/fcas-collapse-opens-door-for-india-france-sixth-gen-fighter-jet-programme/articleshow/131667183.cms",
+        "published": "Fri, 12 Jun 2026 00:40:51 +0530"
+      },
+      {
+        "title": "Shreyas Iyer becomes tenant in Worli for Rs 18.5L/m",
+        "summary": "Shreyas Iyer becomes tenant in Worli for Rs 18.5L/m",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/real-estate/cricketer-shreyas-iyer-takes-a-luxurious-house-on-rent-in-worli-at-rs-18-5-lakh-monthly-rent-with-7-annual-escalation-check-the-rental-trend-in-mumbai/articleshow/131674688.cms",
+        "published": "Fri, 12 Jun 2026 11:08:40 +0530"
+      },
+      {
+        "title": "Air India -171 crash: A bell that rings daily with 'Kaise ho aap?' from Pakistani co-worker to his late friend's parents",
+        "summary": "On his commute to work in London, Omar Ali makes it a point to call Savdhanbhai, discussing everything from the weather and health issues to food and family life. Their conversations often revolve around ordinary moments.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/air-india-crash-a-bell-that-rings-daily-with-kaise-ho-aap-from-pakistani-co-worker-to-his-late-friends-parents-11781243985496.html",
+        "published": "Fri, 12 Jun 2026 11:52:46 +0530"
+      },
+      {
+        "title": "Quote of the day by Diego Maradona: What his famous ‘Hand of God’ quote really means",
+        "summary": "Maradona’s ‘Hand of God’ quote reflects the blend of talent, opportunity, and luck that can shape historic moments. Spoken after the 1986 World Cup quarter-final against England, it became a symbol of football’s unpredictability and Maradona’s legendary, larger-than-life personality.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/quote-of-the-day-by-diego-maradona-what-his-famous-hand-of-god-quote-really-means-11781239494846.html",
+        "published": "Fri, 12 Jun 2026 11:01:16 +0530"
+      },
+      {
+        "title": "Dalai Lama health update: How is 90-year-old Tibetan spiritual leader after medical crisis",
+        "summary": "The Dalai Lama recently underwent successful knee replacement surgery at Apollo Hospitals and was discharged on 12 June. Learn more about his recent operation here.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/dalai-lama-health-update-how-is-90-year-old-tibetan-spiritual-leader-after-medical-crisis-11781238874652.html",
+        "published": "Fri, 12 Jun 2026 10:58:16 +0530"
+      },
+      {
+        "title": "Quote of the day by Shonda Rhimes: ‘Dreams do not come true just because you dream them. It’s hard work that makes…'",
+        "summary": "Shonda Rhimes’ powerful quote explains why dreams need hard work before they become reality. Her words are a powerful lesson on hard work, action and turning ambition into reality.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/us-news/quote-of-the-day-by-shonda-rhimes-dreams-do-not-come-true-just-because-you-dream-them-it-s-hard-work-that-makes-11781238676633.html",
+        "published": "Fri, 12 Jun 2026 10:15:44 +0530"
+      },
+      {
+        "title": "In charts: foreign tourist arrivals fall 14% in April as West Asia war weighs on travel",
+        "summary": "A sharp fall in arrivals from key markets such as the US and UK pushed foreign tourist arrivals down 14% in April, highlighting the tourism sector's vulnerability to geopolitical disruptions and rising travel costs.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india-tourism-foreign-tourist-arrivals-ftas-west-asia-war-inbound-tourism-outbound-travel-uae-vietnam-11781229893280.html",
+        "published": "Fri, 12 Jun 2026 10:00:57 +0530"
+      },
+      {
+        "title": "Cancer: NPPA raises price cap on key drugs amid shortage",
+        "summary": "Patients ‌in India have been grappling with shortages of platinum-based cancer drugs cisplatin ‌and carboplatin, as hospitals, especially government-run facilities, run ‌short",
+        "source": "The Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/cancer-nppa-raises-price-cap-on-key-drugs-amid-shortage/article71092383.ece",
+        "published": "Fri, 12 Jun 2026 11:49:07 +0530"
+      },
+      {
+        "title": "Sensex today | Stock Market Live Updates: Sensex soars 812 pts, Nifty up 209 pts on weaker oil amid West Asia hopes",
+        "summary": "Sensex, Nifty, Stock Price Live Updates: Indian shares open higher on Friday, tracking gains in other Asian markets, as oil prices fell after US President Donald Trump cancelled plans to strike Iran citing progress in talks",
+        "source": "The Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-12th-june-2026/article71088866.ece",
+        "published": "Fri, 12 Jun 2026 11:41:41 +0530"
+      },
+      {
+        "title": "Over 60% chances of Super El Nino developing by winter, says US weather body",
+        "summary": "US National Weather Service says sea surface temperatures could exceed the super El Nino threshold by winter, declares El Nino’s onset",
+        "source": "The Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/economy/agri-business/over-60-chances-of-super-el-nino-developing-by-winter-says-us-weather-body/article71092268.ece",
+        "published": "Fri, 12 Jun 2026 11:12:43 +0530"
+      },
+      {
+        "title": "SEBI proposes uniform price band framework to curb price divergence in multi-listed stocks",
+        "summary": "In illiquid securities, prolonged non-trading on one exchange, combined with persistent buying interest on another, can result in substantial differences in market prices: SEBI",
+        "source": "The Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/markets/sebi-proposes-uniform-price-band-framework-to-curb-price-divergence-in-multi-listed-stocks/article71092358.ece",
+        "published": "Fri, 12 Jun 2026 11:12:37 +0530"
+      },
+      {
+        "title": "Trump threatens to seize oil hub, ends war hours later, announces peace deal by weekend",
+        "summary": "Having moved from threats to peace in a matter of hours, Trump says markets ‘like the deal’ and the Strait of Hormuz will reopen soon.",
+        "source": "The Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/world/trump-threatens-to-seize-oil-hub-ends-war-hours-later-announces-peace-deal-by-weekend/article71092297.ece",
+        "published": "Fri, 12 Jun 2026 11:02:44 +0530"
+      },
+      {
+        "title": "IndiGo, SpiceJet Shares Jump 7% In Trade - What's Fueling The Rally?",
+        "summary": "IndiGo shares advanced 3.88% intraday to Rs 4,677 apiece, while SpiceJet shares rose around 7% to Rs 12.19 per share.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/aviation-stocks-indigo-spicejet-shares-jump-7-percent-in-trade-after-global-crude-oil-prices-fall-11625952#publisher=newsstand",
+        "published": "Fri, 12 Jun 2026 10:54:31 +0530"
+      },
+      {
+        "title": "Mumbai Rains Delayed: City To Have Hot, Humid Conditions With Thunderstorm Risk; Yellow Alert In Place",
+        "summary": "Mumbai Weather Update",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/mumbai-rains-delayed-city-to-have-hot-humid-conditions-with-thunderstorm-risk-yellow-alert-in-place-11626034#publisher=newsstand",
+        "published": "Fri, 12 Jun 2026 10:46:52 +0530"
+      },
+      {
+        "title": "Who Was Jaspal Rana? Indian Shooting Legend And Manu Bhaker's Coach Passes Away At 49",
+        "summary": "He is perhaps best known in recent times as the man behind the rise of Manu Bhaker.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/sports/who-was-jaspal-rana-indian-shooting-manu-bhaker-s-coach-coach-passes-away-at-49-11625915#publisher=newsstand",
+        "published": "Fri, 12 Jun 2026 10:46:31 +0530"
+      },
+      {
+        "title": "Rebels vs Mamata Banerjee: 19 TMC MPs Including Sayoni Ghosh Send Signed Letter To Speaker",
+        "summary": "Among the rebels' major complaints are allegations Mamata Banerjee has lost touch with ground realities.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/mamata-banerjee-vs-rebels-19-tmc-mps-including-sayoni-ghosh-send-signed-letter-to-speaker-11625844#publisher=newsstand",
+        "published": "Fri, 12 Jun 2026 10:42:54 +0530"
+      },
+      {
+        "title": "India, Israel Likely To Resume FTA Negotiations After July: Sources",
+        "summary": "The next phase of face-to-face negotiations was initially intended to take place earlier, but the ongoing conflict in West Asia altered the timeline, pushing the high-level meeting to later this summer.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/economy/india-israel-trade-deal-india-israel-likely-to-resume-fta-negotiations-after-july-11626017#publisher=newsstand",
+        "published": "Fri, 12 Jun 2026 10:41:46 +0530"
       }
     ],
     "Startups & VC": [
       {
-        "title": "Zepto raises $350M Series F at $5B valuation ahead of IPO",
-        "summary": "Quick-commerce startup Zepto closed a $350 million funding round led by General Atlantic and StepStone, pushing its valuation to $5 billion. The funds will accelerate dark store expansion in 20 new cities and build out its private label grocery business before a planned 2026 IPO.",
+        "title": "Rekise Marine Bags $9.7 Mn To Build Autonomous Underwater Vessels",
+        "summary": "Marine robotics startup Rekise Marine has raised $9.7 Mn (₹92.5 Cr) in a seed funding round led by Accel and…",
         "source": "Inc42",
-        "link": "https://inc42.com",
-        "published": "2026-06-12T10:00:00Z"
-      }
-    ],
-    "Government & Policy": [
+        "link": "https://inc42.com/buzz/rekise-marine-bags-9-7-mn-to-build-autonomous-underwater-vessels/",
+        "published": "Fri, 12 Jun 2026 06:16:39 +0000"
+      },
       {
-        "title": "Finance Ministry proposes PLI scheme extension for electronics manufacturing",
-        "summary": "The Ministry of Finance has circulated a proposal to extend the Production-Linked Incentive scheme for electronics manufacturing by three years, covering smartphones, laptops, and components. The move aims to attract an additional $8 billion in FDI from companies diversifying supply chains out of China.",
-        "source": "PIB",
-        "link": "https://pib.gov.in",
-        "published": "2026-06-12T07:45:00Z"
+        "title": "Exclusive: Mad Over Buildings To Raise ₹30 Cr To Enter New Cities",
+        "summary": "Bengaluru-based construction and interior materials marketplace Mad Over Buildings (MOB) has signed a term sheet to raise ₹30 Cr (about…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/exclusive-mad-over-buildings-to-raise-%e2%82%b930-cr-to-enter-new-cities/",
+        "published": "Fri, 12 Jun 2026 05:30:55 +0000"
+      },
+      {
+        "title": "Stake Sale At Lenskart, Ethereal Bags $28 Mn & More",
+        "summary": "ADIA Sheds Lenskart Stake Investors are booking profits after the expiration of the IPO lock-in period for Lenskart shares. Abu…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/stake-sale-at-lenskart-ethereal-bags-28-mn-more/",
+        "published": "Fri, 12 Jun 2026 02:30:20 +0000"
+      },
+      {
+        "title": "After SoftBank, ADIA Offloads Lenskart Shares Worth ₹1,960 Cr",
+        "summary": "Lenskart’s backer Abu Dhabi Investment Authority (ADIA) today offloaded 4 Cr shares in a block deal worth ₹1,960 Cr.  As…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/after-softbank-adia-offloads-lenskart-shares-worth-%e2%82%b91960-cr/",
+        "published": "Thu, 11 Jun 2026 13:46:02 +0000"
+      },
+      {
+        "title": "IN-SPACe Funds Three Spacetech Startups Under Technology Adoption Fund",
+        "summary": "The Indian National Space Promotion and Authorisation Centre (IN-SPACe) has picked the first set of three Indian spacetech startups for…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/in-space-funds-three-spacetech-startups-under-technology-adoption-fund/",
+        "published": "Thu, 11 Jun 2026 08:49:26 +0000"
       }
     ],
+    "Government & Policy": [],
     "Global Markets": [
       {
-        "title": "Fed signals one rate cut in 2026 as inflation edges toward 2.5% target",
-        "summary": "Federal Reserve Chair Jerome Powell indicated the central bank is prepared to cut rates once in 2026 if inflation continues trending toward the 2.5% mark. Markets responded positively, with the S&P 500 rising 0.8% on the guidance.",
-        "source": "Reuters Business",
-        "link": "https://www.reuters.com/business",
-        "published": "2026-06-12T14:20:00Z"
+        "title": "UK economy shrank by 0.1% in April",
+        "summary": "The contraction comes after the economy saw stronger than expected growth in March.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 12 Jun 2026 06:14:43 GMT"
+      },
+      {
+        "title": "Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch",
+        "summary": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 11 Jun 2026 23:30:52 GMT"
+      },
+      {
+        "title": "Why the economics make this the craziest World Cup ever",
+        "summary": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 11 Jun 2026 23:07:52 GMT"
+      },
+      {
+        "title": "My friends always want to split the bill equally, how do I say no?",
+        "summary": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
+        "source": "BBC Business",
+        "link": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 11 Jun 2026 23:00:29 GMT"
+      },
+      {
+        "title": "Ryanair investigated over charging parents to sit with children",
+        "summary": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 11 Jun 2026 16:58:39 GMT"
+      },
+      {
+        "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
+        "summary": "The Nasdaq 100 could imminently include SpaceX, but first it’s getting a shakeup that will usher in another space-technology company and four flashy AI plays.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
+        "published": "Fri, 12 Jun 2026 01:56:00 GMT"
+      },
+      {
+        "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
+        "summary": "“I plan to continue working until age 60.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+        "published": "Fri, 12 Jun 2026 00:00:00 GMT"
+      },
+      {
+        "title": "I’m 60, retired with $3 million. My fiancée, 55, only has $1 million and plans to keep working. Are we compatible?",
+        "summary": "“Although she is quite frugal, she has not been particularly diligent with investing.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/im-60-retired-with-3-million-my-fiancee-55-has-1-million-but-plans-to-work-for-the-next-10-years-are-we-compatible-2ee04cf9?mod=mw_rss_topstories",
+        "published": "Thu, 11 Jun 2026 23:46:00 GMT"
+      },
+      {
+        "title": "Social Security insolvency is ‘entirely solvable,’ says commissioner under Biden",
+        "summary": "The solution is simple — but it won’t be easy.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
+        "published": "Thu, 11 Jun 2026 23:46:00 GMT"
+      },
+      {
+        "title": "My golf buddy worked as a financial adviser. Here’s how I knew his friendship was fake.",
+        "summary": "“He always mentioned how popular I was.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/my-golf-buddy-worked-as-a-financial-adviser-heres-how-i-really-knew-his-friendship-was-fake-9e5695d5?mod=mw_rss_topstories",
+        "published": "Thu, 11 Jun 2026 23:30:00 GMT"
+      },
+      {
+        "title": "Elections advertising spend for 2026 expected to reach record high, outpacing presidential years",
+        "summary": "High-profile 2026 midterm races in California, Texas and other key states are driving higher spend earlier in the cycle, AdImpact found.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/11/2026-elections-ad-spend-adimpact.html",
+        "published": "Thu, 11 Jun 2026 16:00:01 GMT"
+      },
+      {
+        "title": "SpaceX soon-to-be millionaires are set to spend big on luxury homes, watches and private jet travel",
+        "summary": "SpaceX employees have to wait to sell their shares, but many are already planning how to spend their windfalls.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html",
+        "published": "Thu, 11 Jun 2026 14:17:18 GMT"
+      },
+      {
+        "title": "Beyond SpaceX: Here's where family offices see buying opportunities in the space economy",
+        "summary": "Personal investment firms of the ultra-rich are interested in space startups even without Elon Musk's name attached.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/11/spacex-billionaire-investing.html",
+        "published": "Thu, 11 Jun 2026 14:17:04 GMT"
+      },
+      {
+        "title": "World Cup travel boost hasn't materialized for U.S. businesses — yet",
+        "summary": "The expected travel boom from the World Cup is looking like it will be a city-by-city, match-by-match test of pricing power.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/10/world-cup-travel.html",
+        "published": "Thu, 11 Jun 2026 18:24:12 GMT"
+      },
+      {
+        "title": "How pandemic car shortages are still making new and used cars expensive",
+        "summary": "Pandemic-era shortages are still pushing up used car prices, and automakers learned lessons from that time that stands to keep supply tight",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/10/car-prices-shortages.html",
+        "published": "Wed, 10 Jun 2026 15:54:52 GMT"
       }
     ],
     "US & Global Economy": [
       {
-        "title": "IMF raises global growth forecast to 3.4% for 2026",
-        "summary": "The International Monetary Fund upgraded its global growth projection to 3.4% for 2026, up from its January estimate of 3.1%, citing stronger-than-expected performance in the US, India, and Southeast Asia. The Fund warned that escalating trade tensions remain significant downside factors.",
-        "source": "IMF Blog",
-        "link": "https://www.imf.org/en/Blogs",
-        "published": "2026-06-12T11:00:00Z"
+        "title": "Trump says Europe freeloads on defense. Britain’s own (former) Defense Secretary just agreed",
+        "summary": "Joihn Healey was working on a plan to reopen the Strait of Hormuz. He quit three days after seeing the spending budget.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/11/healey-resignation-hormuz-uk-defense-treasury-gap/",
+        "published": "Fri, 12 Jun 2026 01:54:35 +0000"
+      },
+      {
+        "title": "As SpaceX goes public, a $100 billion shadow market faces a reckoning",
+        "summary": "SpaceX’s public debut could kick off months (or even years) of reckoning in the venture secondaries market, the pre-IPO Wild West.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/11/as-spacex-goes-public-a-100-billion-shadow-market-faces-a-reckoning/",
+        "published": "Thu, 11 Jun 2026 17:26:04 +0000"
+      },
+      {
+        "title": "Why is it so hard to get ROI from AI? Because building from first principles isn’t easy",
+        "summary": "At Fortune Brainstorm Tech, executives said that finding value from AI starts with strategy and continues with process reinvention.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/11/roi-from-ai-requires-first-principles-thinking-eye-on-ai-execs-say-brainstorm-tech/",
+        "published": "Thu, 11 Jun 2026 23:18:47 +0000"
+      },
+      {
+        "title": "‘Oh God, no! Not another thing’: What Anthropic’s Mythos-class Fable 5 means for CEOs trying to govern AI",
+        "summary": "Also: All the news and watercooler chat from Fortune.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/11/anthropic-mythos-fable-5-ceos-govern-ai/",
+        "published": "Thu, 11 Jun 2026 09:27:52 +0000"
+      },
+      {
+        "title": "SpaceX lowballed its bankers on fees. Goldman Sachs has another way to win big",
+        "summary": "The real money comes after the opening bell.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/11/spacex-bankers-goldman-sachs-ipo/",
+        "published": "Thu, 11 Jun 2026 22:19:27 +0000"
+      },
+      {
+        "title": "The best trips to take as soon as you retire",
+        "summary": "From Ireland's Ring of Kerry and ancestry research to a luxury train through the Canadian Rockies, the best trips to finally take when you retire",
+        "source": "Quartz",
+        "link": "https://qz.com/best-trips-take-retire",
+        "published": "Thu, 11 Jun 2026 20:53:32 GMT"
+      },
+      {
+        "title": "Phoenix Financial founder Suzanne Porske on oil market impact of Iran conflict",
+        "summary": "Phoenix Financial founder Suzanne Porske on oil market impact of Iran conflict",
+        "source": "Quartz",
+        "link": "https://qz.com/phoenix-financial-founder-on-oil-market-impact-of-iran-conflict",
+        "published": "Thu, 11 Jun 2026 20:50:10 GMT"
+      },
+      {
+        "title": "WhiteHawk Minerals CEO Daniel Herz discusses firm's trading debut on NYSE",
+        "summary": "WhiteHawk Minerals CEO Daniel Herz discusses the firm's trading debut on NYSE",
+        "source": "Quartz",
+        "link": "https://qz.com/whitehawk-minerals-ceo-on-firm-trading-debut-nyse",
+        "published": "Thu, 11 Jun 2026 20:40:12 GMT"
+      },
+      {
+        "title": "All-In Podcast host Jason Calacanis overviews Liquidity Summit in Napa Valley",
+        "summary": "All-In Podcast host Jason Calacanis overviews Liquidity Summit in Napa Valley",
+        "source": "Quartz",
+        "link": "https://qz.com/all-in-podcast-host-liquidity-summit-napa-valley",
+        "published": "Thu, 11 Jun 2026 20:40:08 GMT"
+      },
+      {
+        "title": "Aikido Security exec discusses keeping pace with warp-speed software development",
+        "summary": "Aikido Security exec Mike Wilkes discusses keeping pace with warp-speed software development",
+        "source": "Quartz",
+        "link": "https://qz.com/aikido-security-exec-on-keeping-pace-with-warp-speed-software-development",
+        "published": "Thu, 11 Jun 2026 20:30:10 GMT"
+      },
+      {
+        "title": "Trump claims US and Iran on verge of signing peace agreement, but Tehran says no final decision made",
+        "summary": "Iranian leadership has not confirmed claim, after the US president announced that planned strikes on Iran had been cancelled  Donald Trump claimed on Thursday that Washington and Tehran were on the verge of signing a peace agreement, and announced that he was cancelling fresh missile strikes, after ",
+        "source": "The Guardian Business",
+        "link": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
+        "published": "Fri, 12 Jun 2026 00:57:39 GMT"
+      },
+      {
+        "title": "SpaceX heads for record $1.78tn float amid fears it is overvalued",
+        "summary": "Analysts say IPO that could make Elon Musk the world’s first trillionaire has  a ‘major disconnect’ on price  Elon Musk’s SpaceX is set to launch  the biggest stock market float in history  amid warnings that it may be overvalued. The space exploration, satellite broadband and AI company will join t",
+        "source": "The Guardian Business",
+        "link": "https://www.theguardian.com/science/2026/jun/11/spacex-record-178tn-float-fears-overvalued-elon-musk-ipo",
+        "published": "Thu, 11 Jun 2026 15:33:49 GMT"
+      },
+      {
+        "title": "AI wealth boom sending San Francisco home prices surging: ‘It’s ridiculous’",
+        "summary": "Employees at artificial intelligence companies are coming into gargantuan sums of money amid boom in IPOs Home prices in the San Francisco Bay Area’s already  expensive  market are skyrocketing as employees at leading artificial intelligence companies come into gargantuan sums of money thanks to a b",
+        "source": "The Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices",
+        "published": "Thu, 11 Jun 2026 14:00:17 GMT"
+      },
+      {
+        "title": "Trump says ‘I love the inflation’ as rate rises to 4.2% amid Iran war pressure",
+        "summary": "Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy prices Donald Trump  said “I love the inflation” after new data showed that  inflation  jumped to an annual rate of 4.2% in May, the third consecutive monthly increase since the start of the",
+        "source": "The Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
+        "published": "Wed, 10 Jun 2026 17:37:06 GMT"
+      },
+      {
+        "title": "China’s BYD aims to be world’s biggest car firm within five years",
+        "summary": "EV maker aims to overtake Toyota, as it plans to spend £1.8bn to build five-minute flash chargers in Europe Business live – latest updates The Chinese car company BYD has said it aims to be the world’s biggest automaker within the next five years. Targeting Toyota’s long-held top spot, BYD’s founder",
+        "source": "The Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/jun/10/china-byd-car-firm-ev-maker-toyota",
+        "published": "Wed, 10 Jun 2026 09:59:19 GMT"
+      },
+      {
+        "title": "What's in the Iran deal Trump says he's ready to sign",
+        "summary": "The U.S.-Iran memorandum of understanding President  Trump claims  will soon be signed calls for   the Strait of Hormuz to reopen immediately without tolls and for  Iran  to receive sanctions relief based on compliance, according to a diplomat from one of the mediating countries and a U.S. official.",
+        "source": "Axios Business",
+        "link": "https://www.axios.com/2026/06/12/iran-deal-mou-strait-open-sanctions-relief",
+        "published": "Fri, 12 Jun 2026 03:20:20 +0000"
+      },
+      {
+        "title": "Kennedy Center board to appeal judge's order to remove Trump's name",
+        "summary": "The Kennedy Center plans to appeal  a judge's order  requiring President Trump's name to be removed from the performing arts center, according to multiple reports. Why it matters:  An appeal could extend the controversy over Trump's name and the future of the famed center. Driving the news:  The boa",
+        "source": "Axios Business",
+        "link": "https://www.axios.com/2026/06/11/kennedy-center-trump-name-ruling-appeal",
+        "published": "Fri, 12 Jun 2026 00:15:16 +0000"
+      },
+      {
+        "title": "Hispanic Caucus spending \"heavily\" to save its chair from Mamdani-backed challenger",
+        "summary": "The political arm of the Congressional Hispanic Caucus is quietly putting massive sums into helping the group's chair, Rep.  Adriano Espaillat  (D-N.Y.), win his primary, Axios has learned. Why it matters:  The spending signals how much peril Espaillat's allies think he is facing from democratic soc",
+        "source": "Axios Business",
+        "link": "https://www.axios.com/2026/06/11/espaillat-darializa-chevalier-new-york-hispanic",
+        "published": "Thu, 11 Jun 2026 23:27:03 +0000"
+      },
+      {
+        "title": "Trump claims Iran deal reached, Tehran says no \"final decision\"",
+        "summary": "President Trump announced that he canceled  planned strikes  against Iran on Thursday and claimed  Iran's  leadership \"approved\" a draft agreement that would extend the ceasefire, reopen the Strait of Hormuz and launch 60 days of negotiations on Iran's nuclear program.  Why it matters:   Trump  has ",
+        "source": "Axios Business",
+        "link": "https://www.axios.com/2026/06/11/trump-cancel-iran-strikes-deal-strait",
+        "published": "Thu, 11 Jun 2026 20:43:44 +0000"
+      },
+      {
+        "title": "SpaceX raises $75 billion in its IPO",
+        "summary": "SpaceX on Thursday night raised $75 billion in its IPO, valuing Elon Musk's company at around $1.77 trillion.  Why it matters:  This is the largest U.S. IPO ever, at least until Anthropic and OpenAI go public later this year, and makes SpaceX one of the world's most valuable companies. Zoom in:  Spa",
+        "source": "Axios Business",
+        "link": "https://www.axios.com/2026/06/11/spacex-ipo-prices-75-billion",
+        "published": "Thu, 11 Jun 2026 19:59:58 +0000"
+      },
+      {
+        "title": "Spike Lee says there's one Oscar he'd trade 'in a second' for a Knicks championship",
+        "summary": "Filmmaker Spike Lee has held New York Knicks season tickets since 1985.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/spike-lee-trade-oscar-for-new-york-knicks-nba-championship-2026-6",
+        "published": "2026-06-12T04:05:05Z"
+      },
+      {
+        "title": "Your new car is getting harder and more expensive to fix. This bill could help.",
+        "summary": "The REPAIR Act would require automakers to give independent repair shops the data needed to fix increasingly complex cars.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/right-to-repair-act-modern-car-independent-auto-repair-shops-2026-6",
+        "published": "2026-06-12T04:02:01Z"
+      },
+      {
+        "title": "I won salesperson of the year, then used FIRE to walk away — and move to Argentina",
+        "summary": "Justin Heiter left his successful sales career in Washington for a new life in Buenos Aires, focusing on writing and financial independence.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/quit-sales-job-moved-buenos-aires-argentina-fire-saving-independence-2026-6",
+        "published": "2026-06-12T00:14:02Z"
+      },
+      {
+        "title": "A new tool is here to tell you whether your latest pop obsession is made by AI",
+        "summary": "Deezer launched a tool to detect AI-generated tracks in playlists from streaming services like Spotify and Apple Music to promote transparency.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/deezer-built-ai-music-detector-spotify-apple-youtube-streaming-platforms-2026-6",
+        "published": "2026-06-11T22:38:12Z"
+      },
+      {
+        "title": "We talked to the comedians behind the viral fake AI ads on the subway",
+        "summary": "A video showcasing Harris Alterman and Dave Ross's fake tech ads went viral, racking up millions of views.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/comics-share-story-behind-fake-ai-ads-on-subway-2026-6",
+        "published": "2026-06-11T22:12:26Z"
       }
     ],
-    "Macro & Research": []
+    "Macro & Research": [
+      {
+        "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+        "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+        "published": "Thu, 11 Jun 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+        "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+        "published": "Tue, 9 Jun 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Agencies remove additional references to reputation risk",
+        "summary": "Agencies remove additional references to reputation risk",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
+        "published": "Tue, 2 Jun 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
+        "summary": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
+        "published": "Thu, 28 May 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
+        "summary": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
+        "published": "Tue, 26 May 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+        "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~372040d313.en.html",
+        "published": "Thu, 11 Jun 2026 15:00:00 +0200"
+      },
+      {
+        "title": "Monetary policy decisions",
+        "summary": "Monetary policy decisions",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
+        "published": "Thu, 11 Jun 2026 14:15:00 +0200"
+      },
+      {
+        "title": "Frank Elderson: Interview with Het Financieele Dagblad",
+        "summary": "Frank Elderson: Interview with Het Financieele Dagblad",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260610~439aa97519.en.html",
+        "published": "Wed, 10 Jun 2026 16:00:00 +0200"
+      },
+      {
+        "title": "ECB announces main milestones for roll-out of Integrated Reporting Framework",
+        "summary": "ECB announces main milestones for roll-out of Integrated Reporting Framework",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
+        "published": "Mon, 08 Jun 2026 10:00:00 +0200"
+      },
+      {
+        "title": "Christine Lagarde: Women and leadership: widening the pipeline",
+        "summary": "Christine Lagarde: Women and leadership: widening the pipeline",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260604~f5d373b29f.en.html",
+        "published": "Thu, 04 Jun 2026 10:00:00 +0200"
+      }
+    ]
   }
 }
