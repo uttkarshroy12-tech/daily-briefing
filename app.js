@@ -1,44 +1,71 @@
+// ── Daily Brief · app.js ──
+
 const CATEGORIES = [
-  "India Business",
-  "Startups & VC",
-  "Government & Policy",
-  "Global Markets",
-  "US & Global Economy",
-  "Macro & Research",
+  "India Macro & Policy",
+  "India Markets & Corporate",
+  "India Startups & VC",
+  "Global Macro & Central Banks",
+  "Global Markets & Business",
+  "Strategy & Deep Analysis",
 ];
 
-const SOURCES = [
-  { name: "Economic Times", url: "https://economictimes.indiatimes.com" },
-  { name: "Business Standard", url: "https://www.business-standard.com" },
-  { name: "Mint", url: "https://www.livemint.com" },
-  { name: "Financial Express", url: "https://www.financialexpress.com" },
-  { name: "The Hindu BusinessLine", url: "https://www.thehindubusinessline.com" },
-  { name: "NDTV Profit", url: "https://www.ndtvprofit.com" },
-  { name: "MoneyControl", url: "https://www.moneycontrol.com" },
-  { name: "Inc42", url: "https://inc42.com" },
-  { name: "Entrackr", url: "https://entrackr.com" },
-  { name: "Outlook Business", url: "https://www.outlookbusiness.com" },
-  { name: "PIB", url: "https://pib.gov.in" },
-  { name: "RBI", url: "https://www.rbi.org.in" },
-  { name: "Reuters Business", url: "https://www.reuters.com/business" },
-  { name: "BBC Business", url: "https://www.bbc.com/business" },
-  { name: "MarketWatch", url: "https://www.marketwatch.com" },
-  { name: "CNBC", url: "https://www.cnbc.com" },
-  { name: "AP Business", url: "https://apnews.com/business" },
-  { name: "Fortune", url: "https://fortune.com" },
-  { name: "Quartz", url: "https://qz.com" },
-  { name: "The Guardian Business", url: "https://www.theguardian.com/business" },
-  { name: "Axios Business", url: "https://www.axios.com" },
-  { name: "Business Insider", url: "https://www.businessinsider.com" },
-  { name: "IMF Blog", url: "https://www.imf.org/en/Blogs" },
-  { name: "World Bank Blogs", url: "https://blogs.worldbank.org" },
-  { name: "Federal Reserve", url: "https://www.federalreserve.gov" },
-  { name: "ECB", url: "https://www.ecb.europa.eu" },
-];
+const SOURCES_BY_CAT = {
+  "India Macro & Policy": [
+    { name: "RBI Press Releases",  url: "https://rbi.org.in" },
+    { name: "PIB",                 url: "https://pib.gov.in" },
+    { name: "Ministry of Finance", url: "https://finmin.nic.in" },
+    { name: "MOSPI",               url: "https://mospi.gov.in" },
+    { name: "SEBI",                url: "https://sebi.gov.in" },
+    { name: "Financial Express",   url: "https://financialexpress.com" },
+    { name: "Business Standard",   url: "https://business-standard.com" },
+  ],
+  "India Markets & Corporate": [
+    { name: "Economic Times",      url: "https://economictimes.com" },
+    { name: "Mint",                url: "https://livemint.com" },
+    { name: "MoneyControl",        url: "https://moneycontrol.com" },
+    { name: "NDTV Profit",         url: "https://ndtvprofit.com" },
+    { name: "Hindu BusinessLine",  url: "https://thehindubusinessline.com" },
+  ],
+  "India Startups & VC": [
+    { name: "Inc42",               url: "https://inc42.com" },
+    { name: "Entrackr",            url: "https://entrackr.com" },
+    { name: "VCCircle",            url: "https://vccircle.com" },
+    { name: "Outlook Business",    url: "https://outlookbusiness.com" },
+  ],
+  "Global Macro & Central Banks": [
+    { name: "IMF Blog",            url: "https://imf.org/en/Blogs" },
+    { name: "World Bank Blogs",    url: "https://blogs.worldbank.org" },
+    { name: "Federal Reserve",     url: "https://federalreserve.gov" },
+    { name: "ECB",                 url: "https://ecb.europa.eu" },
+    { name: "BIS Papers",          url: "https://bis.org" },
+    { name: "OECD Observer",       url: "https://oecd.org" },
+    { name: "Project Syndicate",   url: "https://project-syndicate.org" },
+  ],
+  "Global Markets & Business": [
+    { name: "Reuters",             url: "https://reuters.com" },
+    { name: "BBC Business",        url: "https://bbc.com/business" },
+    { name: "CNBC",                url: "https://cnbc.com" },
+    { name: "MarketWatch",         url: "https://marketwatch.com" },
+    { name: "AP Business",         url: "https://apnews.com/business" },
+    { name: "Fortune",             url: "https://fortune.com" },
+    { name: "Guardian Business",   url: "https://theguardian.com/business" },
+    { name: "Axios",               url: "https://axios.com" },
+    { name: "Business Insider",    url: "https://businessinsider.com" },
+  ],
+  "Strategy & Deep Analysis": [
+    { name: "Bloomberg",           url: "https://bloomberg.com" },
+    { name: "Financial Times",     url: "https://ft.com" },
+    { name: "The Economist",       url: "https://economist.com" },
+    { name: "Wall Street Journal", url: "https://wsj.com" },
+    { name: "Quartz",              url: "https://qz.com" },
+  ],
+};
 
 let currentData = null;
-let activeCategory = "All";
+let activeCategory = CATEGORIES[0];
+let activeDate = null;
 
+// ── Helpers ──
 function today() {
   return new Date().toISOString().slice(0, 10);
 }
@@ -62,18 +89,45 @@ function formatTime(isoStr) {
   } catch { return ""; }
 }
 
-function updateHeader(data) {
-  document.getElementById("header-date").textContent = formatDisplayDate(data.date).toUpperCase();
-  document.getElementById("header-count").textContent = `${data.total_articles} stories`;
+function escapeHtml(str) {
+  if (!str) return "";
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
 }
 
-function buildSourceList() {
+// ── Header ──
+function updateHeader(data) {
+  document.getElementById("header-date").textContent =
+    formatDisplayDate(data.date).toUpperCase();
+}
+
+// ── Tabs ──
+function initTabs() {
+  document.getElementById("tabs-nav").addEventListener("click", e => {
+    const btn = e.target.closest(".tab");
+    if (!btn) return;
+    activeCategory = btn.dataset.cat;
+    document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+    btn.classList.add("active");
+    renderSidebar();
+    renderArticles();
+  });
+}
+
+// ── Sidebar sources ──
+function renderSidebar() {
   const ul = document.getElementById("source-list");
-  ul.innerHTML = SOURCES.map(s =>
+  const sources = SOURCES_BY_CAT[activeCategory] || [];
+  ul.innerHTML = sources.map(s =>
     `<li><a href="${s.url}" target="_blank" rel="noopener">${s.name} ↗</a></li>`
   ).join("");
 }
 
+// ── Archive ──
 async function buildArchive() {
   const ul = document.getElementById("archive-list");
   const td = today();
@@ -109,78 +163,42 @@ function setActiveArchiveDate(date) {
   });
 }
 
-function buildCategoryNav(data) {
-  const ul = document.getElementById("category-nav");
-  const items = [{ name: "All", count: data.total_articles }, ...CATEGORIES.map(cat => ({
-    name: cat, count: (data.categories[cat] || []).length,
-  }))];
-  ul.innerHTML = items.map(item =>
-    `<li><button onclick="setCategory('${item.name}')" data-cat="${item.name}" class="${activeCategory === item.name ? 'active' : ''}">
-      ${item.name}
-      <span style="float:right;font-size:10px;opacity:0.5">${item.count}</span>
-    </button></li>`
-  ).join("");
-}
-
-function setCategory(cat) {
-  activeCategory = cat;
-  document.querySelectorAll("#category-nav button").forEach(btn => {
-    btn.classList.toggle("active", btn.dataset.cat === cat);
-  });
-  renderArticles();
-}
-
-function escapeHtml(str) {
-  if (!str) return "";
-  return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
-}
-
+// ── Articles ──
 function renderArticles() {
   if (!currentData) return;
   const container = document.getElementById("articles-container");
   const title = document.getElementById("active-category-title");
-  const meta = document.getElementById("content-meta");
-  let articles = [];
-  if (activeCategory === "All") {
-    title.textContent = "All Stories";
-    CATEGORIES.forEach(cat => articles.push({ cat, items: currentData.categories[cat] || [] }));
-  } else {
-    title.textContent = activeCategory;
-    articles = [{ cat: activeCategory, items: currentData.categories[activeCategory] || [] }];
-  }
-  const totalShown = articles.reduce((sum, a) => sum + a.items.length, 0);
-  meta.textContent = `${totalShown} developments · Updated ${formatDisplayDate(currentData.date)} · ${currentData.date}`;
-  if (totalShown === 0) {
-    container.innerHTML = `<div class="empty-state">No stories found for this category today.</div>`;
+
+  title.textContent = activeCategory;
+
+  const articles = currentData.categories[activeCategory] || [];
+
+  if (articles.length === 0) {
+    container.innerHTML = `<div class="empty-state">No stories in this category today. Check back after 7 AM IST.</div>`;
     return;
   }
-  let html = "";
-  articles.forEach(({ cat, items }) => {
-    if (items.length === 0) return;
-    if (activeCategory === "All") html += `<div class="category-section-header">${cat}</div>`;
-    items.forEach(article => {
-      const time = formatTime(article.published);
-      html += `
-        <div class="article-card">
-          <div class="article-top">
-            <a class="article-title" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a>
-          </div>
-          <p class="article-summary">${escapeHtml(article.summary)}</p>
-          <div class="article-footer">
-            <div class="article-sources">
-              <a class="source-tag" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">
-                ${escapeHtml(article.source)} <span class="source-tag-arrow">↗</span>
-              </a>
-            </div>
-            ${time ? `<span class="article-time">${time}</span>` : ""}
-          </div>
-        </div>`;
-    });
-  });
-  container.innerHTML = html;
+
+  container.innerHTML = articles.map(article => {
+    const time = formatTime(article.published);
+    return `
+      <div class="article-card">
+        <a class="article-title" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">
+          ${escapeHtml(article.title)}
+        </a>
+        <p class="article-summary">${escapeHtml(article.summary)}</p>
+        <div class="article-footer">
+          <a class="source-tag" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">
+            ${escapeHtml(article.source)} <span style="font-size:9px;opacity:0.6">↗</span>
+          </a>
+          ${time ? `<span class="article-time">${time}</span>` : ""}
+        </div>
+      </div>`;
+  }).join("");
 }
 
+// ── Load data ──
 async function loadDate(date) {
+  activeDate = date;
   setActiveArchiveDate(date);
   document.getElementById("articles-container").innerHTML = `<div class="loading-state"></div>`;
   try {
@@ -188,13 +206,15 @@ async function loadDate(date) {
     if (!res.ok) throw new Error("Not found");
     currentData = await res.json();
     updateHeader(currentData);
-    buildCategoryNav(currentData);
     renderArticles();
   } catch {
-    document.getElementById("articles-container").innerHTML = `<div class="error-state">
-      No briefing available for ${formatDisplayDate(date)}.<br>
-      <span style="font-size:12px;margin-top:8px;display:block">The scraper runs at 7 AM IST. Check back later.</span>
-    </div>`;
+    document.getElementById("articles-container").innerHTML = `
+      <div class="error-state">
+        No briefing available for ${formatDisplayDate(date)}.<br>
+        <span style="font-size:12px;margin-top:8px;display:block">
+          The scraper runs at 7 AM IST. Check back later.
+        </span>
+      </div>`;
   }
 }
 
@@ -203,11 +223,16 @@ async function loadToday() {
   btn.classList.add("spinning");
   btn.disabled = true;
   await loadDate(today());
-  setTimeout(() => { btn.classList.remove("spinning"); btn.disabled = false; }, 600);
+  setTimeout(() => {
+    btn.classList.remove("spinning");
+    btn.disabled = false;
+  }, 600);
 }
 
+// ── Init ──
 async function init() {
-  buildSourceList();
+  initTabs();
+  renderSidebar();
   await buildArchive();
   await loadToday();
 }
