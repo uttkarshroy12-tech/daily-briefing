@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daily Briefing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-meta">
+        <span id="header-date"></span>
+        <span class="dot">·</span>
+        <span id="header-count"></span>
+      </div>
+      <div class="header-title">
+        <h1>Daily Briefing</h1>
+      </div>
+      <div class="header-sub">
+        <p>A concise overview of the most important business and market updates</p>
+      </div>
+    </div>
+  </header>
+
+  <div class="layout">
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <p class="sidebar-label">Sources</p>
+        <ul class="source-list" id="source-list"></ul>
+      </div>
+      <div class="sidebar-section">
+        <p class="sidebar-label">Archive</p>
+        <ul class="archive-list" id="archive-list"></ul>
+      </div>
+      <div class="sidebar-section">
+        <p class="sidebar-label">Categories</p>
+        <ul class="category-nav" id="category-nav"></ul>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <div class="content-header">
+        <div>
+          <h2 class="category-title" id="active-category-title">All Stories</h2>
+          <p class="content-meta" id="content-meta"></p>
+        </div>
+        <button class="refresh-btn" id="refresh-btn" onclick="loadToday()">
+          <span class="refresh-icon">↻</span> Refresh
+        </button>
+      </div>
+      <div class="divider"></div>
+      <div id="articles-container">
+        <div class="loading-state"></div>
+      </div>
+    </main>
+
+  </div>
+
+  <footer class="site-footer">
+    <p>Daily Briefing · Powered by Groq + Llama 3 · Updates every day at 7 AM IST</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
