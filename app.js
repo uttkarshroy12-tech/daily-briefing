@@ -63,7 +63,6 @@ const SOURCES_BY_CAT = {
 
 let currentData = null;
 let activeCategory = CATEGORIES[0];
-let activeDate = null;
 
 // ── Helpers ──
 function today() {
@@ -73,11 +72,6 @@ function today() {
 function formatDisplayDate(dateStr) {
   const d = new Date(dateStr + "T00:00:00");
   return d.toLocaleDateString("en-IN", { day: "2-digit", month: "long", year: "numeric" });
-}
-
-function formatShortDate(dateStr) {
-  const d = new Date(dateStr + "T00:00:00");
-  return d.toLocaleDateString("en-IN", { day: "2-digit", month: "short" });
 }
 
 function formatTime(isoStr) {
@@ -99,7 +93,7 @@ function escapeHtml(str) {
     .replace(/'/g, "&#039;");
 }
 
-// ── Header ──
+// ── Header date ──
 function updateHeader(data) {
   document.getElementById("header-date").textContent =
     formatDisplayDate(data.date).toUpperCase();
@@ -118,52 +112,60 @@ function initTabs() {
   });
 }
 
-// ── Sidebar sources ──
+// ── Sidebar ──
 function renderSidebar() {
   const ul = document.getElementById("source-list");
   const sources = SOURCES_BY_CAT[activeCategory] || [];
   ul.innerHTML = sources.map(s =>
-    `<li><a href="${s.url}" target="_blank" rel="noopener">${s.name} ↗</a></li>`
+    `<li><a href="${s.url}" target="_blank" rel="noopener">
+      ${s.name} <span>↗</span>
+    </a></li>`
   ).join("");
 }
 
-// ── Archive ──
-async function buildArchive() {
-  const ul = document.getElementById("archive-list");
-  const td = today();
-  const dates = [];
-  for (let i = 0; i < 14; i++) {
-    const d = new Date();
-    d.setDate(d.getDate() - i);
-    dates.push(d.toISOString().slice(0, 10));
-  }
-  const available = [];
-  for (const date of dates) {
-    try {
-      const res = await fetch(`data/${date}.json`, { method: "HEAD" });
-      if (res.ok) available.push(date);
-    } catch {}
-  }
-  if (available.length === 0) {
-    ul.innerHTML = `<li style="font-size:11px;color:var(--text-muted);padding:4px 8px;">No archive yet</li>`;
-    return;
-  }
-  ul.innerHTML = available.map(date =>
-    `<li><button onclick="loadDate('${date}')" data-date="${date}">
-      ${date === td ? "Today" : formatShortDate(date)}
-      <span style="color:var(--text-muted);font-size:9px;margin-left:4px">${date}</span>
-    </button></li>`
-  ).join("");
+// ── Card rendering ──
+function buildHeroCard(a, b) {
+  const timeA = formatTime(a.published);
+  const timeB = formatTime(b.published);
+  return `
+    <div class="card-hero">
+      <div>
+        <div class="card-source">${escapeHtml(a.source)}</div>
+        <a class="card-title large" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
+        <p class="card-summary" style="margin-top:6px">${escapeHtml(a.summary)}</p>
+        <div class="card-footer">
+          <a class="card-tag" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.source)} ↗</a>
+          ${timeA ? `<span class="card-time">${timeA}</span>` : ""}
+        </div>
+      </div>
+      <div class="card-hero-divider"></div>
+      <div>
+        <div class="card-source">${escapeHtml(b.source)}</div>
+        <a class="card-title large" href="${escapeHtml(b.link)}" target="_blank" rel="noopener">${escapeHtml(b.title)}</a>
+        <p class="card-summary" style="margin-top:6px">${escapeHtml(b.summary)}</p>
+        <div class="card-footer">
+          <a class="card-tag" href="${escapeHtml(b.link)}" target="_blank" rel="noopener">${escapeHtml(b.source)} ↗</a>
+          ${timeB ? `<span class="card-time">${timeB}</span>` : ""}
+        </div>
+      </div>
+    </div>`;
 }
 
-function setActiveArchiveDate(date) {
-  document.querySelectorAll("#archive-list button").forEach(btn => {
-    btn.style.fontWeight = btn.dataset.date === date ? "600" : "";
-    btn.style.color = btn.dataset.date === date ? "var(--accent)" : "";
-  });
+function buildCard(article) {
+  const time = formatTime(article.published);
+  return `
+    <div class="article-card">
+      <div class="card-source">${escapeHtml(article.source)}</div>
+      <a class="card-title" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.title)}</a>
+      <p class="card-summary">${escapeHtml(article.summary)}</p>
+      <div class="card-footer">
+        <a class="card-tag" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">${escapeHtml(article.source)} ↗</a>
+        ${time ? `<span class="card-time">${time}</span>` : ""}
+      </div>
+    </div>`;
 }
 
-// ── Articles ──
+// ── Render articles ──
 function renderArticles() {
   if (!currentData) return;
   const container = document.getElementById("articles-container");
@@ -174,32 +176,27 @@ function renderArticles() {
   const articles = currentData.categories[activeCategory] || [];
 
   if (articles.length === 0) {
-    container.innerHTML = `<div class="empty-state">No stories in this category today. Check back after 7 AM IST.</div>`;
+    container.innerHTML = `<div class="empty-state">No stories in this category today.<br><span style="font-size:12px;margin-top:6px;display:block">Check back after 7 AM IST.</span></div>`;
     return;
   }
 
-  container.innerHTML = articles.map(article => {
-    const time = formatTime(article.published);
-    return `
-      <div class="article-card">
-        <a class="article-title" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">
-          ${escapeHtml(article.title)}
-        </a>
-        <p class="article-summary">${escapeHtml(article.summary)}</p>
-        <div class="article-footer">
-          <a class="source-tag" href="${escapeHtml(article.link)}" target="_blank" rel="noopener">
-            ${escapeHtml(article.source)} <span style="font-size:9px;opacity:0.6">↗</span>
-          </a>
-          ${time ? `<span class="article-time">${time}</span>` : ""}
-        </div>
-      </div>`;
-  }).join("");
+  let html = `<div class="card-grid">`;
+
+  if (articles.length >= 2) {
+    html += buildHeroCard(articles[0], articles[1]);
+    for (let i = 2; i < articles.length; i++) {
+      html += buildCard(articles[i]);
+    }
+  } else {
+    html += buildCard(articles[0]);
+  }
+
+  html += `</div>`;
+  container.innerHTML = html;
 }
 
 // ── Load data ──
 async function loadDate(date) {
-  activeDate = date;
-  setActiveArchiveDate(date);
   document.getElementById("articles-container").innerHTML = `<div class="loading-state"></div>`;
   try {
     const res = await fetch(`data/${date}.json?t=${Date.now()}`);
@@ -211,9 +208,7 @@ async function loadDate(date) {
     document.getElementById("articles-container").innerHTML = `
       <div class="error-state">
         No briefing available for ${formatDisplayDate(date)}.<br>
-        <span style="font-size:12px;margin-top:8px;display:block">
-          The scraper runs at 7 AM IST. Check back later.
-        </span>
+        <span style="font-size:12px;margin-top:8px;display:block">The scraper runs at 7 AM IST. Check back later.</span>
       </div>`;
   }
 }
@@ -233,7 +228,6 @@ async function loadToday() {
 async function init() {
   initTabs();
   renderSidebar();
-  await buildArchive();
   await loadToday();
 }
 
