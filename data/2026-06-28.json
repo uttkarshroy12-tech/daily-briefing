@@ -1,0 +1,789 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T05:53:36.685926+00:00",
+  "total_articles": 110,
+  "categories": {
+    "India Macro & Policy": [
+      {
+        "title": "Appeal No. 6911 of 2026 filed by Surajsingh Vakhatsinh Rathod",
+        "summary": "Appeal No. 6911 of 2026 filed by Surajsingh Vakhatsinh Rathod",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/jun-2026/appeal-no-6911-of-2026-filed-by-surajsingh-vakhatsinh-rathod_102420.html",
+        "published": "25 Jun, 2026 +0530"
+      },
+      {
+        "title": "Appeal No. 6910 of 2026 filed by Anirudh Prasad Kewat",
+        "summary": "Appeal No. 6910 of 2026 filed by Anirudh Prasad Kewat",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/jun-2026/appeal-no-6910-of-2026-filed-by-anirudh-prasad-kewat_102419.html",
+        "published": "25 Jun, 2026 +0530"
+      },
+      {
+        "title": "Adjudication Order in the matter of Exfinity Technology Fund",
+        "summary": "Adjudication Order in the matter of Exfinity Technology Fund",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/jun-2026/adjudication-order-in-the-matter-of-exfinity-technology-fund_102418.html",
+        "published": "25 Jun, 2026 +0530"
+      },
+      {
+        "title": "General Remittance Order dated 25.06.2026 in Recovery Certificate No. 9104 of 2026 issued against Rajendra Madanlal HUF (PAN : AALHR7398H) in the matter of dealing in Illiquid Stock Options on BSE.",
+        "summary": "General Remittance Order dated 25.06.2026 in Recovery Certificate No. 9104 of 2026 issued against Rajendra Madanlal HUF (PAN : AALHR7398H) in the matter of dealing in Illiquid Stock Options on BSE.",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/general-remittance-order-dated-25-06-2026-in-recovery-certificate-no-9104-of-2026-issued-against-rajendra-madanlal-huf-pan-aalhr7398h-in-the-matter-of-dealing-in-illiquid-stock-options-on-bse-_102414.html",
+        "published": "25 Jun, 2026 +0530"
+      },
+      {
+        "title": "Appeal No. 6909 of 2026 filed by Nikhil Goyal",
+        "summary": "Appeal No. 6909 of 2026 filed by Nikhil Goyal",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/jun-2026/appeal-no-6909-of-2026-filed-by-nikhil-goyal_102412.html",
+        "published": "24 Jun, 2026 +0530"
+      }
+    ],
+    "India Markets & Corporate": [
+      {
+        "title": "US faces reform push for kids' social media curbs",
+        "summary": "US faces reform push for kids' social media curbs",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/international/global-trends/the-us-lags-other-countries-in-social-media-restrictions-for-kids-but-a-reform-push-is-growing/articleshow/132045968.cms",
+        "published": "Sun, 28 Jun 2026 10:57:53 +0530"
+      },
+      {
+        "title": "Asia's food vendors hit by soaring plastic costs",
+        "summary": "Asia's food vendors hit by soaring plastic costs",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/international/business/asias-vendors-grapple-with-rising-costs-of-ever-present-plastics/articleshow/132045652.cms",
+        "published": "Sun, 28 Jun 2026 10:27:06 +0530"
+      },
+      {
+        "title": "T'gana may move SC against VB G RAM G Act",
+        "summary": "T'gana may move SC against VB G RAM G Act",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/telangana-govt-considering-moving-sc-against-vb-g-ram-g-act-minister/articleshow/132045606.cms",
+        "published": "Sun, 28 Jun 2026 10:22:41 +0530"
+      },
+      {
+        "title": "FIFA World Cup match: Argentina beat Jordan 3-1",
+        "summary": "FIFA World Cup match: Argentina beat Jordan 3-1",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/sports/football/fifa-world-cup-match-seventh-heaven-for-lionel-messi-as-argentina-beat-jordan-3-1/articleshow/132045421.cms",
+        "published": "Sun, 28 Jun 2026 10:02:11 +0530"
+      },
+      {
+        "title": "Goa gets new Captain of Ports terminal",
+        "summary": "Goa gets new Captain of Ports terminal",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/union-minsiter-sonowal-inaugurates-goas-new-captain-of-ports-terminal-building-announces-phase-i-priority-for-goa-water-metro/articleshow/132045326.cms",
+        "published": "Sun, 28 Jun 2026 09:40:11 +0530"
+      },
+      {
+        "title": "Mumbai Muharram procession turns scary after suspicious tablets leave one ill; man apprehended for distribution",
+        "summary": "A man was apprehended in Mumbai for distributing suspicious tablets during a procession, resulting in one person falling ill. Authorities intervened after the individual experienced vomiting. The man claimed the tablets were painkillers, and a case has been filed against him.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/mumbai-muharram-procession-turns-scary-suspicious-tablets-leave-one-ill-man-apprehended-distribution-latest-news-today-11782620530643.html",
+        "published": "Sun, 28 Jun 2026 10:48:23 +0530"
+      },
+      {
+        "title": "Venezuela earthquake: Death toll nears 1,500 as residents angered at local officials' response",
+        "summary": "Venezuela faces devastation after twin earthquakes killed around 1,500 and left 51,000 missing. The US has mobilized disaster response teams, while local officials face public anger over disorganized recovery efforts. The economic impact is estimated at $6.7 billion.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/world/venezuela-earthquake-death-toll-nears-1-500-as-residents-angered-at-local-officials-response-11782621150607.html",
+        "published": "Sun, 28 Jun 2026 10:27:12 +0530"
+      },
+      {
+        "title": "Anant Ambani donates hair at Tirumala temple ahead of wedding anniversary. Watch",
+        "summary": "Anant Ambani took part in the Suprabhata Seva and prayed for the blessings of Lord Sri Venkateswara at Tirumala Sri Venkateswara Swami Temple in the early hours of Sunday. He also donated his hair and fed elephants.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/trends/anant-ambani-donates-hair-at-tirumala-temple-ahead-of-wedding-anniversary-watch-11782616193848.html",
+        "published": "Sun, 28 Jun 2026 10:00:08 +0530"
+      },
+      {
+        "title": "Delhi weather: India's capital recorded 'feels like' temperature of 48.4°C on Saturday; rains expected from Monday",
+        "summary": "Delhi recorded a heat index of 48.4 degrees Celsius on Saturday, significantly higher than the actual maximum temperature of 41.3 degrees. The minimum temperature was 30.8 degrees, exceeding the seasonal average by 2.9 degrees.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/delhi-weather-indias-capital-recorded-feels-like-temperature-of-48-4-c-on-saturday-rains-expected-from-monday-11782614327470.html",
+        "published": "Sun, 28 Jun 2026 09:30:47 +0530"
+      },
+      {
+        "title": "Born on 28 June? You share your birthday with Elon Musk, Aanand L Rai, PV Narasimha Rao",
+        "summary": "Birthday on 28 June? Here's a list of renowned personalities, including Elon Musk, Aanand L Rai, PV Narasimha Rao and others who were born on the same date.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/trends/born-on-28-june-you-share-your-birthday-with-elon-musk-aanand-l-rai-pv-narasimha-rao-11782610444342.html",
+        "published": "Sun, 28 Jun 2026 08:06:18 +0530"
+      },
+      {
+        "title": "Kerala SSLC SAY Result 2026 Is Out: Click Here to View the Supplementary Results",
+        "summary": "Kerala Pareeksha Bhavan has released the Class 10 SAY supplementary exam results; students can check their provisional scorecards on the official result portals.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/kerala-sslc-say-result-2026-is-out-click-here-to-view-11697441#publisher=newsstand",
+        "published": "Sun, 28 Jun 2026 11:15:45 +0530"
+      },
+      {
+        "title": "FIFA World Cup 2026: Argentina Beat Jordan 3-1 as Lionel Messi Sets World Cup Scoring Record",
+        "summary": "Messi, who started the match on the bench, scored a freekick in the 80th minute to become the first player in the history to score in seven successive FIFA World Cup matches.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/sports/fifa-world-cup-2026-argentina-beat-jordan-3-1-as-lionel-messi-sets-world-cup-scoring-record-11697533#publisher=newsstand",
+        "published": "Sun, 28 Jun 2026 11:12:11 +0530"
+      },
+      {
+        "title": "FIFA World Cup 2026: Austria's Late Equaliser Sends Iran Crashing Out, Algeria Advance",
+        "summary": "Iran's troublled run at the FIFA World Cup 2026 came to a heartbreaking end as they fail to secure a place in knockouts.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/sports/fifa-world-cup-2026-austrias-late-equaliser-sends-iran-crashing-out-algeria-advance-11697465#publisher=newsstand",
+        "published": "Sun, 28 Jun 2026 11:05:54 +0530"
+      },
+      {
+        "title": "Air India May Restore Some International Flights as Gulf Tensions Ease, Fuel Prices Fall",
+        "summary": "The airline is reviewing overseas schedules after calmer conditions in the Middle East opened more airspace and reduced jet fuel costs, CEO Campbell Wilson said.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/travel/air-india-may-restore-some-international-flights-as-gulf-tensions-ease-fuel-prices-fall-11697496#publisher=newsstand",
+        "published": "Sun, 28 Jun 2026 11:03:38 +0530"
+      },
+      {
+        "title": "Raipur Fits Over 15,000 Rickshaws With QR Codes To Acccess Driver Details",
+        "summary": "The large-scale rollout has also earned a place in the Golden Book of World Records.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/raipur-fits-over-15-000-rickshaws-with-qr-codes-to-acccess-driver-details-11697569#publisher=newsstand",
+        "published": "Sun, 28 Jun 2026 10:41:11 +0530"
+      },
+      {
+        "title": "Cooling products see mixed demand in June qtr; AC sales slump, beverages, ice cream stay resilient",
+        "summary": "The strong performance in beverages was also reflected in the dairy segment",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/national/cooling-products-see-mixed-demand-in-june-qtr-ac-sales-slump-beverages-ice-cream-stay-resilient/article71157148.ece",
+        "published": "Sun, 28 Jun 2026 11:12:02 +0530"
+      },
+      {
+        "title": "UP: Massive fire breaks out at cold storage in Lucknow",
+        "summary": "Firefighting operations are currently underway",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/up-massive-fire-breaks-out-at-cold-storage-in-lucknow/article71157140.ece",
+        "published": "Sun, 28 Jun 2026 11:02:34 +0530"
+      },
+      {
+        "title": "Google limits Meta’s use of its Gemini AI models",
+        "summary": "Tech giant reportedly urged employees to use AI tokens more efficiently after restrictions on model access",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/info-tech/google-limits-metas-use-of-its-gemini-ai-models/article71157131.ece",
+        "published": "Sun, 28 Jun 2026 10:59:41 +0530"
+      },
+      {
+        "title": "Pakistan hikes petroleum levy on petrol, diesel; keeps retail prices unchanged",
+        "summary": "The petroleum levy on high-speed diesel has been increased by PKR 6.57 to PKR 79.54 per litre, and the levy on petrol has risen by 39 paisa to PKR 66.64 per litre",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/world/pakistan-hikes-petroleum-levy-on-petrol-diesel-keeps-retail-prices-unchanged/article71157109.ece",
+        "published": "Sun, 28 Jun 2026 10:49:36 +0530"
+      },
+      {
+        "title": "Iran destroys 8 American military infrastructures in Kuwait, Bahrain in response to second US strikes, claims IRGC",
+        "summary": "The IRGC further stated that US forces had attacked five Iranian coastal positions earlier on Sunday, accusing Washington of violating a ceasefire agreement",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/world/iran-destroys-8-american-military-infrastructures-in-kuwait-bahrain-in-response-to-second-us-strikes-claims-irgc/article71157076.ece",
+        "published": "Sun, 28 Jun 2026 10:22:06 +0530"
+      }
+    ],
+    "India Startups & VC": [
+      {
+        "title": "Kunal Shah & The WhatsApp Acid Test",
+        "summary": "“Kunal Shah represents the very best of India’s startup ecosystem: bold thinking, intellectual curiosity, relentless execution and the ability to…",
+        "source": "Inc42",
+        "link": "https://inc42.com/features/kunal-shah-the-whatsapp-acid-test/",
+        "published": "Sun, 28 Jun 2026 00:30:13 +0000"
+      },
+      {
+        "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
+        "summary": "The Indian startup ecosystem continued to mature in FY26, with 22 new-age tech companies making their public market debut as…",
+        "source": "Inc42",
+        "link": "https://inc42.com/features/fy26-financial-tracker-tracking-the-financial-performance-of-indian-startups/",
+        "published": "Sat, 27 Jun 2026 14:31:38 +0000"
+      },
+      {
+        "title": "Exclusive: Vibe Coding Startup Rocket Eyes Fresh Funding In SIG-Led Round",
+        "summary": "Vibe coding startup Rocket is in talks with US-based Susquehanna International Group (SIG) to raise a fresh round of funding,…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/vibe-coding-startup-rocket-eyes-fresh-funding-in-sig-led-round/",
+        "published": "Sat, 27 Jun 2026 13:52:41 +0000"
+      },
+      {
+        "title": "Bharat Taxi To Expand To 500 Cities In 2 Years: HM Amit Shah",
+        "summary": "Government-backed cooperative ride-hailing platform Bharat Taxi plans to expand to more than 500 cities and towns across India within the…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/bharat-taxi-to-expand-to-500-cities-in-2-years-hm-amit-shah/",
+        "published": "Sat, 27 Jun 2026 13:48:50 +0000"
+      },
+      {
+        "title": "New-Age Tech Stocks: Meesho, Smartworks Rally; ideaForge, EaseMyTrip Tumble",
+        "summary": "It was a mixed week for new-age tech stocks, with 23 of the 57 stocks gaining in a range of…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/new-age-tech-stocks-meesho-smartworks-rally-ideaforge-easemytrip-tumble/",
+        "published": "Sat, 27 Jun 2026 13:07:09 +0000"
+      }
+    ],
+    "Global Macro & Central Banks": [
+      {
+        "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+        "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+        "published": "Thu, 25 Jun 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+        "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+        "published": "Thu, 25 Jun 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+        "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+        "published": "Wed, 24 Jun 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+        "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+        "published": "Mon, 22 Jun 2026 12:45:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+        "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
+        "published": "Thu, 18 Jun 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Isabel Schnabel: Is inflation back?",
+        "summary": "Isabel Schnabel: Is inflation back?",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
+        "published": "Sat, 27 Jun 2026 15:45:00 +0200"
+      },
+      {
+        "title": "ECB Consumer Expectations Survey results – May 2026",
+        "summary": "ECB Consumer Expectations Survey results – May 2026",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+        "published": "Fri, 26 Jun 2026 10:00:00 +0200"
+      },
+      {
+        "title": "Piero Cipollone: Central bank money for the digital era",
+        "summary": "Piero Cipollone: Central bank money for the digital era",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260625~db26a75179.en.pdf",
+        "published": "Thu, 25 Jun 2026 14:00:00 +0200"
+      },
+      {
+        "title": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+        "summary": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+        "published": "Thu, 25 Jun 2026 10:00:00 +0200"
+      },
+      {
+        "title": "Isabel Schnabel: Interview with Die Zeit",
+        "summary": "Isabel Schnabel: Interview with Die Zeit",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260626~c18c7252f3.en.html",
+        "published": "Thu, 25 Jun 2026 09:00:00 +0200"
+      },
+      {
+        "title": "The macroeconomics of stablecoins",
+        "summary": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, inc",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1363.htm",
+        "published": "2026-06-23T07:44:00Z"
+      },
+      {
+        "title": "Embracing carbon uncertainty in portfolio construction",
+        "summary": "by Dora Xia, Omar Zulaica We propose a framework for constructing fixed-income portfolios of sovereign bonds that integrates financial and environmental considerations. Central to our approach is the introduction of carbon returns, a concept analogous to financial returns, modeled as random variable",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1362.htm",
+        "published": "2026-06-17T11:27:00Z"
+      },
+      {
+        "title": "Bond yield responses to macro news: the role of macro forecast disagreement and monetary policy uncertainty",
+        "summary": "by Peter Hördahl, Burçin Kısacıkoğlu, Dora Xia Bond yields react to macroeconomic surprises, but the magnitude of this responsiveness depends on macroeconomic forecast disagreement and monetary policy uncertainty. Using intraday responses of US Treasury futures to surprises in macroeconomic data rel",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1361.htm",
+        "published": "2026-06-16T11:27:00Z"
+      },
+      {
+        "title": "Credit supply in the wake of distressed bank acquisitions",
+        "summary": "by Ryan Niladri Banerjee, Francisco González, José E Gutierrez, José María Serena Garralda This paper examines the credit supply effects of sale-of-business (SoB) bank resolutions under the post-Global Financial Crisis regulatory framework, focusing on the resolution of a major Spanish bank. We prov",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1360.htm",
+        "published": "2026-06-12T05:51:00Z"
+      },
+      {
+        "title": "The anatomy of stablecoin transactions",
+        "summary": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat Siridhasanakul Stablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidit",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1359.htm",
+        "published": "2026-06-11T12:00:00Z"
+      },
+      {
+        "title": "Is a European Single Market for Energy Such a Good Idea?",
+        "summary": "Although textbook microeconomics shows why less energy-market fragmentation would be better for Europe as a whole, that does not mean it would be a good deal for countries producing low-carbon electricity at minimal marginal cost. In fact, if more integration creates free riders, the political backl",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/european-energy-single-market-political-risks-vs-economic-rewards-by-brigitte-granville-2026-06",
+        "published": "Fri, 26 Jun 2026 12:03:42 GMT"
+      },
+      {
+        "title": "China’s Failed Rebalancing",
+        "summary": "When China’s leaders first acknowledged the need to rebalance the economy nearly two decades ago, it seemed like a matter of when, not if. But with the household consumption share of Chinese GDP remaining stubbornly low, officials’ promises to boost domestic demand have lost all credibility.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/chinese-economy-consumer-led-rebalancing-has-failed-by-stephen-s-roach-2026-06",
+        "published": "Fri, 26 Jun 2026 10:17:23 GMT"
+      },
+      {
+        "title": "Crowning a Healthy Populism",
+        "summary": "Although recent political mobilizations in Hungary, Albania, and other parts of Central and Eastern Europe could be described as populist and nationalist, they have little in common with the aggressive ethnonationalism that MAGA professes. Could they be a model for a new form of politics?",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/hungary-albania-rejecting-maga-international-by-harold-james-2026-06",
+        "published": "Fri, 26 Jun 2026 08:32:33 GMT"
+      },
+      {
+        "title": "Why Rules-Based Orders Fail",
+        "summary": "For a brief period after the Cold War, Americans persuaded themselves that the liberal order had become self-sustaining. And yet, any rules-based system elaborate enough to govern and interpret its own operations will eventually confront questions that its rules cannot answer.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/onpoint/why-rules-based-orders-fail-by-benn-steil-2026-06",
+        "published": "Fri, 26 Jun 2026 08:17:20 GMT"
+      },
+      {
+        "title": "The Tide Is Turning Against Russia",
+        "summary": "With Ukraine reclaiming territory, mounting drone strikes deep in Russian territory, and draining Russia’s coffers, Vladimir Putin would do well to seek a negotiated freeze to the conflict. But there is no guarantee that he will, not least because he might not grasp the situation Russia is in.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/ukraine-attacks-on-moscow-show-weakness-of-russia-position-by-sergei-guriev-2026-06",
+        "published": "Thu, 25 Jun 2026 11:59:37 GMT"
+      }
+    ],
+    "Global Markets & Business": [
+      {
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 27 Jun 2026 01:37:18 GMT"
+      },
+      {
+        "title": "Three unusual things about the King's tax bill",
+        "summary": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 23:00:30 GMT"
+      },
+      {
+        "title": "I'm back at home again after uni - here's how I'm making it work",
+        "summary": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 25 Jun 2026 23:03:48 GMT"
+      },
+      {
+        "title": "Power banks and vapes now biggest fire risk on planes",
+        "summary": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 25 Jun 2026 23:28:13 GMT"
+      },
+      {
+        "title": "Asia stock markets slide as tech shares slump",
+        "summary": "Trading on South Korea's Kospi index was halted for the third time this week to prevent panic selling.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 26 Jun 2026 07:33:10 GMT"
+      },
+      {
+        "title": "How Kohl's lost its way — and is trying to become relevant again",
+        "summary": "Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+        "published": "Sat, 27 Jun 2026 12:00:01 GMT"
+      },
+      {
+        "title": "A surprisingly strong summer box office could mean Hollywood's first $10 billion year since the pandemic",
+        "summary": "Hollywood is having its best summer since the pandemic putting the annual box office on pace to cross $10 billion for the first time in seven years.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/27/strong-summer-box-office.html",
+        "published": "Sat, 27 Jun 2026 12:00:01 GMT"
+      },
+      {
+        "title": "Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center",
+        "summary": "Lukas Walton is the 39-year-old grandson of Walmart founder Sam Walton. He and his wife, Samantha, are residents of Chicago.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html",
+        "published": "Fri, 26 Jun 2026 21:07:22 GMT"
+      },
+      {
+        "title": "The brands winning with World Cup advertising may not be the sponsors",
+        "summary": "The World Cup winners and losers in advertising may be indicative of a broader trend of how people are responding to authentic branding.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html",
+        "published": "Fri, 26 Jun 2026 12:30:01 GMT"
+      },
+      {
+        "title": "Rise in memory chip costs puts pressure on retailers of laptops and smartphones",
+        "summary": "As the global race for AI moves forward, a shortage of memory chips has begun to drive up prices of consumer electronics and may lead to product shortages.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html",
+        "published": "Fri, 26 Jun 2026 12:00:01 GMT"
+      },
+      {
+        "title": "How to work in retirement without seeing your Social Security checks slashed",
+        "summary": "Claiming benefits before full retirement age while keeping a job can trigger unexpected withholdings — but the money isn’t lost forever.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+        "published": "Sat, 27 Jun 2026 19:30:00 GMT"
+      },
+      {
+        "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
+        "summary": "It was a very good year for most workplace retirement savers, according to Vanguard’s latest “How America Saves” report.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
+        "published": "Sat, 27 Jun 2026 19:30:00 GMT"
+      },
+      {
+        "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
+        "summary": "“They say I made $43,000 in 2019, but I actually made that in 2020.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
+        "published": "Sat, 27 Jun 2026 19:30:00 GMT"
+      },
+      {
+        "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
+        "summary": "“People should be alarmed. This is a health crisis. It’s also an economic crisis for families and government.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
+        "published": "Sat, 27 Jun 2026 19:30:00 GMT"
+      },
+      {
+        "title": "Older Americans will soon have Medicare access to GLP-1s for weight loss for the first time. Here’s what they need to know.",
+        "summary": "Starting July 1, Medicare beneficiaries who qualify can get weight-loss drugs for $50 a month. They should consider the side effects and muscle loss.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories",
+        "published": "Sat, 27 Jun 2026 19:30:00 GMT"
+      },
+      {
+        "title": "Trump says he is nominating former Oklahoma state trooper Lance Schroyer as ICE director",
+        "summary": "Schroyer hails from the same home state as the new Department of Homeland Security Secretary Markwayne Mullin, a former congressman.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/27/trump-nomination-former-oklahoma-state-trooper-lance-schroyer-ice-director/",
+        "published": "Sat, 27 Jun 2026 22:54:02 +0000"
+      },
+      {
+        "title": "Forget the ceasefire — The U.S. and Iran are still locked in combat over the Strait of Hormuz as Tehran tries to shut down a competing route",
+        "summary": "The U.S. carved out an alternate path that runs along Oman's coast and said Saturday that it's been expanded to accommodate inbound and outbound traffic.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/27/us-iran-attacks-drone-strikes-strait-of-hormuz-oman-route/",
+        "published": "Sat, 27 Jun 2026 22:42:41 +0000"
+      },
+      {
+        "title": "The contrarian view for Fed rate cuts: Payrolls will weaken, inflation will plunge, and Kevin Warsh was ‘largely performative’ in his hawkishness",
+        "summary": "\"He had to sound hawkish to draw a clear line between himself and the White House.\"",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/27/fed-rate-cuts-payrolls-unemployment-inflation-gdp-oil-prices-kevin-warsh/",
+        "published": "Sat, 27 Jun 2026 22:28:53 +0000"
+      },
+      {
+        "title": "Yes, Europe’s heat waves are deadlier than American gun violence",
+        "summary": "Heat has killed 200,000 Europeans in four years. The WHO calls it a health emergency.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/26/heat-death-europe-ac-american-gun-violence-climate-change-hot-summer/",
+        "published": "Fri, 26 Jun 2026 16:35:53 +0000"
+      },
+      {
+        "title": "The ‘FIFA 15’ is American culinary diplomacy in action",
+        "summary": "World Cup travelers are flocking to American products like ranch dressing and Raising Cane's. That's the beauty of bringing people together.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/06/26/fifa-15-american-culinary-diplomacy/",
+        "published": "Fri, 26 Jun 2026 17:12:35 +0000"
+      },
+      {
+        "title": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
+        "summary": "Ultrarich face backlash as billionaire tax in California makes it to the ballot and Americans organize for higher wages The day that Elon Musk became the  world’s first trillionaire , Gilberto Rubio, a  security officer  in the San Francisco area, said he was thinking about how to cut back on meals ",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/jun/26/billionaires-wealth-soars-as-workers-struggle",
+        "published": "Fri, 26 Jun 2026 09:00:14 GMT"
+      },
+      {
+        "title": "Reporter urges US supreme court to halt ruling forcing her to reveal sources or pay $800-a-day fine",
+        "summary": "Catherine Herridge makes final bid to stave off penalty related to series of stories she wrote in 2017 for Fox News More than two years ago, a US district court judge took the extraordinary step of holding the veteran investigative journalist Catherine Herridge in civil contempt,  ordering her to pa",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/media/2026/jun/26/us-reporter-supreme-court-sources-fine",
+        "published": "Fri, 26 Jun 2026 22:43:22 GMT"
+      },
+      {
+        "title": "Trump threatens 100% tariff on European countries that impose digital tax",
+        "summary": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country   Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies. Writing on Truth Social on Friday, the US presiden",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
+        "published": "Sat, 27 Jun 2026 10:20:46 GMT"
+      },
+      {
+        "title": "Here’s what to do if your StubHub World Cup resale ticket is canceled",
+        "summary": "World Cup StubHub ticket mess shows how weak consumer protections are in the US, but there are steps fans can take A growing number of World Cup fans who thought they had bought tickets to matches on the ticket reseller StubHub were notified with just days or hours to spare that their tickets did no",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket",
+        "published": "Sat, 27 Jun 2026 10:00:01 GMT"
+      },
+      {
+        "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
+        "summary": "High temperatures make some workplaces dangerous, with economists warning disruption will dent growth Monique Mosley is used to sweltering conditions at the food factory in Yorkshire where she works, but June’s  record-breaking heatwave  has made conditions unbearable. “We make hot filled food produ",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
+        "published": "Fri, 26 Jun 2026 05:00:08 GMT"
+      },
+      {
+        "title": "U.S. launches fresh Iran strikes as Trump threatens to \"complete the job\"",
+        "summary": "The U.S. military conducted fresh strikes on  Iranian  targets in retaliation for an attack Saturday morning on a commercial tanker, as President Trump threatened the possibility of restarting the war.  Why it matters:  The second wave of U.S. strikes in Iran over the last 24 hours comes amid increa",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/06/27/us-iran-strikes-strait-hormuz",
+        "published": "Sun, 28 Jun 2026 01:08:35 +0000"
+      },
+      {
+        "title": "Scoop: Powerful Anthropic model, Fable 5, on track to return soon",
+        "summary": "The Trump administration is close to allowing Anthropic to restore access to its powerful Fable 5 model, which has been offline for 15 days because of  security fears  by the government, a source close to the situation tells Axios. Insiders expect the administration's limits on Fable 5 could be lift",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+        "published": "Sat, 27 Jun 2026 12:45:43 +0000"
+      },
+      {
+        "title": "Trump's \"communist\" midterm message",
+        "summary": "President Trump needs a potent message to reverse his party's bleak midterm outlook — and he's found it in the rise of democratic  socialists  in New York and beyond. Why it matters:  In a blistering speech to religious conservatives on Friday, Trump warned that \"communists\" are taking over the Demo",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/06/27/trump-midterm-democratic-socialists",
+        "published": "Sat, 27 Jun 2026 12:11:12 +0000"
+      },
+      {
+        "title": "Ukraine's drones take the war to Russia",
+        "summary": "Ukraine's sustained and sophisticated  drone warfare  has knocked out refineries, tilted the battlefield balance and brought the war home to some Russians for the first time in four years of fighting.  Why it matters:  With  Ukrainian  confidence running high, and  Russia  struggling to provide fuel",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/06/27/ukraine-drone-strikes-russia-refineries",
+        "published": "Sat, 27 Jun 2026 11:00:04 +0000"
+      },
+      {
+        "title": "U.S. strikes Iranian targets near strait after Iran fires at ships",
+        "summary": "The U.S. military conducted strikes against  Iranian  targets around the  Strait of Hormuz , U.S. Central Command said in a statement.  Why it matters:  These are the first U.S. strikes against Iranian targets since the signing last week of the memorandum of understanding (MOU), which declared an en",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/06/26/us-strikes-iran-strait-hormuz-ships",
+        "published": "Fri, 26 Jun 2026 22:52:22 +0000"
+      },
+      {
+        "title": "I'm a 44-year-old mom of 4. I finally learned how to set clear boundaries, starting with dryer balls.",
+        "summary": "On laundry day, a dryer ball nearly broke me. It also taught me how to set boundaries with my family.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/rage-over-dryer-balls-helped-me-set-boundaries-with-family-2026-6",
+        "published": "2026-06-27T23:21:01Z"
+      },
+      {
+        "title": "We expected childcare help from our au pair. We got a new family tradition instead.",
+        "summary": "What started as childcare turned into a friendship, a World Cup obsession, and a connection that spans two continents.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/au-pair-argentina-world-cup-friendship-2026-6",
+        "published": "2026-06-27T18:41:01Z"
+      },
+      {
+        "title": "Country music star Brad Paisley calls a proposed data center near the Nashville Zoo 'a monstrosity'",
+        "summary": "14-time Country Music Award winner Brad Paisley is calling on Nashville to prevent the construction of a data center near the city's zoo.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/brad-paisley-nashville-zoo-data-center-2026-6",
+        "published": "2026-06-27T18:39:18Z"
+      },
+      {
+        "title": "I applied for a job for the first time in 20 years. Job seekers are in a whole new world now.",
+        "summary": "Filling out my first job application in two decades came with unexpected challenges, from recalling my work history to navigating a new process.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/applied-for-job-after-decades-the-process-changed-2026-6",
+        "published": "2026-06-27T15:47:01Z"
+      },
+      {
+        "title": "I want matinee concerts, matinee dinners, and matinee everything. At 46, I'm done pretending I want to stay up late.",
+        "summary": "I love concerts and dinners with friends, but at this stage of life I'd rather do almost everything before sunset.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/done-pretending-i-want-to-stay-out-late-2026-6",
+        "published": "2026-06-27T15:25:01Z"
+      }
+    ],
+    "Strategy & Deep Analysis": [
+      {
+        "title": "India Urges Kailash Pilgrims to Have All China Travel Documents",
+        "summary": "India advised citizens who are planning to undertake the Kailash Manasarovar Yatra pilgrimage in Tibet to ensure they have all the required Chinese visas and entry permits before beginning their journey, after reports of pilgrims stranded in Nepal awaiting documentation.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-28/india-urges-kailash-pilgrims-to-have-all-china-travel-documents",
+        "published": "Sun, 28 Jun 2026 04:25:37 GMT"
+      },
+      {
+        "title": "Venezuela’s Machado Plans Quick Return Amid Quake Response",
+        "summary": "Venezuela’s opposition leader María Corina Machado is planning to return to the country as soon as possible, according to people with direct knowledge of her plans, a move that could reshape the political landscape as acting President Delcy Rodríguez struggles to respond to the nation’s worst natura",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-28/venezuela-s-machado-plans-quick-return-amid-quake-response",
+        "published": "Sun, 28 Jun 2026 00:32:29 GMT"
+      },
+      {
+        "title": "Warsh Makes Debut on the Global Stage With the Class of 2008",
+        "summary": "Kevin Warsh and three other veterans of the 2008 global financial crisis will share a stage this week as the danger of renewed turmoil continues to haunt central bankers.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008",
+        "published": "Sat, 27 Jun 2026 20:00:00 GMT"
+      },
+      {
+        "title": "Tech Equity Sales Renew AI Debt-Binge Worries",
+        "summary": "Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
+        "published": "Sat, 27 Jun 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Bloomberg This Weekend 6/27/2026",
+        "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. UN Ambassador and Fmr. USAID Administrator Samantha Power and Oklahoma Senator Alan Armstrong.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/videos/2026-06-27/bloomberg-this-weekend-6-27-2026-video",
+        "published": "Sat, 27 Jun 2026 16:10:48 GMT"
+      },
+      {
+        "title": "Google caps Meta’s Gemini use as AI demand strains capacity",
+        "summary": "Surging appetite for advanced models is turning computing power into the tech industry’s scarcest commodity",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+        "published": "Sun, 28 Jun 2026 04:00:19 GMT"
+      },
+      {
+        "title": "America seeks its McDonald’s model for missile making",
+        "summary": "Defence groups are developing modular workshops that can mass-produce cheap missiles during wartime",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51",
+        "published": "Sun, 28 Jun 2026 04:00:09 GMT"
+      },
+      {
+        "title": "So, about that saga of Trump’s reflecting pool  . . .",
+        "summary": "In a desperate bid to deflect attention, the president is doing what he loves to do: blaming the libs",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/bd2de41e-e682-4c2f-ab3f-205a205a48a2",
+        "published": "Sun, 28 Jun 2026 04:00:20 GMT"
+      },
+      {
+        "title": "No, we have not had enough of experts",
+        "summary": "Trust in specialists is growing 10 years after Brexit but employers still need more of them",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/f8522f48-6ca0-49a4-b351-1a12b4b058a0",
+        "published": "Sun, 28 Jun 2026 04:00:19 GMT"
+      },
+      {
+        "title": "US carries out second day of strikes against Iran",
+        "summary": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
+        "published": "Sun, 28 Jun 2026 04:00:54 GMT"
+      },
+      {
+        "title": "Will AI lower interest rates?",
+        "summary": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+        "published": "Thu, 25 Jun 2026 09:39:49 +0000"
+      },
+      {
+        "title": "Waiving sanctions on Iranian oil is a huge concession by America",
+        "summary": "It will enrich an adversary",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+        "published": "Tue, 23 Jun 2026 19:52:15 +0000"
+      },
+      {
+        "title": "Why macro trading is hard",
+        "summary": "More difficult than knowing what to buy is how much",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/23/why-macro-trading-is-hard",
+        "published": "Tue, 23 Jun 2026 18:45:01 +0000"
+      },
+      {
+        "title": "Russia’s war economy has problems—but is not about to crash",
+        "summary": "Vladimir Putin is still able to fund his aggression",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash",
+        "published": "Mon, 22 Jun 2026 19:07:09 +0000"
+      },
+      {
+        "title": "How to turn compute into a financial asset",
+        "summary": "Entrepreneurs, exchange operators and AI firms are creating tradable instruments backed by processing power",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-compute-into-a-financial-asset",
+        "published": "Mon, 22 Jun 2026 18:09:55 +0000"
+      },
+      {
+        "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+        "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:26:00 -0500"
+      },
+      {
+        "title": "Comex Gold, Silver Settle Lower",
+        "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:01:00 -0500"
+      },
+      {
+        "title": "DeepSeek Won't Sink U.S. AI Titans",
+        "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 13:12:00 -0500"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk",
+        "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:27:00 -0500"
+      },
+      {
+        "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+        "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:20:00 -0500"
+      },
+      {
+        "title": "The most scenic camping destinations in the U.S. this summer",
+        "summary": "From Yosemite's El Capitan views at Upper Pines to Big Bend's Rio Grande canyons 322 miles from the nearest city",
+        "source": "Quartz",
+        "link": "https://qz.com/most-scenic-camping-destinations-us-summer",
+        "published": "Sat, 27 Jun 2026 09:12:55 GMT"
+      },
+      {
+        "title": "The most underrated attractions in Florida right now",
+        "summary": "From a manatee spring an hour from Tampa to a remote island only reachable by boat where Civil War prisoners once lived",
+        "source": "Quartz",
+        "link": "https://qz.com/most-underrated-attractions-florida",
+        "published": "Sat, 27 Jun 2026 09:12:44 GMT"
+      },
+      {
+        "title": "Unusual things that only happen in summer",
+        "summary": "These unusual summer phenomena include everything from the Eiffel Tower growing taller to fireflies putting on synchronized light shows",
+        "source": "Quartz",
+        "link": "https://qz.com/weird-summer-phenomena-readers-digest",
+        "published": "Sat, 27 Jun 2026 09:10:58 GMT"
+      },
+      {
+        "title": "The expensive twist in Trump's campaign against wind energy",
+        "summary": "The administration is carrying out a buyback campaign with the federal government paying energy developers to abandon their wind projects and invest in fossil fuels",
+        "source": "Quartz",
+        "link": "https://qz.com/trump-buyback-wind-projects",
+        "published": "Sat, 27 Jun 2026 09:10:41 GMT"
+      },
+      {
+        "title": "The best electric toothbrushes of 2026, according to Consumer Reports",
+        "summary": "A higher price tag doesn't predict how well an electric model performs. Consumer Reports tested dozens of brushes to find seven worth buying",
+        "source": "Quartz",
+        "link": "https://qz.com/best-electric-toothbrushes-consumer-reports",
+        "published": "Sat, 27 Jun 2026 09:10:40 GMT"
+      }
+    ]
+  }
+}
