@@ -1,0 +1,789 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T05:30:57.542026+00:00",
+  "total_articles": 110,
+  "categories": {
+    "India Macro & Policy": [
+      {
+        "title": "SETTLEMENT HELPDESK FACILITY",
+        "summary": "SETTLEMENT HELPDESK FACILITY",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2026/settlement-helpdesk-facility_102502.html",
+        "published": "01 Jul, 2026 +0530"
+      },
+      {
+        "title": "Remittance Advice against: Vikash Gupta [Defaulter] PAN: CUCPG7495R in the matter of Ms. Pooja Patidar, of employee of Investment Research Advisor (IRA) and Mr. Vikash Gupta, Portfolio Manager of M/s. Algo System: under Recovery Certificate No. 7571 of 2024.",
+        "summary": "Remittance Advice against: Vikash Gupta [Defaulter] PAN: CUCPG7495R in the matter of Ms. Pooja Patidar, of employee of Investment Research Advisor (IRA) and Mr. Vikash Gupta, Portfolio Manager of M/s. Algo System: under Recovery Certificate No. 7571 of 2024.",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/remittance-advice-against-vikash-gupta-defaulter-pan-cucpg7495r-in-the-matter-of-ms-pooja-patidar-of-employee-of-investment-research-advisor-ira-and-mr-vikash-gupta-portfolio-manager-of-m-s-_102501.html",
+        "published": "01 Jul, 2026 +0530"
+      },
+      {
+        "title": "Completion of Recovery Certificate No. RC8992 of 2025 in respect of Pugalia Vyapaar Pvt. Ltd. (now amalgamated into Plenty Niryat Pvt. Ltd.) (PAN: AABCP6776C) in the matter of Thirani Projects Ltd.",
+        "summary": "Completion of Recovery Certificate No. RC8992 of 2025 in respect of Pugalia Vyapaar Pvt. Ltd. (now amalgamated into Plenty Niryat Pvt. Ltd.) (PAN: AABCP6776C) in the matter of Thirani Projects Ltd.",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/completion-of-recovery-certificate-no-rc8992-of-2025-in-respect-of-pugalia-vyapaar-pvt-ltd-now-amalgamated-into-plenty-niryat-pvt-ltd-pan-aabcp6776c-in-the-matter-of-thirani-projects-ltd-_102491.html",
+        "published": "01 Jul, 2026 +0530"
+      },
+      {
+        "title": "Release Order - Recovery Certificate No. RC9084 of 2026 in respect of Ratan Lal Rathi (PAN: AJSPR3863P) in the matter of Illiquid Stock Options",
+        "summary": "Release Order - Recovery Certificate No. RC9084 of 2026 in respect of Ratan Lal Rathi (PAN: AJSPR3863P) in the matter of Illiquid Stock Options",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/release-order-recovery-certificate-no-rc9084-of-2026-in-respect-of-ratan-lal-rathi-pan-ajspr3863p-in-the-matter-of-illiquid-stock-options_102485.html",
+        "published": "01 Jul, 2026 +0530"
+      },
+      {
+        "title": "Completion of Recovery Certificate No. 4724 of 2022 issued against Srinivas Rao Marupudi in the matter of Venus power ventures ltd",
+        "summary": "Completion of Recovery Certificate No. 4724 of 2022 issued against Srinivas Rao Marupudi in the matter of Venus power ventures ltd",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jun-2026/completion-of-recovery-certificate-no-4724-of-2022-issued-against-srinivas-rao-marupudi-in-the-matter-of-venus-power-ventures-ltd_102489.html",
+        "published": "30 Jun, 2026 +0530"
+      }
+    ],
+    "India Markets & Corporate": [
+      {
+        "title": "PM heading for 'eco disaster': Jairam Ramesh",
+        "summary": "PM heading for 'eco disaster': Jairam Ramesh",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-marching-to-environmental-disaster-in-great-nicobar-congress-leader-jairam-ramesh/articleshow/132129334.cms",
+        "published": "Thu, 02 Jul 2026 10:37:36 +0530"
+      },
+      {
+        "title": "India, Japan to put tech &amp; chips on the table today",
+        "summary": "India, Japan to put tech &amp; chips on the table today",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-japan-annual-summit-to-focus-on-ai-chips-clean-energy/articleshow/132123431.cms",
+        "published": "Thu, 02 Jul 2026 00:22:00 +0530"
+      },
+      {
+        "title": "8 benefits of filing your income tax return",
+        "summary": "8 benefits of filing your income tax return",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-for-fy-25-26-ay-26-27-8-reasons-why-filing-income-tax-return-is-important-for-you-tax-refunds-to-carrying-forward-losses/articleshow/132128590.cms",
+        "published": "Thu, 02 Jul 2026 10:06:38 +0530"
+      },
+      {
+        "title": "Crude correction next big market trigger: Seksaria",
+        "summary": "Crude correction next big market trigger: Seksaria",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/markets/expert-view/crude-oil-correction-could-be-indias-next-big-market-trigger-rohit-seksaria/articleshow/132129226.cms",
+        "published": "Thu, 02 Jul 2026 10:22:04 +0530"
+      },
+      {
+        "title": "Zero tax in Form 16? You may still need to file ITR",
+        "summary": "Zero tax in Form 16? You may still need to file ITR",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/tax/zero-income-tax-in-form-16-you-may-still-have-to-file-an-itr-in-these-cases/articleshow/132113425.cms",
+        "published": "Thu, 02 Jul 2026 06:30:00 +0530"
+      },
+      {
+        "title": "One dead, three injured as SUV veers off road, crashes into under-construction bridge near Atal tunnel | Watch",
+        "summary": "One tourist died and three were injured in a vehicle crash near the Atal Tunnel. Police have advise tourists to avoid overspeeding and night travel due to safety concerns during the rainy season.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/one-dead-three-injured-as-suv-veers-off-road-crashes-into-under-construction-bridge-near-atal-tunnel-watch-11782965018389.html",
+        "published": "Thu, 02 Jul 2026 10:22:47 +0530"
+      },
+      {
+        "title": "Knicks stars to join Taylor Swift and Travis Kelce wedding? What we know about Josh Hart, Mikal Bridges and more invited",
+        "summary": "Taylor Swift and Travis Kelce will be getting married reportedly on 3 July in New York City. It is said to take place at the iconic Madison Square Garden. Check who might attend the special day.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/us-news/knicks-stars-to-join-taylor-swift-and-travis-kelce-wedding-what-we-know-about-josh-hart-mikal-bridges-and-more-invited-11782962342195.html",
+        "published": "Thu, 02 Jul 2026 10:13:42 +0530"
+      },
+      {
+        "title": "Amarnath Yatra 2026 begins: LG flags off first batch of 4,800 pilgrims in 259 vehicles to the holy shrine",
+        "summary": "The annual Shri Amarnath Ji pilgrimage commenced with over 4800 devotees departing from Jammu. Arrangements for security, crowd management, and food safety have been established to ensure a smooth experience for the pilgrims throughout the 57-day yatra, ending on August 28.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/amarnath-yatra-2026-first-batch-of-4-800-pilgrims-amarnath-shrine-11782966927681.html",
+        "published": "Thu, 02 Jul 2026 10:13:28 +0530"
+      },
+      {
+        "title": "IT giant Capgemini shuts Bengaluru daycare after reports of alleged abuse: Here's what happened",
+        "summary": "IT company Capgemini has shut its daycare facility in Bengaluru's HAL campus after videos of nannies abusing toddlers surfaced online, raising concerns over children's safety. HAL police have registered an FIR and are yet to arrest those accused.&nbsp;",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/it-giant-capgemini-shuts-bengaluru-daycare-after-reports-of-alleged-abuse-heres-what-happened-11782965584863.html",
+        "published": "Thu, 02 Jul 2026 10:03:36 +0530"
+      },
+      {
+        "title": "LPG price today: How costly is commercial and domestic cooking gas in Delhi, Kolkata, other cities after 1 July rate cut",
+        "summary": "LPG prices remained unchanged on 2 July after a  ₹183.50 reduction in commercial LPG cylinder rates. Check cooking gas rate in Delhi, Kolkata, Mumbai, Bengaluru and other cities.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/lpg-price-today-how-costly-is-commercial-and-domestic-cooking-gas-in-delhi-kolkata-other-cities-after-1-july-rate-cut-11782960574792.html",
+        "published": "Thu, 02 Jul 2026 09:56:28 +0530"
+      },
+      {
+        "title": "SpiceJet Receives Rs 150 Crore First Tranche Of ECLGS Funding From Indian Bank",
+        "summary": "The amount marks the first tranche of a proposed Rs 500 crore funding package being processed for the airline under the government-backed credit guarantee scheme. The remaining Rs 350 crore is expected to be disbursed in phases, sources said.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/business/spicejet-receives-rs-150-crore-first-tranche-of-eclgs-funding-from-bank-of-india-11663118#publisher=newsstand",
+        "published": "Thu, 02 Jul 2026 10:15:43 +0530"
+      },
+      {
+        "title": "Mumbai Local Trains Update: Are Trains Delayed? Heavy Rains Lead To Slight Waterlogging On Tracks At Dadar Station",
+        "summary": "Mumbai Rains",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/mumbai-local-trains-update-are-trains-delayed-heavy-rains-lead-to-slight-waterlogging-on-tracks-at-dadar-station-11715920#publisher=newsstand",
+        "published": "Thu, 02 Jul 2026 10:11:43 +0530"
+      },
+      {
+        "title": "Infosys Shares Rebound 5% After Four-Day Slide, But Stock Remains Down 48% From Peak",
+        "summary": "The IT major snapped a four-session losing streak after falling below Rs 1,000 for the first time since September 2020, though concerns over global IT spending continue to weigh on the stock.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/infosys-shares-rebound-5-after-four-day-slide-but-stock-remains-down-48-from-peak-11715901#publisher=newsstand",
+        "published": "Thu, 02 Jul 2026 10:07:41 +0530"
+      },
+      {
+        "title": "HTET Admit Card 2026 OUT: Check Direct Link And How To Download Level 1, Level 2 & Level 3 Hall Ticket",
+        "summary": "HTET Admit cards 2026 are out now",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/htet-admit-card-2026-out-check-direct-link-and-how-to-download-level-1-level-2-and-level-3-hall-ticket-11715805#publisher=newsstand",
+        "published": "Thu, 02 Jul 2026 10:02:23 +0530"
+      },
+      {
+        "title": "Mumbai High Tide Alert: BMC Issues Advisory As Heavy Rains Lash City",
+        "summary": "Mumbai has been placed under a red alert by the India Meteorological Department (IMD) as heavy to very heavy monsoon rainfall continues across the city and neighbouring regions.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/mumbai-high-tide-alert-bmc-issues-advisory-as-heavy-rains-lash-city-11715763#publisher=newsstand",
+        "published": "Thu, 02 Jul 2026 09:56:30 +0530"
+      },
+      {
+        "title": "Sri Lanka upgraded to upper-middle income economy by World Bank",
+        "summary": "Reclassification comes just three years after Sri Lanka faced its worst economic crisis",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/world/sri-lanka-upgraded-to-upper-middle-income-economy-by-world-bank/article71173114.ece",
+        "published": "Thu, 02 Jul 2026 10:52:16 +0530"
+      },
+      {
+        "title": "CSM Technologies lists flat at ₹113, slips 5% to lower circuit after debut",
+        "summary": "CSM Technologies’ ₹145.78-crore IPO received bids for 1,51,27,068 shares against 1,11,30,880 shares on offer, translating into an overall subscription of 1.36 times",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/markets/csm-technologies-lists-flat-at-113-slips-5-to-lower-circuit-after-debut/article71173037.ece",
+        "published": "Thu, 02 Jul 2026 10:51:29 +0530"
+      },
+      {
+        "title": "Sensex today | Stock Market Live updates: Sensex gains 300 pts, Nifty holds 24,000; Infy up 5%, HCL Tech, TCS lead gains",
+        "summary": "Sensex, Nifty, Share Prices LIVE: At 10:02, Sensex gained 376.69 points (+0.49%) to 77,299.33, Nifty jumped to 24,119.05, up 113.20 points (0.47%)",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-2-july-2026/article71172790.ece",
+        "published": "Thu, 02 Jul 2026 10:50:33 +0530"
+      },
+      {
+        "title": "\"Excited to be visiting India!\": Japan thanks India for warm reception upon PM Takaichi's arrival",
+        "summary": "PM Modi welcomed Sanae Takaichi to India, expressing delight at hosting her first visit and anticipating discussions to strengthen the India-Japan partnership",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/excited-to-be-visiting-india-japan-thanks-india-for-warm-reception-upon-pm-takaichis-arrival/article71173017.ece",
+        "published": "Thu, 02 Jul 2026 10:49:07 +0530"
+      },
+      {
+        "title": "And the business end begins",
+        "summary": "The knockout stages of the FIFA World Cup will be a treat for football fans",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/opinion/and-the-business-end-begins/article71171190.ece",
+        "published": "Thu, 02 Jul 2026 10:45:25 +0530"
+      }
+    ],
+    "India Startups & VC": [
+      {
+        "title": "Bike Bazaar’s Debt Spiral, Dream11 Shuts Fintech Arm & More",
+        "summary": "Crisis At Bike Bazaar Bike Bazaar’s lending engine appears to have stalled. With disbursements frozen, ratings cut and securitised pools…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/bike-bazaars-debt-spiral-dream11-shuts-fintech-arm-more/",
+        "published": "Thu, 02 Jul 2026 02:30:05 +0000"
+      },
+      {
+        "title": "How Bike Bazaar Ran Into A Credit Crisis",
+        "summary": "Pune-based two-wheeler finance startup Bike Bazaar has stopped lending, halting all new disbursements beginning December 2025 owed to a sharp…",
+        "source": "Inc42",
+        "link": "https://inc42.com/features/how-bike-bazaar-ran-into-a-credit-crisis/",
+        "published": "Thu, 02 Jul 2026 01:30:39 +0000"
+      },
+      {
+        "title": "Govt Asks Meta To Pause WhatsApp Username Rollout: Report",
+        "summary": "The Centre has reportedly issued a notice to Meta to pause the rollout of WhatsApp’s proposed username feature in India…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/govt-asks-meta-to-pause-whatsapp-username-rollout-report/",
+        "published": "Wed, 01 Jul 2026 16:03:58 +0000"
+      },
+      {
+        "title": "PRISM DRHP: A Look At Shareholding Pattern & Key Personnel",
+        "summary": "OYO parent PRISM has filed its updated DRHP for a fresh issue-only IPO with the SEBI. As per the company’s…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/prism-drhp-a-look-at-shareholding-pattern-key-personnel/",
+        "published": "Wed, 01 Jul 2026 14:50:35 +0000"
+      },
+      {
+        "title": "Fibe IPO Pitch: More Than A Personal Loan Platform, But Will Investors Buy In?",
+        "summary": "Earlier this week, Pune-based Fibe filed its draft red herring prospectus (DRHP) with the market regulator SEBI. With this, Fibe…",
+        "source": "Inc42",
+        "link": "https://inc42.com/features/fibe-ipo-pitch-more-than-a-personal-loan-platform-but-will-investors-buy-in/",
+        "published": "Wed, 01 Jul 2026 14:40:16 +0000"
+      }
+    ],
+    "Global Macro & Central Banks": [
+      {
+        "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+        "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+        "published": "Wed, 1 Jul 2026 18:30:00 GMT"
+      },
+      {
+        "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+        "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+        "published": "Tue, 30 Jun 2026 14:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+        "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+        "published": "Thu, 25 Jun 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+        "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+        "published": "Thu, 25 Jun 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+        "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
+        "published": "Wed, 24 Jun 2026 20:00:00 GMT"
+      },
+      {
+        "title": "ECB publishes indicative operational calendars for 2028",
+        "summary": "ECB publishes indicative operational calendars for 2028",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+        "published": "Tue, 30 Jun 2026 10:00:00 +0200"
+      },
+      {
+        "title": "ECB publishes indicative operational calendars for 2027",
+        "summary": "ECB publishes indicative operational calendars for 2027",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
+        "published": "Tue, 30 Jun 2026 10:00:00 +0200"
+      },
+      {
+        "title": "Christine Lagarde: Back to basics in an uncertain environment",
+        "summary": "Christine Lagarde: Back to basics in an uncertain environment",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
+        "published": "Mon, 29 Jun 2026 21:00:00 +0200"
+      },
+      {
+        "title": "Isabel Schnabel: Is inflation back?",
+        "summary": "Isabel Schnabel: Is inflation back?",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260627~3807c2766e.en.pdf",
+        "published": "Sat, 27 Jun 2026 15:45:00 +0200"
+      },
+      {
+        "title": "ECB Consumer Expectations Survey results – May 2026",
+        "summary": "ECB Consumer Expectations Survey results – May 2026",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260626_1~60a21704a8.en.html",
+        "published": "Fri, 26 Jun 2026 10:00:00 +0200"
+      },
+      {
+        "title": "Public debt and monetary policy transmission: evidence from advanced and emerging Europe",
+        "summary": "by Christopher Johns, Aaron Mehrotra, Fabrizio Zampolli Using high-frequency euro area monetary policy shocks and panel local projections for the period 2001-2020, this paper examines how macroeconomic variables respond based on the level and the maturity structure of public debt. The results show t",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1365.htm",
+        "published": "2026-06-28T10:13:00Z"
+      },
+      {
+        "title": "Financial and real effects of fiscal risk",
+        "summary": "by Denis Gorea, Ding Xuan Ng, Fabrizio Zampolli This paper estimates the macroeconomic and financial effects of fiscal risk shocks using a novel identification from bond yields. We first recover country-specific fiscal risk shocks from a daily Bayesian VAR model in sovereign and safe corporate bond ",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1364.htm",
+        "published": "2026-06-28T09:31:00Z"
+      },
+      {
+        "title": "The macroeconomics of stablecoins",
+        "summary": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, inc",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1363.htm",
+        "published": "2026-06-23T07:44:00Z"
+      },
+      {
+        "title": "Embracing carbon uncertainty in portfolio construction",
+        "summary": "by Dora Xia, Omar Zulaica We propose a framework for constructing fixed-income portfolios of sovereign bonds that integrates financial and environmental considerations. Central to our approach is the introduction of carbon returns, a concept analogous to financial returns, modeled as random variable",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1362.htm",
+        "published": "2026-06-17T11:27:00Z"
+      },
+      {
+        "title": "Bond yield responses to macro news: the role of macro forecast disagreement and monetary policy uncertainty",
+        "summary": "by Peter Hördahl, Burçin Kısacıkoğlu, Dora Xia Bond yields react to macroeconomic surprises, but the magnitude of this responsiveness depends on macroeconomic forecast disagreement and monetary policy uncertainty. Using intraday responses of US Treasury futures to surprises in macroeconomic data rel",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1361.htm",
+        "published": "2026-06-16T11:27:00Z"
+      },
+      {
+        "title": "The Mismeasure of Europe’s Economy",
+        "summary": "While Nobel laureate economists Paul Krugman and Philippe Aghion disagree over how to measure Europe’s productivity gap with the United States, both overlook the value of its accumulated assets. That blind spot obscures the real story: Europe is living off a remarkable inheritance it has yet to conv",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/real-reason-europe-appears-less-productive-than-america-by-sami-mahroum-2026-07",
+        "published": "Wed, 01 Jul 2026 14:59:33 GMT"
+      },
+      {
+        "title": "NATO Needs a Defense Market",
+        "summary": "To convert NATO members' resources into military capabilities, setting defense as a strategic priority, increasing spending, and improving procurement systems are all steps in the right direction. But member countries will need to expand their industrial capacity—and that requires much more.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/nato-defense-market-is-necessary-for-the-development-of-industrial-capacity-by-fiona-e-murray-and-robert-murray-2-2026-07",
+        "published": "Wed, 01 Jul 2026 13:35:50 GMT"
+      },
+      {
+        "title": "The Digital Choices Shaping our Children’s Health",
+        "summary": "Around the world, childhood is being reprogrammed by digital technologies that shape how young people learn, play, and connect. But children and young people are not experimental subjects, a captive market, or a commodity, which is why we must shape digital environments that protect and support thei",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/children-must-come-first-in-digital-safety-policies-by-emmanuel-macron-and-tedros-adhanom-ghebreyesus-2026-07",
+        "published": "Wed, 01 Jul 2026 08:59:28 GMT"
+      },
+      {
+        "title": "Oligarchy’s Ancient Origins",
+        "summary": "The struggle between democracy and oligarchy in classical Greece was bitter, with oligarchies relying on skillfully designed political institutions to shore up unpopular regimes. As concerns grow over the “rule of the few” in the United States, Americans should consider how their own institutions ar",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/onpoint/ancient-greece-oligarchy-bitter-struggle-with-democracy-by-matt-simonton-2026-07",
+        "published": "Wed, 01 Jul 2026 08:14:26 GMT"
+      },
+      {
+        "title": "How Modi Has Remade India",
+        "summary": "Over the last 12 years, Indian Prime Minister Narendra Modi has overseen dizzying progress in economic modernization and state capacity-building, as well as dismaying setbacks on institutional independence and minority inclusion. This record offers important insights into how India will navigate the",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/modi-12-year-record-includes-economic-successes-and-democratic-failures-by-shashi-tharoor-2026-06",
+        "published": "Tue, 30 Jun 2026 14:44:03 GMT"
+      }
+    ],
+    "Global Markets & Business": [
+      {
+        "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
+        "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 01 Jul 2026 17:22:25 GMT"
+      },
+      {
+        "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute leaving fans stranded outside stadiums",
+        "summary": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 02 Jul 2026 04:59:47 GMT"
+      },
+      {
+        "title": "Don't expect trackers to save your stolen car, experts say",
+        "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 01 Jul 2026 23:31:43 GMT"
+      },
+      {
+        "title": "Halifax brand to be scrapped after 173 years",
+        "summary": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 01 Jul 2026 20:09:05 GMT"
+      },
+      {
+        "title": "US blocks long-term renewal of North American trade deal",
+        "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 01 Jul 2026 18:56:36 GMT"
+      },
+      {
+        "title": "Automakers report mixed U.S. sales results as hybrid vehicles drive market",
+        "summary": "Second-quarter U.S. new vehicle sales show a sharp divide, with automakers offering hybrid models largely outperforming those without  them.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/01/q2-auto-sales-gm-stellantis-toyota-hyundai.html",
+        "published": "Wed, 01 Jul 2026 20:12:29 GMT"
+      },
+      {
+        "title": "U.S. auto industry faces increased uncertainty without extension of USMCA trade deal",
+        "summary": "A major issue for automakers is the deal's rules of origin, which determine where a product comes from and which goods are eligible for preferential treatment.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/01/automakers-usmca-trade.html",
+        "published": "Wed, 01 Jul 2026 22:33:53 GMT"
+      },
+      {
+        "title": "Lamborghini reveals new Urus performance hybrid SUV after ditching EVs",
+        "summary": "Lamborghini is calling the new Urus SE Performante the \"fastest Super SUV in the world.\"",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/01/lamborghini-urus-suv.html",
+        "published": "Wed, 01 Jul 2026 10:13:43 GMT"
+      },
+      {
+        "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
+        "summary": "Nike was expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
+        "published": "Tue, 30 Jun 2026 22:07:27 GMT"
+      },
+      {
+        "title": "American Airlines brings grab-and-go lounge to New York's JFK",
+        "summary": "American Airlines is opening a grab-and-go lounge at New York's JFK",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html",
+        "published": "Tue, 30 Jun 2026 18:00:01 GMT"
+      },
+      {
+        "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
+        "summary": "“Cat growth is on fire,” one executive said.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
+        "published": "Thu, 02 Jul 2026 00:15:00 GMT"
+      },
+      {
+        "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.",
+        "summary": "The new accounts ban bonds and international stocks, forcing parents to bet their children’s financial future entirely on U.S. equities.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 23:48:00 GMT"
+      },
+      {
+        "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+        "summary": "CEO Jensen Huang has called humanoid robots a “multitrillion-dollar economic opportunity.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 23:11:00 GMT"
+      },
+      {
+        "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+        "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 23:01:00 GMT"
+      },
+      {
+        "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
+        "summary": "Meta’s reported interest in monetizing its AI infrastructure is leading investors to question the sustainability of neocloud business models.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
+        "published": "Wed, 01 Jul 2026 22:05:00 GMT"
+      },
+      {
+        "title": "Melania Trump NFT earnings surge 28x in 2025 as the First Lady rakes in nearly $17 million in total earnings, filing shows",
+        "summary": "The first lady earned over $10.7 million from her film; over $6 million from the sale of NFTs and collectibles; and over half a million from her memoir.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/01/melania-trump-nft-earnings-surge-filing-shows/",
+        "published": "Wed, 01 Jul 2026 18:04:17 +0000"
+      },
+      {
+        "title": "Trump’s 927-page disclosure is just a normal Tuesday for direct indexing and crypto wealth managers",
+        "summary": "Trump’s excessive trades look like those of an automated, direct indexing, tax-loss harvesting portfolio, not one individual in the know.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/01/trumps-927-page-disclosure-is-just-a-normal-tuesday-for-direct-indexing-and-crypto-wealth-managers/",
+        "published": "Wed, 01 Jul 2026 22:18:56 +0000"
+      },
+      {
+        "title": "Inside Trump’s $1.4 billion crypto empire: Altcoins, Bitcoin—and a stake in Michael Saylor’s Strategy",
+        "summary": "The president’s crypto wealth largely comes from his memecoin and his family’s crypto company, World Liberty Financial.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/01/inside-trumps-1-4-billion-crypto-empire-altcoins-bitcoin-strategy/",
+        "published": "Wed, 01 Jul 2026 21:11:35 +0000"
+      },
+      {
+        "title": "Current price of oil as of June 30 2026",
+        "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+        "source": "Fortune",
+        "link": "https://fortune.com/article/price-of-oil-06-30-2026/",
+        "published": "Tue, 30 Jun 2026 13:02:01 +0000"
+      },
+      {
+        "title": "The Iran conflict saw jet fuel prices soar—when you use 1.88 million tonnes a year, how you respond really matters (just ask DHL)",
+        "summary": "As jet fuel prices doubled, DHL Express has diversified supplies, rerouted aircraft, and shifted to sustainable alternatives to keep its 295 planes delivering.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/01/iran-conflict-jet-fuel-dhl-europe-ceo-middle-east-wellbeing/",
+        "published": "Wed, 01 Jul 2026 12:51:44 +0000"
+      },
+      {
+        "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+        "summary": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewal Donald Trump  has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than ",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+        "published": "Wed, 01 Jul 2026 20:09:01 GMT"
+      },
+      {
+        "title": "Crypto and stock stakes: key takeaways from Trump’s financial disclosures",
+        "summary": "US president raked in more than $1bn from crypto – an industry he has sought to deregulate – and a total of $2.2bn last year, files reveal Alarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025 Donald Trump’s money-making ventures enriched him by more than $2bn   last year",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/jul/01/crypto-ventures-stock-key-takeaways-trump-financial-disclosures",
+        "published": "Wed, 01 Jul 2026 13:30:20 GMT"
+      },
+      {
+        "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
+        "summary": "Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factors Dismissals of unfair labor practice charges have surged at the National Labor Relations Board under  Donald Trump , according to a  new analysis . From January 2025 to 29 April 2026, the US top",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
+        "published": "Wed, 01 Jul 2026 11:00:33 GMT"
+      },
+      {
+        "title": "Rapid spread of AI may worsen global inequality, UN warns",
+        "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across world A new  United Nations  report warns that the development of  artificial intelligence  may exacerbate global inequality and proposes a shared framework for how to responsibly develop AI, as adoption a",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+        "published": "Wed, 01 Jul 2026 19:17:11 GMT"
+      },
+      {
+        "title": "US cooking oil market shrinking due to Ice pressures on Latino households, Mazola owner says",
+        "summary": "Economic squeeze and anti-immigration raids have hit Hispanic communities, prompting people to shop online and reuse oil Business live – latest updates The US cooking oil market is shrinking and unlikely to improve soon because of economic and immigration enforcement pressures on Latino households, ",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/jul/01/us-cooking-oil-market-shrinking-ice-pressures-latino-households-mazola-owner",
+        "published": "Wed, 01 Jul 2026 12:52:57 GMT"
+      },
+      {
+        "title": "Anthropic's Fable 5 is back after the Trump administration lifted export controls",
+        "summary": "Anthropic's Fable 5 model came back online for users on Wednesday, after the Trump administration  lifted an export control  late Tuesday. Why it matters:  It's the most powerful publicly available  AI  tool — so capable that the U.S. government decided Anthropic had to add further safety measures i",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/01/anthropic-fable-5-back-online-trump-export-controls-lifted",
+        "published": "Wed, 01 Jul 2026 20:55:58 +0000"
+      },
+      {
+        "title": "Former CIA chief John Brennan sues to preserve Trump probe records",
+        "summary": "Former CIA Director John Brennan sued the  Trump  administration Tuesday, seeking a court order requiring officials to preserve records related to investigations into him. Why it matters:  If  Brennan  is later charged, preserved records could be central to any claim that the prosecution amounted to",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/01/john-brennan-trump-probe-records-lawsuit",
+        "published": "Wed, 01 Jul 2026 20:24:24 +0000"
+      },
+      {
+        "title": "No expectant moms at the border: Trump's birthright Plan B",
+        "summary": "After losing the  birthright citizenship  case at the Supreme Court,  President Trump 's aides and MAGA allies quickly pivoted to a new plan: blocking pregnant foreign women from entering the United States. Why it matters:  The proposal would open a new immigration battle over pregnancy, travel and ",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/01/trump-birth-tourism-crackdown-citizenship",
+        "published": "Wed, 01 Jul 2026 19:49:45 +0000"
+      },
+      {
+        "title": "Trump admin blasts Machado's \"grotesque political opportunism\" after Venezuela quakes",
+        "summary": "Venezuelan opposition leader  Maria Corina Machado 's repeated efforts to return to her home country after last week's devastating earthquakes there have outraged top Trump administration. Why it matters : Machado's high-profile attempts to return have saddled the State Department with \"extra needle",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/01/trump-venezuela-machado-return-efforts",
+        "published": "Wed, 01 Jul 2026 18:08:25 +0000"
+      },
+      {
+        "title": "U.S. tries to talk Iran out of tolls as talks resume in Doha",
+        "summary": "U.S. and Iranian negotiators are in Doha for talks focusing primarily on the Strait of Hormuz, with the Trump administration making the case that  Iran  stands to gain much more from a nuclear deal than it could generate from  tolls in the strait .  Why it matters:  The parties gave themselves 60 da",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/01/iran-talks-doha-tolls-strait-hormuz",
+        "published": "Wed, 01 Jul 2026 16:47:27 +0000"
+      },
+      {
+        "title": "Base44's CEO says the company built its own model to stop churning out AI-slop designs",
+        "summary": "The startup launched its LLM, Base 1, to deliver better designs and user experience than frontier models.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/base44-ceo-maor-shlomo-built-llm-combat-ai-slop-design-2026-7",
+        "published": "2026-07-02T04:48:44Z"
+      },
+      {
+        "title": "Disrupted Russian supply routes are forcing its troops to walk 18 miles to the front lines, Fedorov says",
+        "summary": "Ukraine's defense minister said Russian forces have had \"major problems getting infantry to the front line\"  and sending them supplies or fuel.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/russian-troops-walk-30-km-supply-lines-disrupted-mykhailo-fedorov-2026-7",
+        "published": "2026-07-02T04:42:12Z"
+      },
+      {
+        "title": "Will Ferrell says the 'best showbiz advice' he ever received came from his dad",
+        "summary": "Even though it wasn't a \"rah-rah speech,\" Will Ferrell said his father's words \"took the pressure off succeeding.\"",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/will-ferrell-dad-best-career-advice-failure-luck-hollywood-2026-7",
+        "published": "2026-07-02T04:16:59Z"
+      },
+      {
+        "title": "The Dan Ives era at Wedbush is over. These are some of the calls — and colorful fits — people will remember.",
+        "summary": "Ives' early predictions on Microsoft and Nvidia's AI roles proved accurate and influential. He also launched a streetwear brand.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/dan-ives-wedbush-tech-calls-outfits-nvidia-microsoft-2026-7",
+        "published": "2026-07-02T04:07:31Z"
+      },
+      {
+        "title": "The father of the internet says its biggest lessons are about to become AI's 3 biggest challenges",
+        "summary": "From standardization to turning a product into a platform, Vinton Cerf said there are lessons AI must learn from the internet boom.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/vinton-cerf-artificial-intelligence-lessons-from-early-internet-2026-7",
+        "published": "2026-07-02T04:02:01Z"
+      }
+    ],
+    "Strategy & Deep Analysis": [
+      {
+        "title": "Stocks Fall on Korean Chip Selloff, Oil Declines: Markets Wrap",
+        "summary": "Equities fell as a selloff in chip stocks spread to South Korea, reviving concerns the blistering rally in artificial intelligence shares this year may have gone too far, too fast. Brent slipped to the lowest since before the start of the Middle East war.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-01/asian-stocks-to-decline-as-traders-weigh-ai-warsh-markets-wrap",
+        "published": "Wed, 01 Jul 2026 22:05:31 GMT"
+      },
+      {
+        "title": "Yen Edges Higher With Traders on Alert for Risk of Intervention",
+        "summary": "The yen strengthened slightly against the dollar Thursday amid speculation that further intervention by Japan to bolster the currency may come without warning from officials.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-02/yen-edges-higher-with-traders-on-alert-for-risk-of-intervention",
+        "published": "Thu, 02 Jul 2026 05:00:46 GMT"
+      },
+      {
+        "title": "A Dual-Currency Stock Market Is Congo’s Latest Bid to Entice Investors",
+        "summary": "The Democratic Republic of Congo is drawing up plans for its first stock exchange as it seeks to attract more investment to an economy that’s benefiting from soaring demand for minerals critical to the AI buildout.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-02/congo-plans-first-stock-market-as-ai-mineral-boom-draws-interest",
+        "published": "Thu, 02 Jul 2026 05:00:00 GMT"
+      },
+      {
+        "title": "Palm Oil Dips on Weaker Crude and Malaysian Production Outlook",
+        "summary": "Palm oil edged lower, weighed down by declining crude prices and expectations for strong output from the second-biggest grower, Malaysia.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-02/palm-oil-dips-on-weaker-crude-and-malaysian-production-outlook",
+        "published": "Thu, 02 Jul 2026 04:59:51 GMT"
+      },
+      {
+        "title": "Trump Hails Qatar Meetings on Iran as Talks to Continue",
+        "summary": "US President Donald Trump said negotiators had made progress in indirect talks with Iran to move past last week’s tit-for-tat strikes and convert their interim truce into a lasting peace. Bloomberg's Stuart Livingstone-Wallace has the latest updates. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/videos/2026-07-02/trump-hails-qatar-meetings-on-iran-as-talks-to-continue-video",
+        "published": "Thu, 02 Jul 2026 04:53:05 GMT"
+      },
+      {
+        "title": "OpenAI proposes handing Trump administration 5% stake",
+        "summary": "Sam Altman’s start-up in early talks for a public ownership deal as political pressure rises",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
+        "published": "Thu, 02 Jul 2026 04:00:23 GMT"
+      },
+      {
+        "title": "White House accelerates plans for AI model standards",
+        "summary": "Guidance to be announced as soon as next week after government intervention in Anthropic and OpenAI rollouts",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
+        "published": "Wed, 01 Jul 2026 22:51:47 GMT"
+      },
+      {
+        "title": "Trump’s billion-dollar makeover of Washington DC",
+        "summary": "The US president calls it a ‘gift’ to the nation. Critics say he is racing past checks to stamp his mark on the capital",
+        "source": "Financial Times",
+        "link": "https://ig.ft.com/trump-dc/",
+        "published": "Thu, 02 Jul 2026 04:00:04 GMT"
+      },
+      {
+        "title": "Can Kevin Warsh tame the Fed’s $7tn balance sheet?",
+        "summary": "Pragmatism, not ideology, should be the guide",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/86f9a870-8198-47aa-a89f-56e7f148b9fb",
+        "published": "Thu, 02 Jul 2026 04:00:13 GMT"
+      },
+      {
+        "title": "The economics of women’s weight",
+        "summary": "A new study suggests weight-loss drugs help women find work — and prompt men to leave their partners",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/a7a9bfbf-9743-473b-897f-6a91ad3fa0a9",
+        "published": "Thu, 02 Jul 2026 04:00:14 GMT"
+      },
+      {
+        "title": "A new Plaza Accord for global currencies wouldn’t work",
+        "summary": "The conditions and will for a deal are not what they were in 1985",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
+        "published": "Tue, 30 Jun 2026 19:46:45 +0000"
+      },
+      {
+        "title": "Turkey’s economic plan to win from the Iran war",
+        "summary": "The country is a case study in the spillovers of conflict—both positive and negative",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
+        "published": "Mon, 29 Jun 2026 20:52:26 +0000"
+      },
+      {
+        "title": "China cracks down on rule-bending offshore investments",
+        "summary": "It wants mainland investors to bet on its own tech dreams not America’s",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
+        "published": "Sun, 28 Jun 2026 10:33:26 +0000"
+      },
+      {
+        "title": "Will AI lower interest rates?",
+        "summary": "Kevin Warsh is drawing lessons about tech from Alan Greenspan—but selectively",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+        "published": "Thu, 25 Jun 2026 09:39:49 +0000"
+      },
+      {
+        "title": "Waiving sanctions on Iranian oil is a huge concession by America",
+        "summary": "It will enrich an adversary",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+        "published": "Tue, 23 Jun 2026 19:52:15 +0000"
+      },
+      {
+        "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+        "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:26:00 -0500"
+      },
+      {
+        "title": "Comex Gold, Silver Settle Lower",
+        "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:01:00 -0500"
+      },
+      {
+        "title": "DeepSeek Won't Sink U.S. AI Titans",
+        "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 13:12:00 -0500"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk",
+        "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:27:00 -0500"
+      },
+      {
+        "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+        "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:20:00 -0500"
+      },
+      {
+        "title": "15 things trees are doing right now that you had no idea about",
+        "summary": "Trees communicate, make sounds when stressed, and redistribute water underground at night. Most of this has been discovered in the last 30 years",
+        "source": "Quartz",
+        "link": "https://qz.com/things-trees-do-most-people-dont-know",
+        "published": "Wed, 01 Jul 2026 20:53:45 GMT"
+      },
+      {
+        "title": "The best used trucks on a budget — what to buy, what to avoid, and how not to get burned",
+        "summary": "New trucks now average over $50,000. The used market under $20,000 still has solid options — if you know which models, which years, and which red flags to look for before signing anything",
+        "source": "Quartz",
+        "link": "https://qz.com/best-used-trucks-budget",
+        "published": "Wed, 01 Jul 2026 19:42:52 GMT"
+      },
+      {
+        "title": "The only moat left in AI",
+        "summary": "Nvidia dominates the AI chip market, but others are investing billions to build alternatives and compete for the future of AI hardware",
+        "source": "Quartz",
+        "link": "https://qz.com/companies-challenging-nvidia-ai-chip-market",
+        "published": "Wed, 01 Jul 2026 19:41:04 GMT"
+      },
+      {
+        "title": "What are the best options for barndominium designs and layouts?",
+        "summary": "From open-concept great rooms to shouses and detached guest suites, these are the design and layout choices shaping today's barndominium builds",
+        "source": "Quartz",
+        "link": "https://qz.com/best-barndominium-designs-and-layouts",
+        "published": "Wed, 01 Jul 2026 19:15:21 GMT"
+      },
+      {
+        "title": "The Dow falls 184 points. The same stocks that drove it up all year are now pulling it down",
+        "summary": "Semiconductor shares retreated as investors took profits following an 82% gain for the sector in the first six months of 2026",
+        "source": "Quartz",
+        "link": "https://qz.com/dow-chip-stocks-decline-184-points-first-half-070126",
+        "published": "Wed, 01 Jul 2026 18:30:28 GMT"
+      }
+    ]
+  }
+}
