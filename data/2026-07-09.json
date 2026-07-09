@@ -1,0 +1,789 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T05:37:15.620945+00:00",
+  "total_articles": 110,
+  "categories": {
+    "India Macro & Policy": [
+      {
+        "title": "Appeal No. 6933 of 2026 filed by Praveen Kumar",
+        "summary": "Appeal No. 6933 of 2026 filed by Praveen Kumar",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6933-of-2026-filed-by-praveen-kumar_102712.html",
+        "published": "08 Jul, 2026 +0530"
+      },
+      {
+        "title": "Appeal No. 6929 of 2026 filed by Doyal Mukergee",
+        "summary": "Appeal No. 6929 of 2026 filed by Doyal Mukergee",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6929-of-2026-filed-by-doyal-mukergee_102710.html",
+        "published": "08 Jul, 2026 +0530"
+      },
+      {
+        "title": "Appeal No. 6923 of 2026 filed by Sapan Shrivastava",
+        "summary": "Appeal No. 6923 of 2026 filed by Sapan Shrivastava",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/jul-2026/appeal-no-6923-of-2026-filed-by-sapan-shrivastava_102709.html",
+        "published": "08 Jul, 2026 +0530"
+      },
+      {
+        "title": "Release Order - Recovery Certificate No. RC4167 of 2021 in respect of Economy Sales Private Limited (AACCE1151B) in the matter of PS IT Infrastructure and Services Limited",
+        "summary": "Release Order - Recovery Certificate No. RC4167 of 2021 in respect of Economy Sales Private Limited (AACCE1151B) in the matter of PS IT Infrastructure and Services Limited",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/release-order-recovery-certificate-no-rc4167-of-2021-in-respect-of-economy-sales-private-limited-aacce1151b-in-the-matter-of-ps-it-infrastructure-and-services-limited_102701.html",
+        "published": "08 Jul, 2026 +0530"
+      },
+      {
+        "title": "Completion of Recovery Certificate no. RC4167 of 2021 in respect of Economy Sales Private Limited (AACCE1151B) in the matter of PS IT Infrastructure and Services Limited",
+        "summary": "Completion of Recovery Certificate no. RC4167 of 2021 in respect of Economy Sales Private Limited (AACCE1151B) in the matter of PS IT Infrastructure and Services Limited",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/jul-2026/completion-of-recovery-certificate-no-rc4167-of-2021-in-respect-of-economy-sales-private-limited-aacce1151b-in-the-matter-of-ps-it-infrastructure-and-services-limited_102699.html",
+        "published": "08 Jul, 2026 +0530"
+      }
+    ],
+    "India Markets & Corporate": [
+      {
+        "title": "Family wins Rs 9.48L VRS benefits after SBI rejects",
+        "summary": "Family wins Rs 9.48L VRS benefits after SBI rejects",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/legal/will/sbi-rejects-rs-9-48-lakh-vrs-claim-after-employee-dies-a-month-before-cut-off-date-hc-orders-payment-to-family-for-this-reason/articleshow/132277316.cms",
+        "published": "Thu, 09 Jul 2026 10:38:54 +0530"
+      },
+      {
+        "title": "One killed in fire at steel factory in UP's Hapur",
+        "summary": "One killed in fire at steel factory in UP's Hapur",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/india/one-killed-in-fire-at-steel-factory-in-ups-hapur/articleshow/132277675.cms",
+        "published": "Thu, 09 Jul 2026 10:37:24 +0530"
+      },
+      {
+        "title": "IMD says Hyderabad to receive light rainfall today",
+        "summary": "IMD says Hyderabad to receive light rainfall today",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/rain-in-hyderabad-today-july-9-imd-forecasts-light-showers-40-kmph-winds-telangana-to-see-rain-for-next-7-days/articleshow/132277620.cms",
+        "published": "Thu, 09 Jul 2026 10:35:27 +0530"
+      },
+      {
+        "title": "OPS option extended to these government employees",
+        "summary": "OPS option extended to these government employees",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/save/old-pension-scheme-option-after-retirement-extended-to-these-government-employees-will-others-also-get-it/articleshow/132277390.cms",
+        "published": "Thu, 09 Jul 2026 10:23:34 +0530"
+      },
+      {
+        "title": "Missile alerts in Bahrain and Qatar after US strikes",
+        "summary": "Missile alerts in Bahrain and Qatar after US strikes",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/defence/iran-war-news-missile-alerts-sound-in-bahrain-and-qatar-after-us-launches-new-round-of-airstrikes/articleshow/132274840.cms",
+        "published": "Thu, 09 Jul 2026 06:33:05 +0530"
+      },
+      {
+        "title": "Weather Today: When will Delhi, Mumbai get relief from extremely heavy rainfall? IMD, SkyMet explain",
+        "summary": "While Delhi started receiving its first typical monsoon rains only this week, Mumbai has been witnessing heavy rainfall since around July 1, and the deluge continues. When will the cities get respite from such heavy rainfalls?",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/weather-today-when-will-delhi-mumbai-rains-get-relief-from-extremely-heavy-rainfall-imd-skymet-explain-11783573750664.html",
+        "published": "Thu, 09 Jul 2026 10:46:43 +0530"
+      },
+      {
+        "title": "Trump seeks US Supreme Court rehearing on birthright citizenship, says ‘American citizenship not for sale’",
+        "summary": "US President Donald Trump said he would immediately seek a rehearing before the Supreme Court on its birthright citizenship ruling, alleging that billboards advertising 'birthright citizenship' for as little as $4,000 had appeared along the US-Mexico border.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/us-news/trump-seeks-us-supreme-court-rehearing-on-birthright-citizenship-says-american-citizenship-not-for-sale-11783570846929.html",
+        "published": "Thu, 09 Jul 2026 10:19:35 +0530"
+      },
+      {
+        "title": "India's first hydrogen train to be flagged off next week: Route, speed, technology and all you need to know",
+        "summary": "Following the flag-off by PM Modi, the train will commence commercial operations. It will cover about 356 km daily by making two round trips of 89 km each between Jind and Sonipat in Haryana. The train has 682 seats and a total passenger capacity of 2,600.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/indias-first-hydrogen-train-to-be-flagged-off-next-week-route-speed-technology-all-you-need-to-know-indian-railways-11783567409506.html",
+        "published": "Thu, 09 Jul 2026 09:42:10 +0530"
+      },
+      {
+        "title": "Delhi rains update: Roads waterlogged, trains delayed, Air India, IndiGo, SpiceJet issue advisory amid IMD's red alert",
+        "summary": "Delhi rains update: Rain fury not only caused waterlogging but has also impacted train, metro and flight operations. Check latest weather update amid IMD's red alert.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/delhi-rains-update-roads-waterlogged-trains-delayed-air-india-indigo-spicejet-issue-advisory-amid-imds-red-alert-11783565224598.html",
+        "published": "Thu, 09 Jul 2026 09:32:58 +0530"
+      },
+      {
+        "title": "Trump skips Qatari-gifted jet, uses old Air Force One to leave Turkey after NATO summit: ‘I'm number one on Iran’s list'",
+        "summary": "The Boeing 747-8 jet gifted by Qatar was originally manufactured as a Boeing Business Jet and delivered in April 2012. Despite it being around 14 years old, the plane has only logged about 800 hours of flight time, with Trump describing it as practically brand new.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/us-news/trump-skips-qatari-gifted-jet-uses-old-air-force-one-to-leave-turkey-after-nato-summit-11783565957550.html",
+        "published": "Thu, 09 Jul 2026 08:44:56 +0530"
+      },
+      {
+        "title": "ITR Refund Status 2026: How Soon Can You Expect Money Back In Your Bank Account?",
+        "summary": "Early trends show that refunds are being credited often within 7-10 working days.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/personal-finance/itr-refund-status-2026-how-soon-can-you-expect-money-back-in-your-bank-account-11747027#publisher=newsstand",
+        "published": "Thu, 09 Jul 2026 10:29:19 +0530"
+      },
+      {
+        "title": "Swiggy Shares Surge 7% In Trade: Key Reasons Why The Stock Is Ralllying",
+        "summary": "The stock rose as much as 7.13% during the session to hit a high of Rs 280.05. It was trading 5.18% higher at Rs 274.96, compared with its previous close of Rs 261.41.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/swiggy-shares-surge-7-percent-in-trade-key-reasons-why-the-stock-is-ralllying-11747263#publisher=newsstand",
+        "published": "Thu, 09 Jul 2026 10:24:47 +0530"
+      },
+      {
+        "title": "Vedanta Aluminium Gets 'Buy' Rating As Motilal Oswal Initiates Coverage — Chect Target Price",
+        "summary": "Motilal Oswal has initiated coverage on Vedanta Aluminum with a 'Buy' rating, implying an upside of nearly 20%.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/vedanta-aluminium-metal-gets-buy-rating-as-motilal-oswal-initiates-coverage-chect-target-price-11747257#publisher=newsstand",
+        "published": "Thu, 09 Jul 2026 10:24:34 +0530"
+      },
+      {
+        "title": "Gold, Silver Prices On July 9: Check Rates In Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad",
+        "summary": "Gold and silver prices increased in the global market as safe-haven demand returned",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/gold-silver-prices-on-july-9-rates-ease-with-stronger-rupee-defying-safe-haven-demand-check-rates-in-mumbai-delhi-chennai-and-other-major-cities-11746748#publisher=newsstand",
+        "published": "Thu, 09 Jul 2026 10:14:28 +0530"
+      },
+      {
+        "title": "Kalyan Jewellers' Rallies: Share Price May Double, Says Citi After Q1 Update — Should You Buy?",
+        "summary": "Kalyan Jewellers share price advanced 6.4% intraday to Rs 377.7 apiece.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/kalyan-jewellers-rallies-6-percent-share-price-may-double-says-citi-after-q1-update-should-you-buy-11742577#publisher=newsstand",
+        "published": "Thu, 09 Jul 2026 10:10:53 +0530"
+      },
+      {
+        "title": "Sensex today | Stock Market Live: Sensex up 550 pts, crosses 77,000; Nifty holds 24,000; Airtel, Sun Pharma top gainers",
+        "summary": "Sensex, Nifty, Share Prices LIVE: Despite the uncertain global backdrop, Foreign Institutional Investors (FIIs) remained net buyers of domestic equities, investing ₹1,962.80 crore on Wednesday",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-july-2026/article71198232.ece",
+        "published": "Thu, 09 Jul 2026 10:56:36 +0530"
+      },
+      {
+        "title": "Delhi Rains: Unrelenting rain spells chaos; IMD issues red alert",
+        "summary": "Safdarjung, the capital's base weather station, recorded 72.6 mm of rainfall in the last 24 hours that ended at 8.30 am, the India Meteorological Department (IMD) said.",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/national/delhi-rains-unrelenting-rain-spells-chaos-imd-issues-red-alert/article71201020.ece",
+        "published": "Thu, 09 Jul 2026 10:56:15 +0530"
+      },
+      {
+        "title": "Gold falls as West Asia hostilities revive inflation woes",
+        "summary": "Spot gold fell 0.4% to $4,060.46 per ‌ounce by 0343 GMT, after dropping to its lowest since July 1 on Wednesday",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/markets/gold/gold-falls-as-west-asia-hostilities-revive-inflation-woes/article71200918.ece",
+        "published": "Thu, 09 Jul 2026 10:53:43 +0530"
+      },
+      {
+        "title": "Dr Reddy's delays semaglutide supply due to active ingredient issue",
+        "summary": "The drugmaker said certain batches of semaglutide were found to be out ​of specification and ‌that it is\ninvestigating the root cause and taking measures to ensure product quality",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/companies/dr-reddys-delays-semaglutide-supply-due-to-active-ingredient-issue/article71200992.ece",
+        "published": "Thu, 09 Jul 2026 10:51:26 +0530"
+      },
+      {
+        "title": "Govt bonds pause after slump as oil, Treasury risks linger",
+        "summary": "The benchmark ​6.94% 2036 bond yield was little changed at 6.7670% by 10:15 am",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/money-and-banking/govt-bonds-pause-after-slump-as-oil-treasury-risks-linger/article71200980.ece",
+        "published": "Thu, 09 Jul 2026 10:46:28 +0530"
+      }
+    ],
+    "India Startups & VC": [
+      {
+        "title": "Flipkart’s Seller Playbook, Troubles At Ola Electric & More",
+        "summary": "Flipkart’s Zero-Commission Tryst   Flipkart is trying the zero-commission playbook. The ecommerce major has dropped its fees on all fashion products…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/flipkarts-seller-playbook-troubles-at-ola-electric-more/",
+        "published": "Thu, 09 Jul 2026 02:30:28 +0000"
+      },
+      {
+        "title": "Milo Drive Bags $2.4 Mn To Scale Electric Mobility Platform",
+        "summary": "Electric mobility startup Milo Drive has raised $2.4 Mn (about ₹22.9 Cr) in a seed funding round co-led by Caret…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/milo-drive-bags-2-4-mn-to-scale-electric-mobility-platform/",
+        "published": "Wed, 08 Jul 2026 13:52:09 +0000"
+      },
+      {
+        "title": "Novyte Banks On Agentic AI To Solve The Optimisation Puzzle In Materials Science",
+        "summary": "New materials are not created overnight; their development is often a slow, iterative process and in most cases, the work…",
+        "source": "Inc42",
+        "link": "https://inc42.com/startups/novyte-banks-on-agentic-ai-to-solve-the-optimisation-puzzle-in-materials-science/",
+        "published": "Wed, 08 Jul 2026 13:28:09 +0000"
+      },
+      {
+        "title": "Cult.fit DRHP: A Look At Shareholding Pattern & Key Executives",
+        "summary": "Gym franchise operator Cult.fit has filed its draft IPO papers with the SEBI, aiming to net up to ₹4,000 Cr…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/cult-fit-drhp-a-look-at-shareholding-pattern-key-executives/",
+        "published": "Wed, 08 Jul 2026 12:57:55 +0000"
+      },
+      {
+        "title": "Elevate Education Bags ₹170 Cr To Scale AI-Led Higher Education Platform",
+        "summary": "Edtech startup Elevate Education, formerly known as Sunstone, has raised ₹170 Cr ($17.7 Mn) in its Series D funding round…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/elevate-education-bags-%e2%82%b9170-cr-to-scale-ai-led-higher-education-platform/",
+        "published": "Wed, 08 Jul 2026 10:06:59 +0000"
+      }
+    ],
+    "Global Macro & Central Banks": [
+      {
+        "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+        "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+        "published": "Wed, 8 Jul 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+        "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
+        "published": "Tue, 7 Jul 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
+        "summary": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
+        "published": "Thu, 2 Jul 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+        "summary": "Federal Reserve issues initial findings from its 2025 triennial payments study",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+        "published": "Wed, 1 Jul 2026 18:30:00 GMT"
+      },
+      {
+        "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+        "summary": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
+        "published": "Tue, 30 Jun 2026 14:00:00 GMT"
+      },
+      {
+        "title": "Philip R. Lane: AI and monetary policy",
+        "summary": "Philip R. Lane: AI and monetary policy",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260706~b81aa4e329.en.html",
+        "published": "Mon, 06 Jul 2026 20:30:00 +0200"
+      },
+      {
+        "title": "Christine Lagarde: Interview with Les Échos",
+        "summary": "Christine Lagarde: Interview with Les Échos",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+        "published": "Thu, 02 Jul 2026 23:00:00 +0200"
+      },
+      {
+        "title": "Piero Cipollone: The digital transformation of money, payments and finance",
+        "summary": "Piero Cipollone: The digital transformation of money, payments and finance",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
+        "published": "Thu, 02 Jul 2026 19:55:00 +0200"
+      },
+      {
+        "title": "Frank Elderson: The green transition – benefits and barriers",
+        "summary": "Frank Elderson: The green transition – benefits and barriers",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
+        "published": "Thu, 02 Jul 2026 12:00:00 +0200"
+      },
+      {
+        "title": "ECB publishes indicative operational calendars for 2028",
+        "summary": "ECB publishes indicative operational calendars for 2028",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
+        "published": "Tue, 30 Jun 2026 10:00:00 +0200"
+      },
+      {
+        "title": "Public debt and monetary policy transmission: evidence from advanced and emerging Europe",
+        "summary": "by Christopher Johns, Aaron Mehrotra, Fabrizio Zampolli Using high-frequency euro area monetary policy shocks and panel local projections for the period 2001-2020, this paper examines how macroeconomic variables respond based on the level and the maturity structure of public debt. The results show t",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1365.htm",
+        "published": "2026-06-28T10:13:00Z"
+      },
+      {
+        "title": "Financial and real effects of fiscal risk",
+        "summary": "by Denis Gorea, Ding Xuan Ng, Fabrizio Zampolli This paper estimates the macroeconomic and financial effects of fiscal risk shocks using a novel identification from bond yields. We first recover country-specific fiscal risk shocks from a daily Bayesian VAR model in sovereign and safe corporate bond ",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1364.htm",
+        "published": "2026-06-28T09:31:00Z"
+      },
+      {
+        "title": "The macroeconomics of stablecoins",
+        "summary": "by Boris Hofmann, Matthias Kaldorf, Matthias Rottner We analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, inc",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1363.htm",
+        "published": "2026-06-23T07:44:00Z"
+      },
+      {
+        "title": "Embracing carbon uncertainty in portfolio construction",
+        "summary": "by Dora Xia, Omar Zulaica We propose a framework for constructing fixed-income portfolios of sovereign bonds that integrates financial and environmental considerations. Central to our approach is the introduction of carbon returns, a concept analogous to financial returns, modeled as random variable",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1362.htm",
+        "published": "2026-06-17T11:27:00Z"
+      },
+      {
+        "title": "Bond yield responses to macro news: the role of macro forecast disagreement and monetary policy uncertainty",
+        "summary": "by Peter Hördahl, Burçin Kısacıkoğlu, Dora Xia Bond yields react to macroeconomic surprises, but the magnitude of this responsiveness depends on macroeconomic forecast disagreement and monetary policy uncertainty. Using intraday responses of US Treasury futures to surprises in macroeconomic data rel",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publ/work1361.htm",
+        "published": "2026-06-16T11:27:00Z"
+      },
+      {
+        "title": "How Argentina Can Protect Its Resource Wealth",
+        "summary": "Alaska, Norway, and Chile recognized the economic and political risks that accompany commodity booms and established sovereign wealth funds to preserve their resource revenues. Argentina’s hydrocarbon- and lithium-rich provinces should learn from their experience.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/sovereign-wealth-funds-can-translate-argentina-resource-windfall-into-lasting-prosperity-by-conrado-tenaglia-2026-07",
+        "published": "Wed, 08 Jul 2026 15:56:27 GMT"
+      },
+      {
+        "title": "Reinventing Development Finance",
+        "summary": "Faced with shrinking concessional finance and rising borrowing costs, Rwanda has worked with the World Bank Group to leverage limited public funds and risk-sharing instruments to unlock private capital at scale and on affordable terms. It's an arrangement holding important lessons for low-income cou",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/rwanda-world-bank-use-concessional-finance-to-unlock-private-capital-by-yusuf-murangwa-et-al-2026-07",
+        "published": "Wed, 08 Jul 2026 15:12:41 GMT"
+      },
+      {
+        "title": "Mamdani’s American Dream",
+        "summary": "New York Mayor Zohran Mamdani’s Independence Day address was a perfect example of ideology in the positive sense of the term. It overturned both the right-wing populist narrative of the United States and the left-wing \"woke\" critique with a vision that has the potential to mobilize a majority.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/mamdani-american-dream-july-4-address-versus-maga-narrative-by-slavoj-zizek-2026-07",
+        "published": "Wed, 08 Jul 2026 14:33:22 GMT"
+      },
+      {
+        "title": "How Vulnerable Are US Financial Markets?",
+        "summary": "Fueled by more than $1 trillion in borrowed money and rising leverage across the financial system, US stock markets may have entered bubble territory. Two developments could trigger a sharp correction: higher interest rates and a loss of confidence in the handful of tech giants driving the AI boom.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/hidden-dangers-behind-debt-fueled-ai-driven-us-stock-market-rally-by-dambisa-moyo-2026-07",
+        "published": "Wed, 08 Jul 2026 13:31:18 GMT"
+      },
+      {
+        "title": "Concessional Finance Is Needed More Than Ever",
+        "summary": "As debt burdens rise and climate shocks intensify, sustainable financing mechanisms are becoming indispensable. The Islamic Development Bank’s new concessional fund offers a promising model for mobilizing the resources needed to protect development gains and invest in resilience.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/developing-world-needs-more-concessional-finance-by-muhammad-al-jasser-2026-07",
+        "published": "Wed, 08 Jul 2026 12:40:10 GMT"
+      }
+    ],
+    "Global Markets & Business": [
+      {
+        "title": "Why electric cars cost more to insure - and what's being done about it",
+        "summary": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 08 Jul 2026 23:09:55 GMT"
+      },
+      {
+        "title": "I run the UK's biggest bank, here are five ways to manage your money",
+        "summary": "The CEO of Lloyds Bank talks about how to save, budget, avoid scams and manage money in a relationship.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 08 Jul 2026 23:10:10 GMT"
+      },
+      {
+        "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+        "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 08 Jul 2026 11:24:05 GMT"
+      },
+      {
+        "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+        "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 08 Jul 2026 09:31:56 GMT"
+      },
+      {
+        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+        "summary": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 08 Jul 2026 19:23:33 GMT"
+      },
+      {
+        "title": "Levi Strauss beats quarterly expectations, raises guidance and dividend",
+        "summary": "Levi Strauss beat quarterly expectations on the top and bottom lines during its fiscal 2026 second quarter.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/08/levi-strauss-levi-q2-2026-earnings.html",
+        "published": "Wed, 08 Jul 2026 21:32:49 GMT"
+      },
+      {
+        "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
+        "summary": "The Manheim Used Vehicle Value Index for EVs — which tracks prices of used vehicles sold at its U.S. wholesale auctions — increased 12% compared to June 2025.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
+        "published": "Wed, 08 Jul 2026 16:11:15 GMT"
+      },
+      {
+        "title": "Delta launches 'basic business' fares without lounge access, seat selection",
+        "summary": "Delta is launching basic business and other stripped-down premium classes that come with fewer perks.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/08/delta-basic-business-fares.html",
+        "published": "Wed, 08 Jul 2026 15:03:58 GMT"
+      },
+      {
+        "title": "Netflix, Disney and YouTube interested in FIFA World Cup U.S. rights; package could reach $2 billion",
+        "summary": "FIFA has alerted media companies that English- and Spanish-language U.S. rights are likely to be sold together for 2030 and 2034, likely driving up the price.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/07/fifa-world-cup-media-rights-netflix-disney-youtube.html",
+        "published": "Wed, 08 Jul 2026 15:38:50 GMT"
+      },
+      {
+        "title": "Stellantis to sell small Fiat Topolino EV for $13,995 in U.S.",
+        "summary": "While the Topolino resembles a small car such as the Fiat 500, the EV is actually a quadricycle that functions more like a golf cart.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/07/stellantis-fiat-topolino-ev.html",
+        "published": "Tue, 07 Jul 2026 15:37:26 GMT"
+      },
+      {
+        "title": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
+        "summary": "Jeans maker raises its full-year outlook for the second straight time, but shares fall after hours",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
+        "published": "Thu, 09 Jul 2026 00:38:00 GMT"
+      },
+      {
+        "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
+        "summary": "Wall Street expects President Donald Trump’s call that the Iran cease-fire is over will hurt airlines and home builders more than it will help oil companies.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
+        "published": "Thu, 09 Jul 2026 00:07:00 GMT"
+      },
+      {
+        "title": "I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?",
+        "summary": "Even if you’re not worried about your normal spending anymore, a long-term-care need is still a problem for any budget.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 22:48:00 GMT"
+      },
+      {
+        "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.",
+        "summary": "It’s a ‘major taxpayer win,’ according to one advocate inside the IRS",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 21:40:00 GMT"
+      },
+      {
+        "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
+        "summary": "Oil prices settled at their highest levels in more than two weeks on Wednesday, then extended their gains in after-hours trading after the U.S. military said it launched additional strikes on Iran.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
+        "published": "Wed, 08 Jul 2026 21:16:00 GMT"
+      },
+      {
+        "title": "I argued with the father of open source for 2 years. Now the AI fight is the same — only bigger",
+        "summary": "Two Sigma co-founder David Siegel says closing off AI is the same mistake the software industry nearly made in the 1980s — only with higher stakes.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
+        "published": "Fri, 03 Jul 2026 12:30:00 +0000"
+      },
+      {
+        "title": "How Qualcomm’s CIO is placing big bets on AI to support the chip company’s diversification push",
+        "summary": "Qualcomm CIO Atilla Tinic says more internal usage of AI can support the semiconductor company's diversification efforts.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/08/qualcomm-cio-ai-diversification-strategy/",
+        "published": "Wed, 08 Jul 2026 17:55:53 +0000"
+      },
+      {
+        "title": "Exclusive: Fi is bringing Starlink satellite technology to dog collars",
+        "summary": "Fi is launching the first pet tracker powered by SpaceX's direct-to-cell satellites, bringing satellite connectivity to consumer pet tech.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/08/exclusive-fi-starlink-satellite-technology-dog-collars-pet-wearables-spacex/",
+        "published": "Wed, 08 Jul 2026 16:53:00 +0000"
+      },
+      {
+        "title": "‘Failures happen during construction’: Office-to-residential conversions are all over NYC, but failures usually get fixed before they get worse",
+        "summary": "An engineer says the failed columns at the former Pfizer HQ have nothing to do with steel material quality.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/08/construction-failures-nyc-midtown-office-conversion-residential-office-buildings/",
+        "published": "Wed, 08 Jul 2026 21:32:07 +0000"
+      },
+      {
+        "title": "Vets issue urgent warning to pet owners as flesh-eating screwworm spreads through Texas and New Mexico",
+        "summary": "Animal health experts say pet owners in areas where the screwworm is present should watch their animals closely.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/07/08/what-is-new-world-screwworm-flesh-eating-parasite-pets/",
+        "published": "Wed, 08 Jul 2026 21:24:20 +0000"
+      },
+      {
+        "title": "Trump’s policy mayhem is making even the Maga faithful consider walking away",
+        "summary": "Even voters who identify as foot soldiers of his political army are increasingly willing to blame Trump for their economic troubles The political consequences of Donald Trump’s policy mayhem are now coming into view: “Maga” America is getting pissed. It has been a sight to see how every one of the p",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy",
+        "published": "Wed, 08 Jul 2026 10:00:26 GMT"
+      },
+      {
+        "title": "Oil prices jump over 5% after Trump suggests ceasefire with Iran has ended following fresh US strikes – as it happened",
+        "summary": "Brent crude spikes to a daily high of $79.26, gas prices rise, stock markets slide and government bond yields surge on inflation and rate hike fears US and Iran trade strikes around strait of Hormuz as ceasefire is violated again Summer holiday bookings have bounced back recently after the fragile c",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/live/2026/jul/08/oil-prices-rise-fresh-us-strikes-iran-return-sanctions-tehran-federal-reserve-minutes-live-updates",
+        "published": "Wed, 08 Jul 2026 14:18:20 GMT"
+      },
+      {
+        "title": "The Hill is capitalizing on reader interest in the second Trump administration",
+        "summary": "The Washington-based publication is announcing plans for a new digital subscription product called the Hill Insider The most-visited digital-first news publication dedicated to politics wasn’t Politico or Axios in May – it was the Hill, a Washington-based outlet that also still publishes a print pro",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/media/2026/jul/08/the-hill-insider-trump-bill-sammon",
+        "published": "Wed, 08 Jul 2026 13:00:32 GMT"
+      },
+      {
+        "title": "‘Why take those jobs away?’: the unionized workers decrying Trump’s war on wind",
+        "summary": "Workers proud of their efforts to grow renewable energy say US president pursuing ‘personal vendetta’ at their expense Donald Trump has blamed everything – from  “national security”  issues, the deaths of  birds  and  whales , and cancer – in his decades-long campaign against windfarms. But as the T",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/environment/2026/jul/06/workers-unions-trump-wind-energy",
+        "published": "Mon, 06 Jul 2026 11:00:01 GMT"
+      },
+      {
+        "title": "Conservative fight against license renewals for ABC stations heats up",
+        "summary": "Prominent organizations accuse network of political, racial and sexual bias and supporting Chinese communist party A group of prominent conservative organizations has petitioned the Federal Communications Commission (FCC) to deny license renewal requests from the eight local television stations owne",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/media/2026/jul/06/abc-license-renewals-fcc",
+        "published": "Mon, 06 Jul 2026 11:00:02 GMT"
+      },
+      {
+        "title": "With Iran ceasefire \"over,\" Trump shifts to battle for Hormuz",
+        "summary": "The White House is preparing for what could become a multi-day or even multi-week exchange of fire with  Iran  over the  Strait of Hormuz . The length and severity of the new campaign hinge entirely on Tehran's next moves, U.S. officials tell Axios. Why it matters:  A war that began with the goal of",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/09/trump-iran-strait-hormuz-battle",
+        "published": "Thu, 09 Jul 2026 02:11:30 +0000"
+      },
+      {
+        "title": "Graham Platner says he's \"suspending\" Maine Senate bid",
+        "summary": "Maine Democrat  Graham Platner  announced Wednesday that he is \"suspending campaign operations\" for his Senate bid. Platner indicated that he intends to withdraw from the race — but said the process to replace him \"needs to be driven not from back rooms, but by the will of the people.\" Why it matter",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/09/graham-platner-suspends-maine-senate-susan-collins",
+        "published": "Thu, 09 Jul 2026 01:27:09 +0000"
+      },
+      {
+        "title": "U.S. strikes Iranian targets in Strait of Hormuz for 2nd straight day",
+        "summary": "The U.S. military struck  Iranian  targets near the Strait of Hormuz on Wednesday, a U.S. official said.  Why it matters:  This was the  second day  in a row that the U.S. attacked Iranian targets in what U.S. officials say is an effort to stop Tehran from striking commercial ships in the Strait of ",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/08/us-strikes-iran-targets-strait-of-hormuz-second-day",
+        "published": "Thu, 09 Jul 2026 01:09:23 +0000"
+      },
+      {
+        "title": "House Democrats' Jeffries-skeptic caucus isn't done growing",
+        "summary": "Democratic primaries this summer could elevate another crop of incoming House members who have refused to commit to voting for Minority Leader  Hakeem Jeffries  (D-N.Y.) as speaker. Why it matters:  This growing bloc of Jeffries skeptics could create real headaches for the Democratic leader as he at",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/08/democrats-jeffries-primaries-speaker-vote-dsa",
+        "published": "Wed, 08 Jul 2026 23:29:52 +0000"
+      },
+      {
+        "title": "Scoop: GOP megadonor Ken Griffin says he'd back Rubio over Vance in 2028",
+        "summary": "Republican megadonor  Ken Griffin  said at a private conference Wednesday that he'd support Secretary of State Marco Rubio over Vice President JD Vance in a 2028 GOP presidential primary, Axios has learned. Why it matters:  Griffin is one of the most prolific donors in the Republican Party — he gave",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/07/08/ken-griffin-gop-rubio-vance-2028",
+        "published": "Wed, 08 Jul 2026 22:33:23 +0000"
+      },
+      {
+        "title": "Jensen Huang says his software engineers prefer building agents to writing code",
+        "summary": "Jensen Huang says his software engineers love how AI is changing their role.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/jensen-huang-my-engineers-prefer-building-agents-to-writing-code-2026-7",
+        "published": "2026-07-09T05:24:57Z"
+      },
+      {
+        "title": "Samsung and SK Hynix still have one advantage Japan can't match, says Kioxia dealmaker",
+        "summary": "Kioxia, which was spun off from Toshiba in 2017, has become Japan's most valuable company by market cap.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/samsung-sk-hynix-have-an-edge-japan-cant-match-kioxia-dealmaker-2026-7",
+        "published": "2026-07-09T04:53:30Z"
+      },
+      {
+        "title": "Meta paused AI training on employee keystrokes after data was 'put in a place it wasn't supposed to go:' CTO",
+        "summary": "The Model Capability Initiative, which has faced intense backlash, has been paused temporarily since June, just two months after its implementation.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/meta-andrew-bosworth-why-ai-training-employee-keystrokes-paused-2026-7",
+        "published": "2026-07-09T04:52:31Z"
+      },
+      {
+        "title": "I got an H-1B visa and my dream job at Google. Both were less secure than I thought.",
+        "summary": "Gu Yichen was on an H-1B visa when he got laid off. He had 60 days to find a job, get sponsorship transferred, and start working.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/h1b-visa-laid-off-google-hired-at-amazon-chinese-engineering-2026-7",
+        "published": "2026-07-09T04:03:01Z"
+      },
+      {
+        "title": "Canada's getting its first Meta data center, and it's built for AI",
+        "summary": "Meta said it's investing $9 billion to build a new data center in Alberta, Canada, making it the company's 33rd data center in the world.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/meta-builds-nine-billion-ai-data-center-in-canada-2026-7",
+        "published": "2026-07-09T04:02:01Z"
+      }
+    ],
+    "Strategy & Deep Analysis": [
+      {
+        "title": "Australia Agrees to Sell Uranium to India During Modi Visit",
+        "summary": "Australia has agreed to sell uranium to India for power generation in a landmark deal signed between the two nations during a visit to Melbourne by Prime Minister Narendra Modi.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-09/australia-agrees-to-sell-uranium-to-india-during-modi-visit",
+        "published": "Thu, 09 Jul 2026 05:09:16 GMT"
+      },
+      {
+        "title": "India Seeks Safe Hormuz Pass for Nine Ships as Truce Falters",
+        "summary": "India is considering options including holding talks with Iran in order to secure safe passage for at least nine laden tankers waiting in the Persian Gulf, as attacks in the waterway threaten an already fragile interim ceasefire.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-08/india-seeks-safe-hormuz-passage-for-nine-ships-as-truce-falters",
+        "published": "Wed, 08 Jul 2026 10:43:52 GMT"
+      },
+      {
+        "title": "Tata Group Targets $100 Billion Revenue from Auto Units by 2031",
+        "summary": "Tata Group is targeting about $100 billion in automotive revenue by the year ended March 2031, Chairman Natarajan Chandrasekaran said, outlining growth plans across its four automotive businesses following the demerger of Tata Motors’ passenger and commercial vehicle operations.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-09/tata-group-targets-100-billion-revenue-from-auto-units-by-2031",
+        "published": "Thu, 09 Jul 2026 05:23:24 GMT"
+      },
+      {
+        "title": "Deutsche Bank Eyes India, Indonesia Bonds If Oil Holds Below $70",
+        "summary": "Deutsche Bank AG’s private arm will consider buying emerging Asia bonds if oil prices stay low enough to push down inflation and yields.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-09/deutsche-bank-eyes-india-indonesia-bonds-if-oil-holds-below-70",
+        "published": "Thu, 09 Jul 2026 05:20:05 GMT"
+      },
+      {
+        "title": "Gold Holds Decline as US Strikes on Iran Magnify Inflation Risks",
+        "summary": "Gold held a decline as a second day of US strikes against Iran drove energy prices higher and intensified concerns around inflation.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-07-08/gold-holds-decline-as-us-strikes-on-iran-magnify-inflation-risks",
+        "published": "Wed, 08 Jul 2026 22:54:24 GMT"
+      },
+      {
+        "title": "US carries out second day of strikes against Iran",
+        "summary": "Donald Trump claims Iran ‘called’ to negotiate but casts doubt on the prospects of a deal",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439",
+        "published": "Thu, 09 Jul 2026 04:49:02 GMT"
+      },
+      {
+        "title": "Iran war windfall puts Big Oil on collision course with Trump",
+        "summary": "Fuel price surge triggered by conflict brings pain for consumers but profit gusher for US groups",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/aa2bacf1-4a2a-447b-b7fb-6620fab03cf1",
+        "published": "Thu, 09 Jul 2026 04:00:32 GMT"
+      },
+      {
+        "title": "Why the US and Iran are stuck in a cycle of tit-for-tat strikes",
+        "summary": "Trump’s push to get ships moving through the Strait of Hormuz keeps colliding with Tehran’s resistance to cede control",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/6a0166e3-dc5e-4d16-8feb-872ac729733d",
+        "published": "Wed, 08 Jul 2026 14:51:39 GMT"
+      },
+      {
+        "title": "The century-old device choking the world’s AI push",
+        "summary": "Surging data centre power demands are intensifying pressure on transformer supply chains",
+        "source": "Financial Times",
+        "link": "https://ig.ft.com/transformers/",
+        "published": "Thu, 09 Jul 2026 04:00:11 GMT"
+      },
+      {
+        "title": "Who wants to tax a billionaire?",
+        "summary": "A gentle guide to a harsh debate",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/bf1892d7-f9ef-479c-a1fb-f8dcb9efa328",
+        "published": "Thu, 09 Jul 2026 04:00:23 GMT"
+      },
+      {
+        "title": "Three ways the LNG market could crack before winter",
+        "summary": "War, weather and outages may still send gas prices soaring",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter",
+        "published": "Wed, 08 Jul 2026 14:08:15 +0000"
+      },
+      {
+        "title": "AI has taken over the stock market. The bond market is next",
+        "summary": "Judging credit risk of the AI boom is difficult",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
+        "published": "Tue, 07 Jul 2026 20:08:30 +0000"
+      },
+      {
+        "title": "Europe’s economy is a mess. Its stock markets are a steal",
+        "summary": "International investors still aren’t interested",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal",
+        "published": "Tue, 07 Jul 2026 19:20:24 +0000"
+      },
+      {
+        "title": "The World Bank has ditched its climate targets",
+        "summary": "The rise and fall of the institution’s love for green growth",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
+        "published": "Mon, 06 Jul 2026 19:40:33 +0000"
+      },
+      {
+        "title": "Women’s progress at work appears to be stalling",
+        "summary": "After the “lean in” generation, are professional women leaning out?",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling",
+        "published": "Sun, 05 Jul 2026 17:22:02 +0000"
+      },
+      {
+        "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+        "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:26:00 -0500"
+      },
+      {
+        "title": "Comex Gold, Silver Settle Lower",
+        "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:01:00 -0500"
+      },
+      {
+        "title": "DeepSeek Won't Sink U.S. AI Titans",
+        "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 13:12:00 -0500"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk",
+        "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:27:00 -0500"
+      },
+      {
+        "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+        "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:20:00 -0500"
+      },
+      {
+        "title": "The new Luddites",
+        "summary": "A growing anti-tech movement is challenging Big Tech's influence as concerns about AI, privacy and digital dependence continue to rise",
+        "source": "Quartz",
+        "link": "https://qz.com/anti-tech-movement-ai-offline-rebellion",
+        "published": "Wed, 08 Jul 2026 21:01:06 GMT"
+      },
+      {
+        "title": "Here are the best gelato shops in Italy",
+        "summary": "From Palermo's brioche-wrapped pistachio gelato to a Calabrian waterfront kiosk that has served bergamot and tartufo since 1918",
+        "source": "Quartz",
+        "link": "https://qz.com/best-gelato-shops-italy",
+        "published": "Wed, 08 Jul 2026 20:42:39 GMT"
+      },
+      {
+        "title": "The best places to swim in New York City this summer",
+        "summary": "From Coney Island's century-old boardwalk and 56-mph roller coasters to a Governors Island spa where soaking pools overlook the Financial District",
+        "source": "Quartz",
+        "link": "https://qz.com/best-places-swim-new-york-city-summer",
+        "published": "Wed, 08 Jul 2026 20:24:47 GMT"
+      },
+      {
+        "title": "The best museums in France for art and history lovers",
+        "summary": "From the Louvre's 35,000 works across 403 halls to a WWI tunnel network beneath Arras where New Zealand miners once hid an entire army",
+        "source": "Quartz",
+        "link": "https://qz.com/best-museums-france-art-history-lovers",
+        "published": "Wed, 08 Jul 2026 20:05:22 GMT"
+      },
+      {
+        "title": "15 endangered species and exactly what disappears from the ecosystem if they go",
+        "summary": "Biodiversity arguments are often made in the language of loss and grief. This one is made in the language of function — what each of these species actually does, and what stops working when it no longer does it",
+        "source": "Quartz",
+        "link": "https://qz.com/endangered-species-ecological-importance",
+        "published": "Wed, 08 Jul 2026 19:56:21 GMT"
+      }
+    ]
+  }
+}
