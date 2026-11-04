@@ -1,0 +1,754 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T07:47:18.064928+00:00",
+  "total_articles": 105,
+  "categories": {
+    "India Macro & Policy": [
+      {
+        "title": "Exemption Order in the matter of Emmbi Industries Limited",
+        "summary": "Exemption Order in the matter of Emmbi Industries Limited",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf",
+        "published": "03 Nov, 2026 +0530"
+      },
+      {
+        "title": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
+        "summary": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html",
+        "published": "03 Nov, 2026 +0530"
+      },
+      {
+        "title": "Adjudication Order in the matter of front running of the trades of Axis Mutual Fund",
+        "summary": "Adjudication Order in the matter of front running of the trades of Axis Mutual Fund",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-front-running-of-the-trades-of-axis-mutual-fund_105574.html",
+        "published": "03 Nov, 2026 +0530"
+      },
+      {
+        "title": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited.",
+        "summary": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited.",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-_105572.html",
+        "published": "03 Nov, 2026 +0530"
+      },
+      {
+        "title": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited",
+        "summary": "Completion of Recovery Certificate No. RC9307 of 2026 in respect of Sri Salasar Suppliers Pvt. Ltd  (PAN: AADCS8457R) in the matter of Decillon Finance Limited",
+        "source": "SEBI",
+        "link": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-rc9307-of-2026-in-respect-of-sri-salasar-suppliers-pvt-ltd-pan-aadcs8457r-in-the-matter-of-decillon-finance-limited_105568.html",
+        "published": "02 Nov, 2026 +0530"
+      }
+    ],
+    "India Markets & Corporate": [
+      {
+        "title": "IndiGo to buy 100 jets from Brazil's Embraer",
+        "summary": "IndiGo to buy 100 jets from Brazil's Embraer",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indigo-in-talks-with-brazilian-planemaker-embraer-for-100-jets-sources-say/articleshow/135529809.cms",
+        "published": "Wed, 04 Nov 2026 13:06:34 +0530"
+      },
+      {
+        "title": "FD interest rates up to 8.50%: Check revised rates of 4 banks",
+        "summary": "FD interest rates up to 8.50%: Check revised rates of 4 banks",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/fd-interest-rates-up-to-8-60-in-november-2026-compare-revised-rates-of-kotak-mahindra-bank-axis-bank-suryoday-sfb-and-utkarsh-sfb/articleshow/135529310.cms",
+        "published": "Wed, 04 Nov 2026 12:59:36 +0530"
+      },
+      {
+        "title": "The debt mountain behind middle class' retail itch",
+        "summary": "The debt mountain behind middle class' retail itch",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/middle-class-spending-boom-in-india-comes-with-growing-debt-bill/articleshow/135526004.cms",
+        "published": "Wed, 04 Nov 2026 11:31:38 +0530"
+      },
+      {
+        "title": "'India is bigger than US for ChatGPT': Sam Altman",
+        "summary": "'India is bigger than US for ChatGPT': Sam Altman",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/india-is-bigger-than-us-for-chatgpt-openais-sam-altman-says-americans-are-negative-about-ai-indians-unusually-positive/articleshow/135528561.cms",
+        "published": "Wed, 04 Nov 2026 12:49:50 +0530"
+      },
+      {
+        "title": "D-St may now break free from geopolitical overhang",
+        "summary": "D-St may now break free from geopolitical overhang",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-mid-terms-may-help-d-street-break-free-from-geopolitical-overhang/articleshow/135516732.cms",
+        "published": "Wed, 04 Nov 2026 05:48:58 +0530"
+      },
+      {
+        "title": "’People were forced to pay between  ₹25,000- ₹50,000 to get LPG cylinder connection: UP CM Yogi slams Congress | Details",
+        "summary": "UP Chief Minister Yogi Adityanath attacked the Congress-led UPA over alleged hurdles in obtaining LPG connections before 2014. Speaking at a subsidy distribution event in Lucknow, he highlighted welfare measures and said a special package to support women’s self-reliance would be introduced soon.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/people-were-forced-to-pay-between-25-000-50-000-to-get-lpg-cylinder-connection-up-cm-yogi-slams-congress-details-11793777534686.html",
+        "published": "Wed, 04 Nov 2026 13:11:49 +0530"
+      },
+      {
+        "title": "Mukesh Ambani’s wife, Nita Ambani, wore  ₹15 crore, 17.67-carat tsavorite garnet ‘Soaring Spirit’ brooch: Details inside",
+        "summary": "Nita Ambani’s dragonfly brooch drew attention at The Library’s launch at NMACC. Created by jewellery artist Wallace Chan, ‘Soaring Spirit’ carries a story beyond its striking appearance. Here’s a closer look at the piece and the inspiration behind it.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/trends/mukesh-ambani-s-wife-nita-ambani-wore-15-crore-17-67-carat-tsavorite-garnet-soaring-spirit-brooch-details-inside-11793774241649.html",
+        "published": "Wed, 04 Nov 2026 12:27:58 +0530"
+      },
+      {
+        "title": "US midterm elections 2026: Vivek Ramaswamy loses to Democrat Amy Acton in Ohio governor’s race — What we know",
+        "summary": "US midterm elections 2026: Democrat Amy Acton reportedly defeated Republican Vivek Ramaswamy in the Ohio Governor's race.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/us-news/us-midterm-elections-2026-vivek-ramaswamy-loses-to-democrat-amy-acton-in-ohio-governor-s-race-what-we-know-so-far-11793762908736.html",
+        "published": "Wed, 04 Nov 2026 09:18:56 +0530"
+      },
+      {
+        "title": "‘No immediate plans’: Donald Trump says amid report of possible US strike against Iran as early as tomorrow",
+        "summary": "Donald Trump said the United States has no immediate plans to strike Iran, though it is prepared to act if necessary. He confirmed a minor US strike on Iran’s Qeshm Island as Tehran signalled openness to negotiations and warned it was ready to fight.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/us-news/no-immediate-plans-donald-trump-says-amid-report-of-possible-us-strike-against-iran-as-early-as-tomorrow-11793762007376.html",
+        "published": "Wed, 04 Nov 2026 08:55:16 +0530"
+      },
+      {
+        "title": "US midterm election results impact on H-1B visa: What Republican or Democratic control could mean for Indians",
+        "summary": "US midterm results could shape H-1B visa policy. A Democratic win may increase scrutiny of Donald Trump’s immigration measures, while Republicans could seek legislative backing for the $100,000 fee. A change in Congress would not automatically alter visa rules.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/us-news/us-midterm-election-results-impact-on-h-1b-visa-what-republican-or-democratic-control-could-mean-for-indians-11793760000081.html",
+        "published": "Wed, 04 Nov 2026 08:24:24 +0530"
+      },
+      {
+        "title": "8th Pay Commission: How Much Arrears Could Employees Get If Implementation Is Delayed Until 2027?",
+        "summary": "The commission will likely submit its report in May 2027.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-how-much-arrears-could-employees-get-if-implementation-is-delayed-until-2027-12280873#publisher=newsstand",
+        "published": "Wed, 04 Nov 2026 12:39:55 +0530"
+      },
+      {
+        "title": "Now, Class 9 Students Will Learn All About Setting Up A Business, Fixed Deposits Mutual Funds And More",
+        "summary": "Class 9 Students Will Learn All About Setting Up A Business, Fixed Deposits Mutual Funds And More",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/education/class-9-students-will-learn-all-about-setting-up-a-business-fixed-deposits-mutual-funds-and-more-12281011#publisher=newsstand",
+        "published": "Wed, 04 Nov 2026 12:38:24 +0530"
+      },
+      {
+        "title": "Stock Market LIVE: Sensex Flat, Nifty 50 Around 23,800; TCS, Infosys, HCL Tech Lead Losses; BEL, Adani Ent, ITC Gain",
+        "summary": "Broader markets outperformed the frontliers, as the Nifty Smallcap 100 and the Nifty Midcap 100 indices traded over half apercent higher each.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/stock-market-live-blog-sensex-today-nifty50-gift-nifty-live-updates-today-us-midterm-elections-outcome-iran-q2-earnings-november-4-2026-12279598#publisher=newsstand",
+        "published": "Wed, 04 Nov 2026 12:37:27 +0530"
+      },
+      {
+        "title": "Gold Glitters, Silver Shines Ahead Of Dhanteras: Yellow Metal Prices Jump By Rs 2,500; Silver Surges By Rs 5,700",
+        "summary": "Gold and silver prices are rallying after touching a one-month low last week.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/gold-glitters-silver-shines-ahead-of-dhanteras-yellow-metal-prices-jump-by-rs-2-500-silver-surges-by-rs-5-700-12280898#publisher=newsstand",
+        "published": "Wed, 04 Nov 2026 12:36:18 +0530"
+      },
+      {
+        "title": "Q2 Results Live Updates: Saregama India Profit Rises 48%, Cera Sanitaryware Profit Flat At Rs 56 Crore; BSE, Cummins Also In Focus",
+        "summary": "Q2 Results Live Market Blog",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-4-bse-cummins-india-zydus-lifesciences-among-327-companies-to-announce-earnings-today-12280800#publisher=newsstand",
+        "published": "Wed, 04 Nov 2026 12:35:46 +0530"
+      },
+      {
+        "title": "SBI shares edge higher as analysts weigh Q2 beat against opex concerns",
+        "summary": "The bank reported double-digit growth in quarterly profit and net interest income, while retaining its key business growth and profitability guidance",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/markets/stock-markets/sbi-shares-edge-higher-as-analysts-weigh-q2-beat-against-opex-concerns/article71664510.ece",
+        "published": "Wed, 04 Nov 2026 13:09:32 +0530"
+      },
+      {
+        "title": "The business of belonging: how Jio built trust at scale | Overthinkers Anonymous | EP 05",
+        "summary": "Beyond the IPO: The emotional genius of the Ambani brand.",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/multimedia/audio/the-business-of-belonging-how-jio-built-trust-at-scale/article71660847.ece",
+        "published": "Wed, 04 Nov 2026 13:06:12 +0530"
+      },
+      {
+        "title": "States can impose additional sales tax, Supreme Court reaffirms 1974 ruling",
+        "summary": "A seven-judge Constitution Bench said changes in statutory provisions and the introduction of GST had removed the need for fresh adjudication",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/national/states-can-impose-additional-sales-tax-supreme-court-reaffirms-1974-ruling/article71664430.ece",
+        "published": "Wed, 04 Nov 2026 13:02:20 +0530"
+      },
+      {
+        "title": "Shruti Haasan named new face of The Singleton Social as it launches Nicobar festive collection",
+        "summary": "The partnership brings together music, culture and festive gifting, extending the platform’s focus on mindful experiences into a consumer collection",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/companies/shruti-haasan-named-new-face-of-the-singleton-social-as-it-launches-nicobar-festive-collection/article71664539.ece",
+        "published": "Wed, 04 Nov 2026 13:02:19 +0530"
+      },
+      {
+        "title": "E20 Fuel: The hero India needs, or the villain drivers fear? | Overthinker’s Anonymous | EP 02",
+        "summary": "Why E20 fuel has everyone overthinking at the petrol pump.",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/multimedia/audio/e20-fuel-the-hero-india-needs-or-the-villain-drivers-fear-overthinkers-anonymous/article71373161.ece",
+        "published": "Wed, 04 Nov 2026 12:59:45 +0530"
+      }
+    ],
+    "India Startups & VC": [
+      {
+        "title": "Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn",
+        "summary": "Nasdaq-listed SaaS company Freshworks swung to a consolidated net profit of $18.3 Mn in the third quarter of 2026 (Q3…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
+        "published": "Wed, 04 Nov 2026 06:16:18 +0000"
+      },
+      {
+        "title": "Peppermint Robotics Bags ₹100 Cr To Scale Its Industrial Robotics Bet",
+        "summary": "Keeping hospital corridors clean or moving goods across factory floors involves repetitive, physically demanding work. For facility management companies, finding…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/peppermint-robotics-bags-%e2%82%b9100-cr-to-scale-its-industrial-robotics-bet/",
+        "published": "Wed, 04 Nov 2026 05:55:33 +0000"
+      },
+      {
+        "title": "Razorpay Gets SEBI Nod For ₹6,000 Cr IPO",
+        "summary": "Fintech major Razorpay has received SEBI’s approval for its proposed ₹5,000-6,000 Cr IPO, sources told Inc42. The IPO is expected…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
+        "published": "Wed, 04 Nov 2026 05:38:13 +0000"
+      },
+      {
+        "title": "Inside The New Wave Of Private AI",
+        "summary": "Can you trust a stranger with your login credentials, personal information, or private conversations? Of course not! Yet, we are…",
+        "source": "Inc42",
+        "link": "https://inc42.com/features/inside-the-new-wave-of-private-ai/",
+        "published": "Wed, 04 Nov 2026 05:30:15 +0000"
+      },
+      {
+        "title": "EloElo Group Bags $80 Mn From NBCUniversal, Others To Take Its Microdrama Biz Global",
+        "summary": "Microdrama platform Story TV’s parent EloElo Group has raised $80 Mn (nearly ₹756 Cr) in a Series C funding round…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/",
+        "published": "Wed, 04 Nov 2026 05:15:28 +0000"
+      }
+    ],
+    "Global Macro & Central Banks": [
+      {
+        "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+        "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+        "published": "Thu, 29 Oct 2026 20:30:00 GMT"
+      },
+      {
+        "title": "Federal Reserve issues FOMC statement",
+        "summary": "Federal Reserve issues FOMC statement",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+        "published": "Wed, 28 Oct 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+        "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+        "published": "Fri, 16 Oct 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+        "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+        "published": "Tue, 13 Oct 2026 18:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+        "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+        "published": "Fri, 9 Oct 2026 14:00:00 GMT"
+      },
+      {
+        "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+        "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+        "published": "Mon, 02 Nov 2026 10:30:00 +0100"
+      },
+      {
+        "title": "Philip R. Lane: AI adoption in Europe",
+        "summary": "Philip R. Lane: AI adoption in Europe",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+        "published": "Fri, 30 Oct 2026 17:10:00 +0100"
+      },
+      {
+        "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "summary": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+        "published": "Fri, 30 Oct 2026 15:00:00 +0100"
+      },
+      {
+        "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+        "summary": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+        "published": "Fri, 30 Oct 2026 10:00:00 +0100"
+      },
+      {
+        "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+        "summary": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+        "published": "Thu, 29 Oct 2026 16:50:00 +0100"
+      },
+      {
+        "title": "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
+        "summary": "Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To investigate uncertainty in these reconstructions, this paper systematically compares specifications drawn from the literature for reconstructing ",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1390-prewar-us-business-cycles-under-uncertainty-reconstructing-quarterly-gdp-1947",
+        "published": "2026-11-03T00:00:00Z"
+      },
+      {
+        "title": "News shocks and inflation:  theory and evidence from  large oil discoveries",
+        "summary": "We study how news shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observable news about future output. Panel local projections show that discoveries raise core consumer prices over the subsequent decade, with abou",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1389-news-shocks-and-inflation-theory-and-evidence-from-large-oil-discoveries",
+        "published": "2026-10-23T00:00:00Z"
+      },
+      {
+        "title": "Bank liquidity regulation and the growth of private credit",
+        "summary": "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit increases significantly more in U.S. counties with a larger footprint of banks subject to the LCR or of LCR banks with greater initial liqu",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/bank-liquidity-regulation-and-growth-private-credit",
+        "published": "2026-10-20T00:00:00Z"
+      },
+      {
+        "title": "Inflation after the Iran war",
+        "summary": "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in inflation depends on its transmission through the economy.",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1384-inflation-after-iran-war",
+        "published": "2026-10-19T00:00:00Z"
+      },
+      {
+        "title": "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
+        "summary": "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins",
+        "published": "2026-10-19T00:00:00Z"
+      },
+      {
+        "title": "Oligarchic World Order",
+        "summary": "Today, some 64 heads of state or government are oligarchs, leading countries that together account for some 60% of global GDP. The question is thus no longer whether oligarchs will rule the world, but rather what kind of world they are building.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/oligarchy-is-defining-feature-of-emerging-world-order-by-david-lingelbach-and-valentina-rodriguez-guerra-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Tue, 03 Nov 2026 17:39:59 GMT"
+      },
+      {
+        "title": "Poland’s Constitutional Civil War",
+        "summary": "Polish right-wing populists recently stormed the country's Constitutional Tribunal, winning applause from the Kremlin and far-right fellow-travelers across Europe. As in other countries, the constitutional tribunal is the institution that distinguishes a proper democracy from a dictatorship making i",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/poland-right-wing-judicial-coup-attempt-by-slawomir-sierakowski-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Tue, 03 Nov 2026 16:23:14 GMT"
+      },
+      {
+        "title": "The Tech Brotherhood Wants Sovereignty",
+        "summary": "After centuries of nation-states, a new form of sovereignty is asserting itself. The small fraternity that controls the major digital platforms has already proven capable of even more intrusive and insidious forms of control than most states can muster.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/tech-sovereignty-silicon-valley-wants-to-replace-the-state-by-katharina-pistor-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Tue, 03 Nov 2026 14:43:19 GMT"
+      },
+      {
+        "title": "The Far Right’s Vision for Europe",
+        "summary": "In many ways, Europe’s far right has already won, regardless of what happens at the ballot box in the coming months. Its parties may still quarrel among themselves, but they agree on the three big issues that will define much of the European political agenda for years to come.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/how-european-far-right-will-shape-europe-in-coming-years-by-mark-leonard-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Tue, 03 Nov 2026 12:19:02 GMT"
+      },
+      {
+        "title": "Europe’s Bright Future",
+        "summary": "A narrative of European decline has taken hold, and if the EU continues on its current path, it may well materialize. But this is not a foregone conclusion: Europe retains considerable strengths on which it can build as it pursues critical reforms aimed at unleashing innovation.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/how-europe-can-thrive-in-a-changing-economy-by-thomas-buberl-1-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Tue, 03 Nov 2026 10:04:38 GMT"
+      }
+    ],
+    "Global Markets & Business": [
+      {
+        "title": "Poundland supplier 'will lose millions' if retailer collapses",
+        "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 07:31:21 GMT"
+      },
+      {
+        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 03 Nov 2026 20:53:03 GMT"
+      },
+      {
+        "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+        "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 01:36:06 GMT"
+      },
+      {
+        "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 03 Nov 2026 16:19:29 GMT"
+      },
+      {
+        "title": "Canva announces major job cuts after 'our hardest year yet'",
+        "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 04 Nov 2026 00:09:35 GMT"
+      },
+      {
+        "title": "McDonald's is about to report earnings. Here's what to expect",
+        "summary": "McDonald's stock has fallen about 11% over the last year.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+        "published": "Wed, 04 Nov 2026 05:01:01 GMT"
+      },
+      {
+        "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+        "summary": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+        "published": "Tue, 03 Nov 2026 22:26:20 GMT"
+      },
+      {
+        "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+        "summary": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+        "published": "Tue, 03 Nov 2026 17:05:29 GMT"
+      },
+      {
+        "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
+        "summary": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+        "published": "Tue, 03 Nov 2026 19:25:44 GMT"
+      },
+      {
+        "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+        "summary": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
+        "published": "Tue, 03 Nov 2026 15:19:14 GMT"
+      },
+      {
+        "title": "Democrats win the House and Senate. Here’s what it means for your finances.",
+        "summary": "The results from the U.S. midterm elections are now clear and look likely to have effects on Americans’ investments and their wallets.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 06:27:00 GMT"
+      },
+      {
+        "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+        "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 01:16:00 GMT"
+      },
+      {
+        "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+        "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenue growth, CFO Mark Long told MarketWatch.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+        "published": "Wed, 04 Nov 2026 01:12:00 GMT"
+      },
+      {
+        "title": "What analysts are telling us while Apple’s stock falls after earnings report",
+        "summary": "Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue  growth.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 22:48:00 GMT"
+      },
+      {
+        "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+        "summary": "The company missed revenue expectations, a tough outcome in today’s less-forgiving tech market.",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+        "published": "Tue, 03 Nov 2026 22:45:00 GMT"
+      },
+      {
+        "title": "Voters were sick of incumbents. Tuesday was only the third time in 50 years a party lost control of both chambers of Congress at once",
+        "summary": "Republicans lost a six-term senator, a three-term governor and two appointed senators as voters named the cost of living a top issue.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/04/voters-incumbents-republicans-congress-chambers-control-50-years/",
+        "published": "Wed, 04 Nov 2026 06:46:53 +0000"
+      },
+      {
+        "title": "Ohio already has 125 local data center moratoriums. Early results from its 21 ballot measures on AI infrastructure have determined there will be more",
+        "summary": "The Buckeye State has become the prototype for how the country will respond to the rapid buildout of AI.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+        "published": "Wed, 04 Nov 2026 06:35:39 +0000"
+      },
+      {
+        "title": "Susan Collins’ Maine concession could leave New England without a Republican in Congress for the first time since the 1850s",
+        "summary": "“It has been the honor of my life,” Collins said. One uncalled Maine House race will decide whether a GOP streak dating to 1854 ends.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/04/susan-collins-maine-concession-republicans-new-england-senate/",
+        "published": "Wed, 04 Nov 2026 06:14:56 +0000"
+      },
+      {
+        "title": "Trump promised every adult $5,000 if Republicans kept control of Congress. Thanks to the Blue Tsunami, taxpayers won’t have to blow up the debt",
+        "summary": "Democrats flipped at least six Senate seats and won the House, gaining power over Trump’s nominees and investigations but not his veto.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/04/trump-5000-checks-democrats-senate-control-republicans-lose-house-congress/",
+        "published": "Wed, 04 Nov 2026 05:03:18 +0000"
+      },
+      {
+        "title": "Trump personally chose several candidates who just got crushed — and he’s already blaming Republicans for a stunning midterm wipeout",
+        "summary": "\"I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE!\"",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/04/trump-personal-handpicked-candidates-midterm-election-blame-game-blue-wave/",
+        "published": "Wed, 04 Nov 2026 05:41:37 +0000"
+      },
+      {
+        "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+        "summary": "Affordability and small businesses’ economic woes feature heavily in the House race for Wisconsin’s third district US midterms 2026 live – latest updates Track live results from all 50 states After 18 years in business, Erin Klaus is closing her storefront, a handmade artisan market in downtown Eau ",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
+        "published": "Tue, 03 Nov 2026 11:00:57 GMT"
+      },
+      {
+        "title": "US tech stocks recover after selloff spooks investors over AI spending",
+        "summary": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over  AI  spending. Tuesday’s  midterm elections  didn’t appear to have a huge impact on Wall Street, thoug",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+        "published": "Tue, 03 Nov 2026 22:18:45 GMT"
+      },
+      {
+        "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+        "summary": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to lay its hands on supplies. The iPhone maker’s shares fell i",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+        "published": "Tue, 03 Nov 2026 09:01:19 GMT"
+      },
+      {
+        "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+        "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+        "published": "Mon, 02 Nov 2026 17:14:23 GMT"
+      },
+      {
+        "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
+        "summary": "In state where driving is part of life, president’s pledge to lower prices at the pumps cuts little ice Behind the granite countertops of Fuel City, a gas station in Dallas where taxidermy deer flank the entrance and hot tacos are served 24/7, Alina Cardenas sees first-hand that Texans are stretched",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
+        "published": "Mon, 02 Nov 2026 11:00:41 GMT"
+      },
+      {
+        "title": "WIPEOUT: GOP LOSES HOUSE AND SENATE",
+        "summary": "Republicans lost deep-red Senate seats in  South Carolina ,  Kansas  and  Texas  as well as House seats nationwide, AP projects, giving Democrats control of both chambers of Congress. Why it matters:  President Trump made himself the face of the GOP campaign for control. Now his party is losing all ",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+        "published": "Wed, 04 Nov 2026 07:34:15 +0000"
+      },
+      {
+        "title": "El-Sayed becomes first Muslim U.S. senator",
+        "summary": "Democrat Abdul El-Sayed defeated Republican Mike Rogers in Michigan's  closely watched  U.S. Senate race, the Associated Press projected. He will become the nation's first Muslim senator. Why it matters:  El-Sayed's win shows how an unapologetically progressive candidate can win in a battleground st",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers",
+        "published": "Wed, 04 Nov 2026 07:34:08 +0000"
+      },
+      {
+        "title": "The 5 biggest shockers of Democrats' stunning night",
+        "summary": "In red states and blue, Republicans suffered losses on a scale even Democrats would never have dared to dream about 24 hours ago. Why it matters:  Democrats worried that polls showing a blue wave were overestimating the party's strength. It turned out polls underestimated the size of the Democratic ",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/04/five-biggest-shocks-democrats-midterm-results",
+        "published": "Wed, 04 Nov 2026 07:31:20 +0000"
+      },
+      {
+        "title": "Latinos' rejection of GOP boosts Dems in Texas upsets",
+        "summary": "Latino voters  helped Democrats break Republicans' decades-long grip on Texas and reclaim both chambers of Congress on Tuesday, casting doubt on President Trump's  historic 2024 gains  with the fast-growing electorate. Why it matters:  Republicans bet Trump's Latino breakthrough two years ago would ",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/04/latino-voters-democrats-shift-trump-texas-gop",
+        "published": "Wed, 04 Nov 2026 06:55:19 +0000"
+      },
+      {
+        "title": "Musk laughs off election drubbing with space lasers joke",
+        "summary": "Elon Musk cracked jokes early Wednesday morning after the Republican candidates he spent  record sums supporting  got drubbed in a historic midterm election.  Why it matters:  No one has ever spent as much as Musk for so little payoff — especially in  Texas , which ended up with a massive blue wave.",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/04/musk-republicans-midterm-gop-texas",
+        "published": "Wed, 04 Nov 2026 06:32:36 +0000"
+      },
+      {
+        "title": "Business leaders react as a 'blunami' sweeps America on Election Night",
+        "summary": "Business leaders and tech executives are now weighing in on what the new political landscape could mean for their industries.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/business-tech-leaders-react-midterms-elections-results-2026-11",
+        "published": "2026-11-04T06:51:35Z"
+      },
+      {
+        "title": "Trump says midterms voters weren't willing to pay more for gas: 'I understand that'",
+        "summary": "Trump said higher gas prices were a \"short-term consequence\" of the Iran war, as Democrats flipped a swathe of House and Senate seats.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/trump-midterm-voters-democrats-win-willing-pay-gas-iran-war-2026-11",
+        "published": "2026-11-04T06:48:17Z"
+      },
+      {
+        "title": "These races matter if you care about money, Musk, and the AI boom as Democrats rack up shocking wins",
+        "summary": "AI, tech, and data centers are shaping key 2026 midterm races in Ohio, Michigan, Pennsylvania, and Wisconsin. Here are the eight races to watch.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/midterms-key-races-election-night-results-2026-2026-11",
+        "published": "2026-11-04T06:42:49Z"
+      },
+      {
+        "title": "Texas just went blue, and the tech bros are sad",
+        "summary": "Texas, with its limited red tape and vast resources, drew in the tech crowds. Now, it's politics turned bluer, and the execs are a little upset.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/texas-went-blue-tech-bros-democrats-2026-11",
+        "published": "2026-11-04T06:39:55Z"
+      },
+      {
+        "title": "Elon Musk's Texas-sized midterms failure",
+        "summary": "Elon Musk was the biggest funder of the effort to keep Texas red. It failed.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/elon-musk-midterms-spending-texas-losses-2026-11",
+        "published": "2026-11-04T05:45:41Z"
+      }
+    ],
+    "Strategy & Deep Analysis": [
+      {
+        "title": "Marks & Spencer Results Show UK Retail Strength Despite Consumer Squeeze",
+        "summary": "Plus, the pound is rallying against the dollar after Democrats’ midterm sweep",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/newsletters/2026-11-04/marks-spencer-results-show-uk-retail-strength-despite-consumer-squeeze",
+        "published": "Wed, 04 Nov 2026 07:42:56 GMT"
+      },
+      {
+        "title": "Global Renewable Stocks Jump as Democrats Win Congress Control",
+        "summary": "Global renewable stocks rallied after the Democrats won control of both chambers of Congress in the US midterm elections, an outcome seen supporting more favorable policy for the industry going forward.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead",
+        "published": "Wed, 04 Nov 2026 03:13:54 GMT"
+      },
+      {
+        "title": "India’s Central Bank Sets Up Panel to Assess Forex, Bond Markets",
+        "summary": "India’s central bank announced a new technical panel to examine the efficiency, liquidity and resilience of the country’s foreign exchange and government bond markets.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/india-s-central-bank-sets-up-panel-to-assess-forex-bond-markets",
+        "published": "Wed, 04 Nov 2026 07:37:26 GMT"
+      },
+      {
+        "title": "Japanese Equities Erase Declines as Democrats Clinch Sweep",
+        "summary": "Japanese equities pared declines as investors shifted focus to where AI regulation might head after Democrats won control of both chambers of Congress in the US midterm elections.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/japanese-stocks-sink-as-us-midterm-results-hit-tech-shares",
+        "published": "Wed, 04 Nov 2026 04:45:41 GMT"
+      },
+      {
+        "title": "China Boosts Market Defense With National Team, Buybacks",
+        "summary": "China escalated its defense of the stock market, as state-backed funds answered the government’s rallying call by increasing purchases and more companies stepped up buyback plans.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-04/china-boosts-market-defense-with-national-team-buying-buybacks",
+        "published": "Wed, 04 Nov 2026 02:57:05 GMT"
+      },
+      {
+        "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
+        "summary": "Democrats take Congress as Republicans routed from Texas to Georgia",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1",
+        "published": "Wed, 04 Nov 2026 06:40:10 GMT"
+      },
+      {
+        "title": "Live coverage: Trump admits Iran war a factor as Republicans routed",
+        "summary": "President’s party defeated in battleground races from Kansas to South Carolina",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+        "published": "Wed, 04 Nov 2026 06:11:40 GMT"
+      },
+      {
+        "title": "The great humbling of Donald Trump",
+        "summary": "Midterm elections defeat marked a savage rejection from across the country of the president, his allies and his second-term agenda",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea?syn-25a6b1a6=1",
+        "published": "Wed, 04 Nov 2026 07:23:18 GMT"
+      },
+      {
+        "title": "Trump’s American slapdown for the ages",
+        "summary": "In multiple midterm races the president’s heavy-handed input boomeranged",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1",
+        "published": "Wed, 04 Nov 2026 05:11:06 GMT"
+      },
+      {
+        "title": "Four takeaways from the midterm results",
+        "summary": "Democrats record broad gains from almost all demographic groups",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
+        "published": "Wed, 04 Nov 2026 07:21:14 GMT"
+      },
+      {
+        "title": "China’s AI stock-market struggles are a warning",
+        "summary": "What happens when the supply of new tech catches up with demand?",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
+        "published": "Tue, 03 Nov 2026 20:48:59 +0000"
+      },
+      {
+        "title": "America’s renters are in serious trouble",
+        "summary": "Several gauges of their financial health are flashing red",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/03/americas-renters-are-in-serious-trouble",
+        "published": "Tue, 03 Nov 2026 19:06:57 +0000"
+      },
+      {
+        "title": "Intensive parenting is no longer the preserve of the rich",
+        "summary": "But wealthy families still come out on top",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/01/intensive-parenting-is-no-longer-the-preserve-of-the-rich",
+        "published": "Sun, 01 Nov 2026 16:08:43 +0000"
+      },
+      {
+        "title": "Christine Lagarde departs at a moment of peril",
+        "summary": "Her successor as ECB chief will have an unenviable job",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril",
+        "published": "Thu, 29 Oct 2026 11:26:26 +0000"
+      },
+      {
+        "title": "The never-ending absurdity of global oil markets",
+        "summary": "Despite stronger Gulf exports, Brent is near its Iran-war peak",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/10/29/the-never-ending-absurdity-of-global-oil-markets",
+        "published": "Thu, 29 Oct 2026 11:16:13 +0000"
+      },
+      {
+        "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+        "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:26:00 -0500"
+      },
+      {
+        "title": "Comex Gold, Silver Settle Lower",
+        "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:01:00 -0500"
+      },
+      {
+        "title": "DeepSeek Won't Sink U.S. AI Titans",
+        "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 13:12:00 -0500"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk",
+        "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:27:00 -0500"
+      },
+      {
+        "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+        "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:20:00 -0500"
+      }
+    ]
+  }
+}
