@@ -1,0 +1,718 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T08:30:10.410574+00:00",
+  "total_articles": 100,
+  "categories": {
+    "India Macro & Policy": [],
+    "India Markets & Corporate": [
+      {
+        "title": "PNB needs Rs 5,000 cr extra provisions under ECL",
+        "summary": "PNB needs Rs 5,000 cr extra provisions under ECL",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-needs-rs-5000-crore-extra-provisions-under-ecl-ceo-sees-limited-impact/articleshow/136069636.cms",
+        "published": "Sun, 22 Nov 2026 13:02:50 +0530"
+      },
+      {
+        "title": "PANI: Undersea cable network to connect Andaman",
+        "summary": "PANI: Undersea cable network to connect Andaman",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/india/pani-project-to-connect-andamans-eight-islands-through-undersea-cable-network/articleshow/136068949.cms",
+        "published": "Sun, 22 Nov 2026 12:13:07 +0530"
+      },
+      {
+        "title": "GST officer's Rs 10 lakh bribe leads to CBI raid",
+        "summary": "GST officer's Rs 10 lakh bribe leads to CBI raid",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/gst-officer-accepts-rs-10-lakh-bribe-cbi-raids-his-home-next-day-recovers-rs-1-86-crore-in-assets-including-rs-24-lakh-cash-rs-15-65-lakh-in-foreign-currency-gold-silver/articleshow/136069003.cms",
+        "published": "Sun, 22 Nov 2026 12:25:26 +0530"
+      },
+      {
+        "title": "2 black holes, one ring: Meet the Black Saturn",
+        "summary": "2 black holes, one ring: Meet the Black Saturn",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/news/new-updates/black-hole-inside-black-hole-5d-black-saturn-spacetime-is-making-scientists-question-how-bizarre-einsteins-universe-can-get-new-model-shows-2-cosmic-giants-can-spin-in-different-directions/articleshow/136068551.cms",
+        "published": "Sun, 22 Nov 2026 11:50:47 +0530"
+      },
+      {
+        "title": "Gold and silver rates today: Check latest updates",
+        "summary": "Gold and silver rates today: Check latest updates",
+        "source": "Economic Times",
+        "link": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-rates-today-november-22-2026-delhi-hyderabad-bengaluru-chennai-22k-24-18-prices-from-ibja-joyalukkas-tanishq-malabar-kalyan-jewellers/articleshow/136067084.cms",
+        "published": "Sun, 22 Nov 2026 11:15:52 +0530"
+      },
+      {
+        "title": "Climate Talks Push for Pact After Rifts on Fossil Fuels, Finance",
+        "summary": "A proposed deal at the annual United Nations climate talks backed a goal to boost electrification of the global economy and supported a past pledge on shifting away from fossil fuels, following hours of acrimonious overtime deliberations.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/climate-talks-push-for-pact-after-rifts-on-fossil-fuels-finance-11795332862463.html",
+        "published": "Sun, 22 Nov 2026 13:04:21 +0530"
+      },
+      {
+        "title": "Thanks to PM Modi, gold price drops  ₹65 lakh per kg: CTI writes open letter, ‘Your advice helped protect savings’",
+        "summary": "The Chamber of Trade and Industry thanked Prime Minister Narendra Modi for urging people to limit gold purchases, saying the advice helped traders and investors avoid losses as prices fell.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/thanks-to-pm-modi-gold-price-drops-65-lakh-per-kg-cti-written-open-letter-your-advice-helped-protect-savings-11795330409616.html",
+        "published": "Sun, 22 Nov 2026 12:38:12 +0530"
+      },
+      {
+        "title": "₹1.86 crore in cash, gold seized from Panchkula CGST officer arrested by CBI for  ₹10 lakh bribe | Details",
+        "summary": "The CBI has recovered cash, gold and silver worth  ₹1.86 crore from the residence of arrested Haryana CGST officer Luvkush Kumar, days after he was caught allegedly accepting a  ₹10 lakh bribe in a GST-related case.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/india/rs-1-86-crore-in-cash-gold-seized-from-panchkula-cgst-officer-arrested-by-cbi-for-rs-10-lakh-bribe-details-11795328250430.html",
+        "published": "Sun, 22 Nov 2026 11:58:58 +0530"
+      },
+      {
+        "title": "WATCH | Kavya Maran gifts gold rings, luncheon invites to Sun Group employees after wedding with Anirudh Ravichander",
+        "summary": "Kavya Maran reportedly gave Sun Group employees gift boxes containing gold rings, chocolates and wedding invitations after marrying composer Anirudh Ravichander.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/trends/watch-kavya-maran-gifts-gold-rings-luncheon-invites-to-sun-group-employees-after-wedding-with-anirudh-ravichander-11795324698516.html",
+        "published": "Sun, 22 Nov 2026 11:52:45 +0530"
+      },
+      {
+        "title": "Bravo! Who is Payal Nag? Anand Mahindra gifted her Scorpio-N - Electrocuted, lost all 4 limbs, but won medals for India",
+        "summary": "“I’ve admired Payal Nag’s extraordinary courage and determination ever since I first came across her story,” Anand Mahindra wrote in an X post.",
+        "source": "Mint",
+        "link": "https://www.livemint.com/news/trends/electrocuted-at-8-lost-all-four-limbs-now-wins-medals-for-india-meet-payal-nag-whom-anand-mahindra-gifted-scorpion-11795322099764.html",
+        "published": "Sun, 22 Nov 2026 10:47:20 +0530"
+      },
+      {
+        "title": "Clean Streets, Zero Gridlock: The North-Indian City That Won Over A Visiting British Vlogger",
+        "summary": "British travel vlogger Rory Porter has praised Chandigarh's planned roads, green spaces and architecture, calling it one of the most refreshing cities he has visited in India.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/india/clean-streets-zero-gridlock-the-north-indian-city-that-won-over-a-visiting-british-vlogger-12361491#publisher=newsstand",
+        "published": "Sun, 22 Nov 2026 13:34:03 +0530"
+      },
+      {
+        "title": "Kartik Aaryan Launches Production House Dopamine Studios On 36th Birthday, Announces Film Kaaliya' With Karan Johar",
+        "summary": "Kaaliya is scheduled for a worldwide theatrical release on May 5, 2028.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/entertainment/kartik-aaryan-launches-production-house-dopamine-studios-on-36th-birthday-announces-film-kaaliya-with-karan-johar-12361420#publisher=newsstand",
+        "published": "Sun, 22 Nov 2026 13:28:40 +0530"
+      },
+      {
+        "title": "Agniveers Could Be Allowed To Marry After Four Years Under Proposed Rule Changes",
+        "summary": "Agniveers Could Be Allowed To Marry After Four Years Under Proposed Rule Changes",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/education/agniveers-could-be-allowed-to-marry-after-four-years-under-proposed-rule-changes-12361460#publisher=newsstand",
+        "published": "Sun, 22 Nov 2026 13:13:27 +0530"
+      },
+      {
+        "title": "$16 Billion In One Month: How The US-Iran-Led Crude Oil Spike Inflated India's Energy Bill",
+        "summary": "Brent crude averaged $124.77 a barrel in October, compared with $64.75 a year earlier and $116.77 in September.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/economy/indias-oil-import-bill-jumps-60-percent-to-16-billion-in-october-as-brent-doubles-in-one-year-12361415#publisher=newsstand",
+        "published": "Sun, 22 Nov 2026 13:01:53 +0530"
+      },
+      {
+        "title": "Beyond Oil Prices: British Swimmer Risks Life In Strait of Hormuz To Expose US-Iran War's Toll On Marine Life",
+        "summary": "Swimmer Lewis Pugh completed a three-day swim through the region.",
+        "source": "NDTV Profit",
+        "link": "https://www.ndtvprofit.com/world/beyond-oil-prices-british-swimmer-risks-life-in-strait-of-hormuz-to-expose-us-iran-wars-toll-on-marine-life-12361363#publisher=newsstand",
+        "published": "Sun, 22 Nov 2026 12:47:31 +0530"
+      },
+      {
+        "title": "Shree Cement to cross 100 mt capacity in 3-4 years, says Chairman Hari Mohan Bangur",
+        "summary": "Bangur said the company is targeting a CAGR of 9-10% over the next six to seven years, higher than the expected 7-8% growth in the overall Indian cement industry.",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/companies/shree-cement-to-cross-100-mt-capacity-in-3-4-years-says-chairman-hari-mohan-bangur/article71730925.ece",
+        "published": "Sun, 22 Nov 2026 13:54:49 +0530"
+      },
+      {
+        "title": "Non-coal mining projects spread up to 500 hectares now to be appraised at state level",
+        "summary": "In a notification dated November 18, the Union Environment Ministry said that the amendment would help further decentralise the environment clearance process for such projects.",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/news/non-coal-mining-projects-spread-up-to-500-hectares-now-to-be-appraised-at-state-level/article71730911.ece",
+        "published": "Sun, 22 Nov 2026 13:34:32 +0530"
+      },
+      {
+        "title": "Google pledges $5 million to IIT Kharagpur for AI research",
+        "summary": "IIT Kharagpur Director Suman Chakraborty says Sundar Pichai, an alumnus and CEO of Google, played a key role in facilitating the funding for the institute",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/info-tech/google-pledges-5-million-to-iit-kharagpur-for-ai-research/article71730898.ece",
+        "published": "Sun, 22 Nov 2026 13:14:11 +0530"
+      },
+      {
+        "title": "Maruti Suzuki hikes select model prices amid cost pressures",
+        "summary": "The latest price hike follows three rounds of price increases in the first half of financial year 2027, totalling a little over 1 per cent.",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/companies/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730823.ece",
+        "published": "Sun, 22 Nov 2026 12:35:25 +0530"
+      },
+      {
+        "title": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays",
+        "summary": "India is one of Airbnb’s fastest-growing origin markets globally, with domestic travel emerging as a major growth driver, India Country Manager Amanpreet Bajaj says",
+        "source": "Hindu BusinessLine",
+        "link": "https://www.thehindubusinessline.com/companies/airbnb-looks-beyond-traditional-holiday-hubs-to-deepen-india-presence-bets-on-homestays/article71730779.ece",
+        "published": "Sun, 22 Nov 2026 12:32:27 +0530"
+      }
+    ],
+    "India Startups & VC": [
+      {
+        "title": "The GTA VI-Sized Hole In Indian Gaming",
+        "summary": "At midnight on Thursday, when Grand Theft Auto VI finally launched, India was just another market waiting to play the…",
+        "source": "Inc42",
+        "link": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+        "published": "Sun, 22 Nov 2026 05:30:37 +0000"
+      },
+      {
+        "title": "Indian Startup IPO Tracker 2026",
+        "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…",
+        "source": "Inc42",
+        "link": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+        "published": "Sat, 21 Nov 2026 23:31:54 +0000"
+      },
+      {
+        "title": "Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups",
+        "summary": "Industry body Bharat Web3 Association (BWA) has submitted its recommendations to the finance ministry ahead of the upcoming Union Budget…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
+        "published": "Sat, 21 Nov 2026 21:27:16 +0000"
+      },
+      {
+        "title": "Atomberg & Voltas Execute JV Agreement To Build AC Compressors",
+        "summary": "IPO-bound consumer appliances startup Atomberg has executed a joint venture (JV) agreement with Tata-owned Voltas to manufacture compressors for room…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
+        "published": "Sat, 21 Nov 2026 20:41:00 +0000"
+      },
+      {
+        "title": "Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles",
+        "summary": "India’s cryptocurrency exchanges are facing turbulence on multiple fronts, with banking disruptions, regulatory scrutiny, and cybersecurity incidents exposing vulnerabilities across…",
+        "source": "Inc42",
+        "link": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/",
+        "published": "Sat, 21 Nov 2026 18:23:17 +0000"
+      }
+    ],
+    "Global Macro & Central Banks": [
+      {
+        "title": "Federal Reserve announces College Fed Challenge winners",
+        "summary": "Federal Reserve announces College Fed Challenge winners",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+        "published": "Fri, 20 Nov 2026 21:15:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+        "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+        "published": "Fri, 20 Nov 2026 15:00:00 GMT"
+      },
+      {
+        "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+        "summary": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+        "published": "Thu, 19 Nov 2026 16:00:00 GMT"
+      },
+      {
+        "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+        "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+        "published": "Wed, 18 Nov 2026 19:00:00 GMT"
+      },
+      {
+        "title": "Agencies extend comment period for proposed third-party risk management guidance",
+        "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+        "source": "Federal Reserve",
+        "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+        "published": "Fri, 13 Nov 2026 21:15:00 GMT"
+      },
+      {
+        "title": "Christine Lagarde: Acting in time",
+        "summary": "Christine Lagarde: Acting in time",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+        "published": "Fri, 20 Nov 2026 09:30:00 +0100"
+      },
+      {
+        "title": "Boris Vujčić: Financial Stability Review - November 2026",
+        "summary": "Boris Vujčić: Financial Stability Review - November 2026",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+        "published": "Wed, 18 Nov 2026 10:00:00 +0100"
+      },
+      {
+        "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+        "summary": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+        "published": "Wed, 18 Nov 2026 10:00:00 +0100"
+      },
+      {
+        "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+        "summary": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+        "published": "Tue, 17 Nov 2026 19:30:00 +0100"
+      },
+      {
+        "title": "Frank Elderson: Smart supervision for small banks",
+        "summary": "Frank Elderson: Smart supervision for small banks",
+        "source": "ECB",
+        "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+        "published": "Mon, 16 Nov 2026 14:00:00 +0100"
+      },
+      {
+        "title": "Immigrants' skills and capital deepening: evidence from Chile",
+        "summary": "We study the effect of migration on firms’ capital deepening, leveraging a massive influx of immigrant workers with varying skill sets from Venezuela and Haiti in Chile between 2015 and 2019.",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1397-immigrants-skills-and-capital-deepening-evidence-chile",
+        "published": "2026-11-17T00:00:00Z"
+      },
+      {
+        "title": "\"Eppur si muove\": convergence within and between countries",
+        "summary": "Kremer, Willis, and You (2022) report that over six decades richer countries lost their growth advantage. Acemoglu and Molina (2022) and Pesaran and Smith (2026) reply that such regressions cannot measure catch-up when countries head toward different moving destinations.",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1396-eppur-si-muove-convergence-within-and-between-countries",
+        "published": "2026-11-13T00:00:00Z"
+      },
+      {
+        "title": "MaRCo@BIS: AI-agentic econometric analysis for central bankers",
+        "summary": "This paper introduces MaRCo@BIS, the MAcroeconometric Research Companion: a framework of plain-text workflow files, a verified dictionary of canonical model specifications and a tested reference library, read by an off-the-shelf agentic coding environment.",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1395-marcobis-ai-agentic-econometric-analysis-central-bankers",
+        "published": "2026-11-12T00:00:00Z"
+      },
+      {
+        "title": "Ready-to-run  global  liquidity  stress tests for banks and banking  systems",
+        "summary": "Liquidity risk remains a persistent threat to financial stability, as starkly demonstrated by the 2023 banking turmoil in the United States and Europe. Hence, the ability to quickly gauge banks’ liquidity risks could prove useful especially during periods of market stress, but also to assess differe",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1394-ready-to-run-global-liquidity-stress-tests-banks-and-banking-systems",
+        "published": "2026-11-11T00:00:00Z"
+      },
+      {
+        "title": "US monetary policy, macroeconomic news and the global secular decline of interest rates",
+        "summary": "The global secular decline in long-term interest rates since the 1990s has been largely driven by cumulative yield changes during U.S. monetary policy announcement windows (FOMC windows).",
+        "source": "BIS Papers",
+        "link": "https://www.bis.org/publications/working-paper-1393-us-monetary-policy-macroeconomic-news-and-global-secular-decline-interest-rates",
+        "published": "2026-11-10T00:00:00Z"
+      },
+      {
+        "title": "Journalism Can Be More Than AI Fodder",
+        "summary": "As AI fundamentally alters the information environment, news publishers risk becoming little more than content suppliers for Big Tech. To avoid that fate, many are drawing on their archives and expertise to develop AI tools that allow them to operate and compete on their own terms.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/ai-could-be-a-new-moneymaker-for-news-publishers-by-ryan-powell-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Fri, 20 Nov 2026 16:48:30 GMT"
+      },
+      {
+        "title": "Governing African Economies as They Are",
+        "summary": "Africa cannot overcome its development challenges by applying the same knowledge, economic, and innovation systems that helped create them. Imagining and governing new ways forward will require three intellectual ruptures.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/development-institutions-must-abandon-outdated-assumptions-about-africa-by-geci-karuri-sebina-and-stacey-leigh-joseph-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Fri, 20 Nov 2026 15:41:02 GMT"
+      },
+      {
+        "title": "Making Earth Cool Again",
+        "summary": "Climate multilateralism is evolving into a two-tiered system in which high-level negotiations toward shared commitments and the real-world implementation of climate solutions become more mutually supportive. Only by unleashing such virtuous cycles can we keep the 1.5ºC target for global warming with",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/global-climate-processes-emphasizing-implementation-not-a-moment-too-soon-by-andre-correa-do-lago-and-tulio-andrade-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Fri, 20 Nov 2026 14:46:57 GMT"
+      },
+      {
+        "title": "America’s Lame-Duck Autocrat",
+        "summary": "When autocrats suffer a defeat, they tend to double down, such as by intensifying repression at home or behaving more recklessly abroad. With two years left in office after historic midterm election losses, this is the road US President Donald Trump appears to be taking.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/after-midterm-defeat-trump-is-likely-to-double-down-on-his-worst-policies-and-impulses-by-ruth-ben-ghiat-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Fri, 20 Nov 2026 13:58:16 GMT"
+      },
+      {
+        "title": "Getting Ukraine’s House in Order",
+        "summary": "Ukrainian President Volodymyr Zelensky has repeatedly opposed the idea of forming a national unity government. But bringing opposition leaders into the cabinet would ensure the checks on corruption and wayward bureaucratic action that Zelensky’s team can no longer provide.",
+        "source": "Project Syndicate",
+        "link": "https://www.project-syndicate.org/commentary/zelensky-must-form-a-national-unity-government-in-ukraine-by-nina-l-khrushcheva-2026-11?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en",
+        "published": "Fri, 20 Nov 2026 10:57:05 GMT"
+      }
+    ],
+    "Global Markets & Business": [
+      {
+        "title": "Employers are being asked to give interview feedback - here's what applicants want",
+        "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 22 Nov 2026 00:04:07 GMT"
+      },
+      {
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 21 Nov 2026 00:06:11 GMT"
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 20 Nov 2026 22:42:47 GMT"
+      },
+      {
+        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+        "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+        "published": "Fri, 20 Nov 2026 16:41:52 GMT"
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+        "source": "BBC Business",
+        "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 22 Nov 2026 07:12:41 GMT"
+      },
+      {
+        "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+        "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+        "published": "Sat, 21 Nov 2026 12:00:01 GMT"
+      },
+      {
+        "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+        "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+        "published": "Fri, 20 Nov 2026 15:50:27 GMT"
+      },
+      {
+        "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
+        "summary": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
+        "published": "Fri, 20 Nov 2026 12:00:02 GMT"
+      },
+      {
+        "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
+        "summary": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
+        "published": "Fri, 20 Nov 2026 12:00:02 GMT"
+      },
+      {
+        "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+        "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+        "published": "Fri, 20 Nov 2026 21:04:48 GMT"
+      },
+      {
+        "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+        "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+        "published": "Sun, 22 Nov 2026 01:15:00 GMT"
+      },
+      {
+        "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+        "summary": "“Hotel rooms can cost as much as $400 per night.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+        "published": "Sun, 22 Nov 2026 00:03:00 GMT"
+      },
+      {
+        "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+        "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 23:05:00 GMT"
+      },
+      {
+        "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+        "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 20:15:00 GMT"
+      },
+      {
+        "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+        "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+        "source": "MarketWatch",
+        "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+        "published": "Sat, 21 Nov 2026 19:45:00 GMT"
+      },
+      {
+        "title": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief investment officer sees the S&P 500 soaring 45% to 10,000",
+        "summary": "\"We expect the equity bull market to continue.\"",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/21/stock-market-correction-sp500-2027-forecasts-ai-boom-fed-rate-hikes/",
+        "published": "Sun, 22 Nov 2026 00:02:17 +0000"
+      },
+      {
+        "title": "The AI bust is a growing threat to China’s economy and a ‘moment of real danger’ for President Xi Jinping, analyst warns",
+        "summary": "\"To keep AI funding flowing, Xi needs a buoyant stock market.\"",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/21/ai-bust-china-economy-xi-jinping-property-crash-stock-market/",
+        "published": "Sat, 21 Nov 2026 21:45:12 +0000"
+      },
+      {
+        "title": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions",
+        "summary": "The same infrastructure that secures America’s advantage in chips and cloud services gives Chinese AI models a platform to spread.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/21/data-centers-us-chips-serve-chinese-models/",
+        "published": "Sat, 21 Nov 2026 10:00:00 +0000"
+      },
+      {
+        "title": "Even FEMA officials are worried about the string of outages and withdrew extra cash — ‘This is scary, and there is no leadership’",
+        "summary": "\"There is nothing on this scale that has happened before in this many sectors this close together.\"",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/21/fema-network-outages-extra-cash-emergency-supplies-cyberattacks/",
+        "published": "Sat, 21 Nov 2026 18:50:35 +0000"
+      },
+      {
+        "title": "‘This seems like an extreme privacy violation.’ Surprising messages from the Muse AI agent are unnerving Meta’s own employees, report says",
+        "summary": "In one example, a Meta staffer reported that Muse sent her a reminder on her personal phone to respond to a message from her sister on the encrypted messaging service Signal.",
+        "source": "Fortune",
+        "link": "https://fortune.com/2026/11/21/meta-employees-muse-ai-agent-extreme-privacy-violation-encrypted-signal-messages/",
+        "published": "Sat, 21 Nov 2026 17:28:35 +0000"
+      },
+      {
+        "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+        "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful i",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+        "published": "Sat, 21 Nov 2026 13:00:01 GMT"
+      },
+      {
+        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+        "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "published": "Fri, 20 Nov 2026 21:38:17 GMT"
+      },
+      {
+        "title": "What exactly is in the deal between the UK and the EU?",
+        "summary": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10 After months of on-off negotiations, leaks and late nights, the EU and UK have agreed  a 12-page statement  setting",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+        "published": "Fri, 20 Nov 2026 18:19:53 GMT"
+      },
+      {
+        "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+        "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A  Missouri  judge on Friday approved  Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German co",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+        "published": "Fri, 20 Nov 2026 23:42:43 GMT"
+      },
+      {
+        "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+        "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedford, Massachusetts. Its crew had spent the",
+        "source": "Guardian Business",
+        "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+        "published": "Fri, 20 Nov 2026 14:00:31 GMT"
+      },
+      {
+        "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+        "summary": "President Trump said Saturday he'd gladly work with Democrats to cap interest and fees on  credit cards , arguing that card companies simply make too much money now.  Why it matters:  Though some  argue  capping rates would save consumers billions of dollars a year, the  banking industry  is equally",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+        "published": "Sat, 21 Nov 2026 16:48:20 +0000"
+      },
+      {
+        "title": "Trump says FBI hack might expose Russia \"hoax\"",
+        "summary": "President Trump on Saturday said the reported hack of a crucial FBI database might have a silver lining — it could, he claimed, expose more details of what he called the \" Russia Russia Russia hoax .\" Why it matters:  The president remains laser-focused on many of his past  grievances about the FBI ",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+        "published": "Sat, 21 Nov 2026 15:55:01 +0000"
+      },
+      {
+        "title": "After historic Southern wins, Black organizers prepare a push for governing power",
+        "summary": "After years of being overlooked by national Democrats, Black organizers are using stunning  Southern election upsets  in the pursuit of something more lasting: a new generation of candidates who can win and govern. Why it matters:  Activists say the 2026 midterms proved Southern races long dismissed",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/21/black-organizers-southern-political-bench",
+        "published": "Sat, 21 Nov 2026 11:00:04 +0000"
+      },
+      {
+        "title": "Second judge to block Trump's contested D.C. arch",
+        "summary": "A second federal judge will block construction on President  Trump 's embattled arch set to be erected near  Arlington National Cemetery ,  multiple   outlets  reported Friday. Why it matters:  It represents yet another barrier to the multi-year project to build a  250-foot arch  that challengers sa",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+        "published": "Fri, 20 Nov 2026 21:32:29 +0000"
+      },
+      {
+        "title": "Congress gets a historic overhaul from every direction",
+        "summary": "Senate data includes members who served nonconsecutive terms; House data does not. Data:  House historian,   U.S. Senate ; Chart: Erin Davis/Axios Americans  want change , and they're about to get it: A perfect storm of congressional retirements, primary upsets, gerrymandering, flipped seats and law",
+        "source": "Axios",
+        "link": "https://www.axios.com/2026/11/20/house-senate-freshmen-class-largest-decades",
+        "published": "Fri, 20 Nov 2026 21:20:21 +0000"
+      },
+      {
+        "title": "The county at the heart of America's data center boom hits pause on new projects",
+        "summary": "Loudoun County in Virginia is the data center capital of the world. It's Board of Supervisors just paused new projects as it reviews its regulations.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/loudoun-county-virginia-data-center-alley-ai-boom-pause-2026-11",
+        "published": "2026-11-21T18:43:15Z"
+      },
+      {
+        "title": "I grew up with 5 siblings and raised 4 kids. The biggest lesson I learned is that fair doesn't always mean equal.",
+        "summary": "Growing up with five siblings taught me how to handle conflict, treat kids fairly, and know when to step back. I use those lessons with my four kids.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/large-family-six-siblings-lessons-parenting-four-children-2026-11",
+        "published": "2026-11-21T18:31:01Z"
+      },
+      {
+        "title": "A French billionaire hunter is taking his fight global after California tax defeat",
+        "summary": "Gabriel Zucman is now rallying politicians in Paris behind his campaign to tax the super-rich.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/french-billionaire-hunter-takes-fight-global-after-california-tax-defeat-2026-11",
+        "published": "2026-11-21T17:52:13Z"
+      },
+      {
+        "title": "Some of my friendships faded after I became a mom. The ones that lasted got stronger.",
+        "summary": "Becoming a mom showed me who actually wants to be in my life and who is okay just witnessing it from a distance.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/baby-motherhood-reshapes-changes-friendships-2026-11",
+        "published": "2026-11-21T16:42:01Z"
+      },
+      {
+        "title": "I tried Ina Garten's overnight mac and cheese. It's super easy, and one of the best dishes I've made for Thanksgiving.",
+        "summary": "Ina Garten says this is the \"creamiest, crustiest, most delicious mac and cheese\" she's ever had. The best part is that you can make it ahead.",
+        "source": "Business Insider",
+        "link": "https://www.businessinsider.com/ina-garten-overnight-mac-and-cheese-recipe-2026-11",
+        "published": "2026-11-21T15:56:02Z"
+      }
+    ],
+    "Strategy & Deep Analysis": [
+      {
+        "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+        "summary": "China’s AI stock trade, once a hot bet as the nation’s technology powerhouses raced to catch up with the US, has morphed into a losing strategy.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+        "published": "Sun, 22 Nov 2026 00:00:00 GMT"
+      },
+      {
+        "title": "Russian Cargo Ship Attacked By Drones in Gulf of Finland",
+        "summary": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+        "published": "Sat, 21 Nov 2026 11:44:46 GMT"
+      },
+      {
+        "title": "Anthropic Fails to Calm AI Jitters, Ditching the Kitchen for Thanksgiving",
+        "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Just Ice Tea Co-Founders Seth Goldman & Spike Mendelsohn, Seaport Research Partners Managing Direct",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/bloomberg-this-weekend-11-21-2026-video",
+        "published": "Sat, 21 Nov 2026 17:01:32 GMT"
+      },
+      {
+        "title": "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers",
+        "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg’s Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-21/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+        "published": "Sat, 21 Nov 2026 15:43:12 GMT"
+      },
+      {
+        "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
+        "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
+        "source": "Bloomberg",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+        "published": "Sat, 21 Nov 2026 15:31:22 GMT"
+      },
+      {
+        "title": "Alice Huang’s links to the chip underworld",
+        "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+        "published": "Sat, 21 Nov 2026 17:00:10 GMT"
+      },
+      {
+        "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
+        "summary": "A flat hierarchy and micromanagement can concentrate power dangerously at the top",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
+        "published": "Sun, 22 Nov 2026 05:00:06 GMT"
+      },
+      {
+        "title": "A rocky road to Irish unity",
+        "summary": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
+        "published": "Sun, 22 Nov 2026 05:00:14 GMT"
+      },
+      {
+        "title": "The ‘austere’ conservative poised to lead Spain with the far right",
+        "summary": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+        "published": "Sun, 22 Nov 2026 05:00:06 GMT"
+      },
+      {
+        "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+        "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+        "published": "Sun, 22 Nov 2026 05:00:06 GMT"
+      },
+      {
+        "title": "Bond yields are rising everywhere—except China",
+        "summary": "The Chinese central bank has cut interest rates despite itself",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+        "published": "Thu, 19 Nov 2026 10:04:37 +0000"
+      },
+      {
+        "title": "Europe tightens sanctions on Russia. America loosens them",
+        "summary": "The West’s sanctions regimes are pulling in opposite directions",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/19/europe-tightens-sanctions-on-russia-america-loosens-them",
+        "published": "Thu, 19 Nov 2026 10:03:23 +0000"
+      },
+      {
+        "title": "AI is swallowing maths. Is economics next?",
+        "summary": "The dismal science braces for disruption",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+        "published": "Thu, 19 Nov 2026 10:01:25 +0000"
+      },
+      {
+        "title": "Meet the European Central Bank’s new squad",
+        "summary": "A Spaniard, a German and a Frenchwoman",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/18/meet-the-european-central-banks-new-squad",
+        "published": "Wed, 18 Nov 2026 19:24:30 +0000"
+      },
+      {
+        "title": "Why startups still go public, eventually",
+        "summary": "Costly regulation is not a big deterrent to IPOs",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/17/why-startups-still-go-public-eventually",
+        "published": "Tue, 17 Nov 2026 18:38:26 +0000"
+      },
+      {
+        "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+        "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:26:00 -0500"
+      },
+      {
+        "title": "Comex Gold, Silver Settle Lower",
+        "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 14:01:00 -0500"
+      },
+      {
+        "title": "DeepSeek Won't Sink U.S. AI Titans",
+        "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 13:12:00 -0500"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk",
+        "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:27:00 -0500"
+      },
+      {
+        "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+        "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+        "source": "Wall Street Journal",
+        "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+        "published": "Mon, 27 Jan 2025 12:20:00 -0500"
+      }
+    ]
+  }
+}
